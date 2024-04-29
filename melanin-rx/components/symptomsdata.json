@@ -1,0 +1,23 @@
+[
+    {
+        "userId": "user123",
+        "symptoms": [
+            {"name": "Cough", "severity": "Mild", "duration": "3 days"},
+            {"name": "Fever", "severity": "High", "duration": "2 days"}
+        ]
+    },
+    {
+        "userId": "user456",
+        "symptoms": [
+            {"name": "Headache", "severity": "Moderate", "duration": "1 day"},
+            {"name": "Sneezing", "severity": "Low", "duration": "5 days"}
+        ]
+    },
+    {
+        "userId": "user789",
+        "symptoms": [
+            {"name": "Nausea", "severity": "Mild", "duration": "2 days"},
+            {"name": "Fatigue", "severity": "Moderate", "duration": "4 days"}
+        ]
+    }
+]
