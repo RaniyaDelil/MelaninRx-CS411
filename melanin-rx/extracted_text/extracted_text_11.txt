@@ -1,0 +1,1415 @@
+A Prospective Study of the Effect of
+Childbearing on Weight Gain in
+African-American Women
+
+Lynn Rosenberg,* Julie R. Palmer,* Lauren A. Wise,* Nicholas J. Horton,† Shiriki K. Kumanyika,‡ and
+Lucile L. Adams-Campbell§
+
+Abstract
+ROSENBERG, LYNN, JULIE R. PALMER, LAUREN
+A. WISE, NICHOLAS J. HORTON, SHIRIKI K.
+KUMANYIKA, AND LUCILE L. ADAMS-CAMPBELL.
+A prospective study of the effect of childbearing on weight
+gain in African-American women. Obes Res. 2003;11:
+1526 –1535.
+Objective: To prospectively assess the influence of bearing
+a first, second, or later child on weight gain among African-
+American women in the context of other risk factors.
+Research Methods and Procedures: Data were obtained in
+a prospective follow-up study of African-American women
+from across the U.S. who are participants in the Black
+Women’s Health Study. Postal questionnaires were used to
+collect baseline data in 1995 and follow-up data in 1997 and
+1999. Parous and nulliparous women (11,196) (21 to 39
+years old at baseline), of whom 1230 had a singleton birth
+during follow-up, are the subjects of the present analyses.
+We assessed change in BMI (kilograms per meter squared)
+in relation to childbearing during 4 years of follow-up, with
+use of multivariable linear regression to control for impor-
+tant risk factors.
+Results: During 4 years of follow-up, the BMI of partici-
+pants increased by an average of 1.6 kg/m2, equivalent to a
+weight gain of (cid:1)4.4 kg. Women who had a child during
+follow-up gained more weight than women who remained
+nulliparous, and those who had a first child gained more
+than those who had a second or later child. The weight gain
+
+Received for review May 5, 2003.
+Accepted in final form October 9, 2003.
+*Slone Epidemiology Center, Boston University, Boston, Massachusetts; †Department of
+Mathematics, Smith College, Northampton, Massachusetts; ‡Center for Clinical Epidemi-
+ology and Biostatistics, University of Pennsylvania School of Medicine, Philadelphia,
+Pennsylvania; and §Howard University Cancer Center, Washington, DC.
+Address correspondence to Lynn Rosenberg, Slone Epidemiology Center, Boston Univer-
+sity, 1010 Commonwealth Avenue, Boston, MA 02215.
+E-mail: lrosenberg@slone.bu.edu
+Copyright © 2003 NAASO
+
+1526 OBESITY RESEARCH Vol. 11 No. 12 December 2003
+
+associated with childbearing increased with increasing base-
+line BMI and was appreciable among heavier women. For
+example, among women with a baseline index of 36, the
+increase in BMI for women who bore a first child was 1.1
+kg/m2 more than that of nulliparous women, equivalent to a
+difference in weight gain of (cid:1)3.0 kg.
+Discussion: Childbearing is an important contributor to
+weight gain among African-American women.
+
+Key words: African American, parity, pregnancy,
+weight gain, women
+
+Introduction
+Obesity is epidemic in the United States (1–3). In 1999
+and 2000, 50% of African-American women were obese
+(BMI (cid:1) 30 kg/m2), and 15% were severely obese (BMI (cid:1)
+40), compared with 30% and 5%, respectively, of white
+women (1). The elevated prevalence of obesity among Af-
+rican-American women is present across all educational
+levels (4).
+
+Obesity-related risks among U.S. African-American
+women are clearly documented and striking (4 –10). Death
+rates from coronary heart disease and diabetes among Af-
+rican-American women are, respectively, 1.5 and 2.6 times
+those in white women (11). Longitudinal data have estab-
+lished the association of obesity with increased risks of
+coronary heart disease, hypertension, heart failure, diabetes,
+and premature death (8,12–16). Obesity is also associated
+with several cancers and a range of other conditions (3).
+
+The influence of childbearing on weight gain among
+African-American women is not well documented. Most
+studies of weight change after childbearing have lacked a
+comparison group and, thus, could not account for the gain
+that often occurs with aging (17). Only four reports from
+prospective studies with a comparison group have assessed
+changes in adiposity associated with childbearing (18 –21);
+the studies included (cid:1)4500 women, of whom fewer than
+
+Childbearing and Weight Gain in Black Women, Rosenberg et al.
+
+1000 were African American. In the two studies that in-
+cluded African-American women, the Coronary Artery Risk
+Development in Young Adults (CARDIA)1 study (20) and
+a follow-up of participants in the first National Health and
+Nutrition Examination Survey (21), African-American and
+white primiparas gained (cid:1)3 and 1.8 kg, respectively, more
+than nulliparas for 5 (20) or 10 (21) years of follow-up;
+multiparas did not gain more than nulliparas (20).
+
+In view of the magnitude of the health problems that
+obesity poses, additional information is needed on causes of
+weight gain among African-American women. We prospec-
+tively assessed the influence of bearing a first, second, or
+later child on weight gain in U.S. African-American
+women, using a comparison group of nulliparous women.
+We also assessed other potential influences on weight gain,
+such as sedentary lifestyle. Based on data from the Black
+Women’s Health Study (BWHS), the present study is the
+largest yet of African-American women and allowed for a
+thorough examination of the influence of childbearing on
+weight gain in the context of other risk and modifying
+factors.
+
+Research Methods and Procedures
+The BWHS began in 1995 when 64,500 U.S. African-
+American women 21 to 69 years old enrolled in a long-term
+health study of African-American women by completing
+mail health questionnaires (22,23). Over 80% of the respon-
+dents were from California, the District of Columbia, Geor-
+gia, Illinois, Indiana, Louisiana, Maryland, Massachusetts,
+Michigan, New Jersey, New York, South Carolina, and
+Virginia. The questionnaires elicited information about
+many factors, including medical and reproductive history,
+height, current weight, weight at age 18, exercise, cigarette
+smoking, and diet (using a 60-item food frequency ques-
+tionnaire) (24). Height was reported in feet and inches and
+weight in pounds. After a run-in phase, 59,000 women have
+been followed through biennial follow-up mail question-
+naires that obtained information on weight, births, smoking,
+exercise, incident disease, and contraception, among other
+factors. The 1997 and 1999 questionnaires were completed
+by 91% and 87%, respectively, of the final 1995 cohort.
+
+The present study is based on the 4-year follow-up period
+from 1995 to 1999 and used data from the 1995, 1997, and
+1999 questionnaires. The 1997 and 1999 questionnaires
+obtained data on births in the two preceding years, 1995 to
+1997 and 1997 to 1999, respectively, and pregnancy status
+at the time of questionnaire completion. To clearly assess
+the effect of childbearing and allow sufficient time for
+women to return to a stable weight after they had borne a
+child, we included in the childbearing group only women
+
+1 Nonstandard abbreviations: CARDIA, Coronary Artery Risk Development in Young
+Adults; BWHS, Black Women’s Health Study; CI, confidence interval.
+
+who had one birth in 1995 to 1997 and none in 1997 to
+1999. Potential subjects were 11,637 women who met the
+following criteria: 21 to 39 years of age at entry; completed
+the 1995, 1997, and 1999 questionnaires; reported height on
+the 1995 questionnaire; did not report the occurrence of
+cancer on any of the questionnaires; not pregnant at the time
+of completion of any of the questionnaires; and nulliparous
+or parous in 1995 and had a singleton birth in 1995 to 1997
+and none in 1997 to 1999, or nulliparous from 1995 to 1999.
+We excluded women whose weight was missing in 1995 or
+1999 (256 women), who were (cid:2)95 pounds in 1995 (23
+women), more than 300 pounds in 1995 (127 women), or
+who had gastric surgery (35 women). The final sample,
+11,196 women, included 9966 who remained nulliparous,
+598 nulliparous women who had a first child, 387 primip-
+arous women who had a second child, and 245 women with
+two or more children who had another child during follow-
+up.
+
+We fit multivariable linear regression models to assess
+the relation of childbearing and other factors to 1999 BMI
+using SAS version 8.2 software (SAS/STAT Users’ Man-
+ual; SAS Institute Inc., Cary, NC), with women who re-
+mained nulliparous serving as the comparison group. When
+we tested for interactions of parity with other variables by
+including interaction terms in the regression model, we
+found an interaction between parity and 1995 BMI (as a
+continuous variable) (p (cid:2) 0.001). The relation of 1995 BMI
+to 1999 BMI was not linear, and the addition of a quadratic
+term for 1995 BMI was highly significant (p (cid:2) 0.001).
+Thus, in addition to terms in the model for the main effects
+of 1995 BMI (as a continuous variable) and parity, we
+included a linear interaction term between parity and 1995
+BMI (continuous) and a quadratic term for 1995 BMI (con-
+tinuous). The adjusted R2 for the final multivariable model
+was 0.845. To assess goodness of fit for the final model, we
+plotted Studentized residuals vs. predicted values and par-
+tial regression plots. Visual inspection of these plots showed
+no evidence of lack of fit.
+
+We included other factors in the linear regression that
+were associated both with parity and with 1999 BMI—age
+at menarche, BMI at age 18, marital status, cigarette smok-
+ing, vigorous physical activity, television or video watch-
+ing, medication-treated depression, oral contraceptive use,
+and use of levonorgestrel implants or medroxyprogesterone
+acetate injections. The data for these factors were derived
+from the 1999 questionnaire except for age at menarche,
+BMI at age 18, marital status, and years of education, which
+were derived from the 1995 questionnaire. Terms were not
+included for intentional weight loss of at least 15 pounds
+(1999) and total caloric intake and percent calories from fat
+(1995) because these were unrelated to 1999 BMI in mul-
+tivariate analyses (data not shown). In addition, a term was
+not included for teenage birth (birth before age 20) because
+this variable was not associated with 1999 BMI.
+
+OBESITY RESEARCH Vol. 11 No. 12 December 2003 1527
+
+ 15508528, 2003, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1038/oby.2003.204 by Howard University Louis Stokes, Wiley Online Library on [30/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseChildbearing and Weight Gain in Black Women, Rosenberg et al.
+
+The results from the multivariable linear regression anal-
+yses were unchanged after exclusion of women who had
+miscarriages during 1995 to 1999. Endometriosis or infer-
+tility problems could have affected women’s ability to bear
+children. Results were unchanged after the exclusion of
+women with endometriosis or infertility at baseline from the
+comparison group of nulliparous women.
+
+We assessed whether having a child during follow-up
+influenced vigorous physical activity in 1999 in linear re-
+gression analyses, in which the outcome variable was hours
+per week of vigorous activity in 1999, and the predictors
+were hours per week of vigorous activity in 1995, parity at
+the end of follow-up, and age in 1995. The categories of
+vigorous activity in 1999 were (in hours per week): none,
+(cid:2)1, 1 to 2, 3 to 4, 5 to 6, 7 to 9, and 10(cid:3), and they were
+coded as 0, 0.5, 1.5, 3.5, 5.5, 8, and 10. In 1995, 1 and 2
+hours a week were separate categories; they were coded as
+1 and 2.
+
+We assessed the validity of self-reported weight and
+height among 115 participants from the Washington, D.C.
+area who participated in a physical activity validation study
+conducted by Dr. L. L. Adams-Campbell at Howard Uni-
+versity Cancer Center. The participants were weighed and
+measured by clinic personnel in 2000 or 2001. The Spear-
+man correlation coefficient for self-reported weight (mean
+175.3 pounds) with measured weight (mean 180.7 pounds)
+was 0.97. The Spearman correlation coefficient for height
+reported on the 1995 questionnaire (mean 64.4 inches) with
+measured height (mean 64.0 inches) was 0.93.
+
+Results
+
+Between 1995 and 1999,
+
+the mean BMI among the
+11,196 BWHS participants increased by 1.6 kg/m2 from
+26.5 kg/m2 to 28.1 kg/m2. There was a loss or no change in
+weight for 27% of participants. BMI increased by 1.4 kg/m2
+or more ((cid:1)3.8 kg or more in weight) for one-half of the
+participants and 4.9 kg/m2 or more ((cid:1)13.5 kg or more in
+weight) for 10%. The mean BMI increase was 2.0, 1.7, 1.5,
+and 1.3 kg/m2 for women 21 to 24, 25 to 29, 30 to 34, and
+35 to 39 at entry, respectively. The overall proportion of
+women who were obese increased from 24% to 32%. In
+1999, that proportion ranged from 26% among women 21 to
+24 years of age at entry to 37% among women 35 to 39.
+
+Childbearing
+
+As shown in Table 1, childbearing was associated with
+age: 20% of nulliparous women were 21 to 25 years of age
+in 1995 compared with 18% of women who had a first child,
+10% of women who had a second child, and 7% of women
+who had a third or later child. Over one-half of parous
+women were married compared with 16% of nulliparous
+women. Parity decreased with increasing education. Parous
+
+1528 OBESITY RESEARCH Vol. 11 No. 12 December 2003
+
+women had lower BMIs at age 18, participated less in
+vigorous physical activity, and used hormonal contraception
+less than nulliparous women. Weight gain during the index
+pregnancy was greater for women who had a first child than
+for women who had a second or later child.
+
+For comparison with earlier studies, we first assessed parity-
+related weight changes in multivariable linear regression anal-
+yses without an interaction term for parity with 1995 BMI.
+From 1995 to 1999, the BMI of women who became primap-
+arous increased by an estimated 0.4 kg/m2 [95% confidence
+interval (CI), 0.2, 0.6] more than that of nulliparous women;
+the BMI of women who had a second child increased by 0.3
+kg/m2 (95% CI, (cid:4)0.03, 0.6), and that of women who had a
+third or later child increased by 0.3 kg/m2 (95% CI, (cid:4)0.03,
+0.7) more than that of nulliparous women.
+
+When we included an interaction term for parity with
+1995 BMI, we found that parity-associated changes in BMI
+differed according to 1995 BMI. As shown in Figure 1, the
+BMI of women who had a child increased more than that of
+nulliparous women, and the increase was greatest for
+women who had a first child. In addition, the magnitude of
+the difference in BMI change between parous women and
+nulliparous women increased as baseline BMI increased.
+
+Predicted values of parity-related changes in BMI during
+follow-up based on the model with an interaction term are
+given in Table 2 for women with characteristics represen-
+tative of the study cohort. We chose women 25 to 29 years
+old because this was a common age for childbearing; the
+values selected for other factors in the model, such as
+physical activity, represent the most common values in the
+cohort. We estimated BMI changes for women with base-
+line BMIs of 23, 27, 32, and 36 kg/m2 to represent women
+who were of normal weight, overweight, obese, or more
+obese, respectively. Table 2 indicates that as baseline BMI
+increased, the BMI gain associated with childbearing in-
+creased. For example, among women with a baseline BMI
+of 23, the estimated BMI increase was 1.7 kg/m2 among
+nulliparous women and 1.9 kg/m2 among women who had
+their first child; by subtraction, the BMI gain associated
+with having a first child was 0.2 kg/m2. However, among
+women with a baseline BMI of 36, the predicted BMI
+increase was 1.3 kg/m2 in nulliparous women and 2.4 kg/m2
+among women who had their first child; by subtraction, the
+BMI gain associated with bearing a first child was 1.1
+kg/m2. Results were similar when women of other ages and
+with other characteristics were assessed.
+
+Table 2 also gives predicted values of weight change in
+kilograms from the model (shown in parentheses in the
+table). For women with a BMI of 23 in 1995, the predicted
+change in weight for nulliparous women was 4.6 kg, com-
+pared with 5.2 kg for women who had a first child, a
+difference of 0.6 kg. The comparable results for women
+whose BMI at baseline was 36 were a weight gain of 3.6 kg
+
+ 15508528, 2003, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1038/oby.2003.204 by Howard University Louis Stokes, Wiley Online Library on [30/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseChildbearing and Weight Gain in Black Women, Rosenberg et al.
+
+Table 1. Selected characteristics (percentage) of BWHS participants according to parity at the end of follow-up
+
+Characteristic
+
+Parity at the end of follow-up*
+
+Nulliparous
+(N (cid:1) 9966)
+%†
+
+Parity 1
+(N (cid:1) 598)
+%†
+
+Parity 2
+(N (cid:1) 387)
+%†
+
+Parity 3(cid:2)
+(N (cid:1) 245)
+%†
+
+Age in 1995
+21 to 25
+25 to 29
+30 to 34
+35 to 39
+
+Age at menarche
+
+(cid:2)10
+11
+12 to 13
+14
+15(cid:3)
+Missing
+BMI at age 18
+
+(cid:2)20
+20 to 24
+25 to 29
+30(cid:3)
+Missing
+BMI in 1995
+
+(cid:2)20
+20 to 24
+25 to 29
+30(cid:3)
+
+Education (years)
+
+(cid:2)12
+13 to 15
+16
+17(cid:3)
+Missing
+Marital status
+
+Married/living with partner
+Separated/divorced/widowed
+Single
+Missing
+
+Current smoker
+
+Yes
+No
+Missing
+
+Vigorous physical activity
+
+None
+(cid:2)5 hours/week
+5(cid:3) hours/week
+Missing
+
+20.2
+31.2
+27.9
+20.7
+
+12.7
+18.7
+52.3
+8.9
+6.8
+0.6
+
+34.0
+45.9
+13.3
+6.0
+0.7
+
+10.1
+40.9
+24.9
+24.1
+
+6.4
+30.8
+35.5
+26.2
+1.0
+
+16.0
+6.9
+76.4
+0.7
+
+10.2
+89.0
+0.8
+
+33.0
+53.0
+12.7
+1.4
+
+17.6
+40.1
+30.6
+11.7
+
+11.0
+17.9
+53.0
+10.0
+7.7
+0.3
+
+37.0
+48.3
+10.4
+4.2
+0.2
+
+9.2
+47.2
+25.2
+18.4
+
+7.0
+31.1
+36.8
+23.7
+1.3
+
+53.7
+4.0
+41.0
+1.3
+
+7.7
+91.8
+0.5
+
+42.1
+46.0
+10.4
+1.5
+
+10.3
+34.1
+40.0
+15.5
+
+11.9
+19.1
+51.4
+9.3
+7.5
+0.8
+
+40.6
+45.5
+10.6
+2.3
+1.0
+
+7.7
+42.4
+29.5
+20.4
+
+10.6
+36.4
+34.4
+17.8
+0.8
+
+69.2
+6.5
+22.7
+1.5
+
+9.0
+89.9
+1.0
+
+40.3
+46.0
+11.6
+2.1
+
+6.5
+26.1
+38.8
+28.6
+
+8.9
+18.0
+51.0
+9.8
+12.2
+0.0
+
+42.9
+44.9
+9.0
+2.9
+0.4
+
+6.9
+35.1
+37.1
+20.8
+
+18.0
+44.9
+26.1
+11.0
+0.0
+
+67.4
+16.3
+15.1
+1.2
+
+12.6
+85.7
+1.6
+
+44.9
+42.0
+6.9
+6.1
+
+OBESITY RESEARCH Vol. 11 No. 12 December 2003 1529
+
+ 15508528, 2003, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1038/oby.2003.204 by Howard University Louis Stokes, Wiley Online Library on [30/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseChildbearing and Weight Gain in Black Women, Rosenberg et al.
+
+Table 1. (continued)
+
+Characteristic
+
+Watching TV or videos
+
+(cid:2)1 hours/day
+1 to 4 hours/day
+5(cid:3) hours/day
+Missing
+
+Current use of hormonal contraception
+
+None
+Oral contraceptives
+Injectables or implants
+
+Depression treated with medication
+
+Yes
+No
+
+Weight gain in pregnancy
+
+0 to 24 lbs.
+25 to 34 lbs.
+35(cid:3) lbs.
+Missing
+
+Parity at the end of follow-up*
+
+Nulliparous
+(N (cid:1) 9966)
+%†
+
+Parity 1
+(N (cid:1) 598)
+%†
+
+Parity 2
+(N (cid:1) 387)
+%†
+
+Parity 3(cid:2)
+(N (cid:1) 245)
+%†
+
+6.9
+73.4
+19.0
+0.7
+
+62.1
+36.3
+1.6
+
+2.8
+97.2
+
+8.7
+75.9
+15.0
+0.3
+
+55.7
+41.0
+3.3
+
+1.3
+98.7
+
+32.6
+31.9
+33.6
+1.8
+
+10.6
+76.0
+12.4
+1.0
+
+62.3
+35.1
+2.6
+
+1.3
+98.7
+
+37.7
+33.3
+27.1
+1.8
+
+11.0
+71.4
+16.3
+1.2
+
+80.0
+16.7
+3.3
+
+1.6
+98.4
+
+40.0
+33.5
+24.5
+2.0
+
+* Nulliparous, no births reported; primiparous, nulliparous in 1995, reported one birth in 1995 to 1997; parity 2, parity 1 in 1995, reported
+one birth in 1995 to 1997; parity 3(cid:3), parity 2 or more in 1995, reported one birth in 1995 to 1997.
+† Column percents: Due to rounding error, percentages may not sum to 100%.
+
+for nulliparous women and 6.6 kg for women who had a
+first child, a difference of 3.0 kg. Results were similar when
+the data were stratified according to age at baseline, 21 to
+29, and 30(cid:3).
+
+To assess whether weight gain during the index preg-
+nancy was related to BMI gain, we carried out linear re-
+gression analyses confined to the women who had a child
+during follow-up. BMI increases for the categories of
+weight gain during pregnancy of 25 to 34 pounds and (cid:1)35
+pounds were 0.2 kg/m2 (95% CI, (cid:4)0.2, 0.6) and 0.5 kg/m2
+(95% CI, 0.09, 0.9) more than the increase among women
+who gained (cid:2)25 pounds during pregnancy. There were no
+significant interactions of weight gain during pregnancy
+with age, parity, or 1995 BMI.
+
+Women generally reported exercising less in 1999 than in
+1995. To assess whether women who had a child during
+follow-up decreased exercise more than women who re-
+mained nulliparous, we assessed the relation of parity to
+hours of exercise per week in 1999 in linear regression
+analyses, taking into account hours of exercise per week and
+
+Figure 1: Predicted change in BMI (kilograms per meter squared)
+relative to change in nulliparous women between 1995 and 1999
+by parity at the end of follow-up and 1995 BMI.
+
+1530 OBESITY RESEARCH Vol. 11 No. 12 December 2003
+
+ 15508528, 2003, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1038/oby.2003.204 by Howard University Louis Stokes, Wiley Online Library on [30/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseChildbearing and Weight Gain in Black Women, Rosenberg et al.
+
+Table 2. Predicted values of BMI change (kilograms per meter squared) and weight change (kilograms) between
+1995 and 1999 for parous and nulliparous women with selected characteristics*, given specific values of 1995 BMI
+
+Change in BMI (and weight) between 1995 and 1999
+
+BMI in 1995
+
+Parity at
+end of
+follow-up
+
+Nulliparous
+Parity 1
+Parity 2
+Parity 3(cid:3)
+
+23
+
+27
+
+32
+
+36
+
+BMI
+change
+
+(Weight)
+change
+
+BMI
+change
+
+(Weight)
+change
+
+BMI
+change
+
+(Weight)
+change
+
+BMI
+change
+
+(Weight)
+change
+
+1.7
+1.9
+1.8
+1.8
+
+(4.6)
+(5.2)
+(4.9)
+(5.0)
+
+1.8
+2.2
+2.1
+2.1
+
+(4.8)
+(6.2)
+(5.7)
+(5.7)
+
+1.6
+2.4
+2.2
+2.2
+
+(4.4)
+(6.7)
+(6.1)
+(5.8)
+
+1.3
+2.4
+2.1
+2.1
+
+(3.6)
+(6.6)
+(5.8)
+(5.4)
+
+* Women 25 to 29 years old at entry, with the following characteristics: age at menarche 12 to 13 years old, 16 years of education,
+nonsmoker, single, BMI 20 to 24 at age 18, 1 to 4 hours of vigorous activity/week, 1 to 4 hours of watching TV or videos/day, nonuse of
+hormonal contraception, and no medication-treated depression.
+
+age in 1995. The regression coefficients for parity 1, 2, and
+3(cid:3), relative to nulliparity, were (cid:4)0.4 (95% CI, (cid:4)0.6,
+(cid:4)0.2), (cid:4)0.2 (95% CI, (cid:4)0.4, 0.08), and (cid:4)0.3 (95% CI,
+(cid:4)0.6, (cid:4)0.001), respectively.
+
+Other Factors
+
+Results from the multivariable regression analysis on the
+relation of factors other than parity to BMI in 1999 are
+given in Table 3. The reference category for each of the
+factors is the same as that used to derive the results given in
+Table 2. Women under age 30 had larger BMI increases
+than older women. BMI at age 18 and exercise were
+strongly related to 1999 BMI: The BMIs of women who
+were obese at age 18 increased by an estimated 0.9 kg/m2
+more than those of women whose BMI was 20 to 24 at age
+18, and BMI increased 0.4 kg/m2 for women who did not
+exercise at all relative to those who exercised (cid:2)5 hours per
+week and 1.1 kg/m2 relative to those who exercised at least
+5 hours per week. Increases in BMI in the range of 0.1 to 0.6
+were associated with use of injectable or implanted proges-
+tin contraceptives, treatment for depression with medica-
+tion, nonsmoking, early age at menarche, watching televi-
+sion or videos, being single, and lower educational
+attainment.
+
+Discussion
+Over a 4-year period of follow-up of women 21 to 39
+years old at entry to the BWHS, BMI increased by an
+average of 1.6 kg/m2, or 0.4 kg/m2 per year, equivalent to a
+weight gain of (cid:1)1.1 kg/year. The proportion of women who
+were obese increased from 24% in 1995 to 32% in 1999.
+
+These findings are consistent with other data on U.S. Afri-
+can-American women (1,25). For example, in a 10-year
+follow-up of women who were 18 to 30 years of age at entry
+to the CARDIA study in 1985 to 1986, African-American
+women gained an average of 1.2 kg/year (25). White
+women in the CARDIA study gained 0.7 kg/year.
+
+Childbearing influenced BMI gain among BWHS partic-
+ipants. The BMI of women who had a child increased more
+than that of nulliparous women, and women who had a first
+child gained more weight than those who had a second or
+later child. The increase associated with childbearing be-
+came larger as baseline BMI increased and was appreciable
+among the obese women. For example, among women 25 to
+29 years old with a baseline BMI of 36, the BMI increase of
+those who had a first child was an estimated 1.1 kg/m2 more
+than the increase in nulliparous women, equivalent to a
+difference in weight gain of (cid:1)3.0 kg. Whether there is a
+similar relation between childbearing and baseline BMI in
+white women is not known: The CARDIA and National
+Health and Nutrition Examination Survey studies (20,21)
+indicated that primiparas, but not women with higher parity,
+gained more weight than nulliparous women, but did not
+assess possible interactions with baseline BMI. In contrast
+to predicted weight gain among parous women, predicted
+weight gain declined slightly with increasing BMI among
+nulliparous women in the BWHS. There was no evidence
+that the latter was a cohort effect as the decline was evident
+both among women (cid:2)30 and those (cid:1)30 years of age at
+baseline.
+
+It seems reasonable to infer that earlier childbearing (26),
+greater weights at the beginning of the childbearing years
+(1), and greater childbearing-associated weight gain among
+
+OBESITY RESEARCH Vol. 11 No. 12 December 2003 1531
+
+ 15508528, 2003, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1038/oby.2003.204 by Howard University Louis Stokes, Wiley Online Library on [30/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseChildbearing and Weight Gain in Black Women, Rosenberg et al.
+
+Table 3. Regression coefficients for BMI change (kilograms per meter squared) between 1995 and 1999 for
+variables other than childbearing
+
+Variable
+
+Regression coefficient ((cid:3))*
+
+Age in 1995
+
+(cid:2)25
+25 to 29
+30 to 34
+35 to 39
+
+Age at menarche
+
+(cid:2)10
+11
+12 to 13
+14
+15(cid:3)
+
+BMI at age 18
+
+(cid:2)20.0
+20.0 to 24.9
+25.0 to 29.9
+30.0(cid:3)
+
+Education (years)
+
+(cid:2)12
+13 to 15
+16
+17(cid:3)
+
+Marital Status
+
+Married/living with partner
+Separated/divorced/widowed
+Single
+
+Current smoker
+
+No
+Yes
+
+Vigorous physical activity
+
+None
+(cid:2)5 hours/week
+5(cid:3) hours/week
+
+Watching TV or videos
+
+(cid:2)1 hour/day
+1 to 4 hours/day
+5(cid:3) hours/day
+
+Current use of hormonal contraception
+
+None
+Oral contraceptives
+Injectables or implants
+
+Depression treated with medication
+
+No
+Yes
+
+0.1
+Referent
+(cid:4)0.2
+(cid:4)0.3
+
+0.3
+0.2
+Referent
+0.01
+(cid:4)0.1
+
+(cid:4)0.1
+Referent
+0.1
+0.9
+
+0.01
+0.2
+Referent
+(cid:4)0.1
+
+(cid:4)0.4
+(cid:4)0.3
+Referent
+
+Referent
+(cid:4)0.5
+
+0.4
+Referent
+(cid:4)0.7
+
+(cid:4)0.1
+Referent
+0.3
+
+Referent
+0.1
+0.6
+
+Referent
+0.5
+
+* Regression coefficient represents change in BMI during 1995 to 1999; a negative value denotes weight loss.
+
+1532 OBESITY RESEARCH Vol. 11 No. 12 December 2003
+
+95% CI
+
+0.1, 0.2
+
+(cid:4)0.3, (cid:4)0.03
+(cid:4)0.4, (cid:4)0.1
+
+0.2, 0.5
+0.02, 0.3
+
+(cid:4)0.2, 0.2
+(cid:4)0.3, 0.1
+
+(cid:4)0.2, 0.03
+
+(cid:4)0.06, 0.3
+0.6, 1.2
+
+(cid:4)0.2, 0.2
+0.03, 0.3
+
+(cid:4)0.3, (cid:4)0.002
+
+(cid:4)0.6, (cid:4)0.3
+(cid:4)0.3, 0.1
+
+(cid:4)0.6, (cid:4)0.3
+
+0.3, 0.5
+
+(cid:4)0.8, (cid:4)0.5
+
+(cid:4)0.3, 0.08
+
+0.2, 0.5
+
+0.0, 0.2
+0.2, 1.0
+
+0.2, 0.8
+
+ 15508528, 2003, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1038/oby.2003.204 by Howard University Louis Stokes, Wiley Online Library on [30/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseChildbearing and Weight Gain in Black Women, Rosenberg et al.
+
+African-American women contribute to the higher preva-
+lence of obesity in African-American women than in white
+women.
+
+Gestational weight gain has increased among American
+women in recent years, in line with recommendations aimed
+at reducing the number of low-birth weight babies (27,28).
+Previous prospective studies with comparison groups did
+not collect data on weight gain during pregnancy. Studies
+without comparison groups consistently suggest that greater
+weight gain during pregnancy is associated with greater
+subsequent weight retention (29 –35). BWHS results agree
+with this finding. Thus, weight gain of 35 pounds or more
+during pregnancy may improve the health of the baby but
+might also have an adverse impact on the subsequent weight
+of some mothers.
+
+Weight retention after childbirth may be the result of
+biologic changes, such as increased leptin levels (36) or
+changed behavior. Our finding of a greater decrease in
+exercise during the follow-up period among women who
+bore a child than among nulliparous women supports the
+latter explanation. We have no data on biologic changes.
+
+Low level of exercise was a strong predictor of weight
+gain in the BWHS, in accord with many studies (37). We
+found no association of total caloric intake and the percent
+of calories from fat in 1995 with weight gain. In a validation
+study conducted within the BWHS, the food frequency
+questionnaire used to measure dietary intake in 1995 was a
+poor indicator of total calories but a relatively good indica-
+tor of percentage of calories from fat (38). The small excess
+in energy intake needed to foster gradual weight gain is
+probably beyond the sensitivity of food questionnaires gen-
+erally (39). In addition, we had no data on diet in 1999 and
+did not assess dietary intake during and after pregnancy. In
+line with previous results, smokers gained less weight than
+nonsmokers (40). The small BMI increase associated with
+oral contraceptive use and the larger gain among women
+who used injectable or implanted progestin contraceptives
+are known side effects of these contraceptives (41). BWHS
+participants who reported a history of medication-treated
+depression at baseline gained more weight than women who
+did not so report; this gain could be due to the depression,
+medication, or both (42,43).
+
+The BMI of women who reached menarche at age 10 or
+earlier increased more than that of women whose menarche
+occurred later. In addition, the greater a woman’s BMI at
+age 18, the greater was the weight gain from 1995 to 1999.
+These results suggest that the trajectory toward overweight
+begins in puberty, if not earlier, in accord with national data
+showing African-American/white differences in weight in
+females from childhood onward (3,44). Interventions to
+interrupt this trajectory need to start well before adulthood.
+The present study has several strengths. The prospective
+follow-up design increased accuracy and minimized report-
+ing bias relative to studies in which the data are recalled.
+
+The potential for material selection bias was small because
+follow-up rates were satisfactory. The study is much larger
+than any previous study of childbearing and weight gain in
+African-American women. The use of a comparison group
+of nulliparous women took into account the weight change
+that may accompany aging. Important potential confound-
+ing variables were controlled, and the influence of effect
+modifiers was assessed. Most weight gain during pregnancy
+is lost within the year after the birth (18). Our study design
+allowed sufficient time after the birth, at least 2 years, for
+the mother’s weight to stabilize. In addition, limiting con-
+sideration of the effects of childbearing to women who had
+only one child during follow-up eliminated the confounding
+effects of other births.
+
+A limitation is that weights and heights in the present
+study were self-reported. However, a validation study dem-
+onstrated excellent correlations between measured and self-
+reported weight and height among BWHS participants.
+Random errors in reporting or systematic underreporting of
+weight by the heavier women would have diluted associa-
+tions with weight gain. Women who weighed more than 300
+pounds at baseline were excluded to avoid distortion of the
+results by a relatively small number of women with outlying
+values of weight. That exclusion could also have resulted in
+underestimation of associations with weight gain. A poten-
+tial bias could have resulted if women who were excluded
+because of missing values on weight differed from the
+included women. However, because only (cid:1)2% of potential
+participants in the current analyses were excluded for this
+reason, any influence on the results would have been small.
+We had no information on lactation after the index preg-
+nancy. However, although women who lactate for more
+than several months may lose weight after a birth faster than
+women who do not, most evidence indicates that lactation
+does not influence subsequent persistent weight retention
+(45,46).
+
+Participants in the BWHS have higher educational attain-
+ment, on average, than African-American women nation-
+ally. Almost all BWHS participants (97%) have completed
+high school or a higher level of education, compared with
+(cid:1)83% of U.S. African-American women of the same ages
+nationally (47). Because higher educational attainment is
+associated with more exercise and lower weight (48), it is
+possible that the present results underestimate the contribu-
+tion of childbearing to weight gain in the less educated
+African-American women who were not eligible for inclu-
+sion in the BWHS.
+
+In summary, the present data indicate that childbearing
+among African-American women increases weight gain.
+The childbearing-related gain increases as baseline BMI
+increases and accounts for an appreciable part of the total
+gain among heavier women. Interventions to prevent obe-
+sity in African-American women should discourage exces-
+
+OBESITY RESEARCH Vol. 11 No. 12 December 2003 1533
+
+ 15508528, 2003, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1038/oby.2003.204 by Howard University Louis Stokes, Wiley Online Library on [30/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseChildbearing and Weight Gain in Black Women, Rosenberg et al.
+
+sive weight gain during pregnancy and encourage weight
+loss after the pregnancy, particularly among women who are
+already overweight (49 –51).
+
+Acknowledgments
+This work was supported by National Cancer Institute
+Grant CA56420 and by Association of Schools of Public
+Health Grant S324-16/18 given through the Association of
+Schools of Public Health/Centers for Disease Control and
+Prevention/Agency for Toxic Substance and Disease Reg-
+istry Cooperative Agreement. This work could not have
+been done without the dedication of the participants in the
+BWHS.
+
+References
+1. Flegal KM, Carroll MD, Ogden CL, Johnson CL. Preva-
+lence and trends in obesity among US adults, 1999 –2000.
+JAMA. 2002;288:1723–7.
+
+2. Freedman DS, Khan LK, Serdula MK, Galuska DA,
+Dietz WH. Trends and correlates of class 3 obesity in the
+United States from 1990 through 2000. JAMA. 2002;288:
+1758 – 61.
+
+3. U.S. Department of Health and Human Services. The Sur-
+geon General’s Call to Action to Prevent and Decrease Over-
+weight and Obesity. Rockville, MD: U.S. Department of
+Health and Human Services, Public Health Service, Office of
+the Surgeon General; 2001.
+
+4. Winkleby MA, Kraemer HC, Ahn DK, Varady AN. Ethnic
+and socioeconomic status differences in cardiovascular dis-
+ease risk factors. Findings for women from the Third National
+Health and Nutrition Examination Survey. JAMA. 1998;280:
+356 – 62.
+
+5. Kumanyika S. Obesity in black women. Epidemiol Rev.
+
+1987;8:31–50.
+
+6. American Heart Association. 1998 Heart and Stroke Sta-
+tistical Update. Dallas TX, American Heart Association;
+1998.
+
+7. Cowie CC, Harris MI, Silverman RE, Johnson EW, Rust
+KF. Effect of multiple risk factors on differences between
+blacks and whites in the prevalence of non-insulin-dependent
+diabetes mellitus in the United States. Am J Epidemiol. 1993;
+137:719 –32.
+
+8. Cornoni-Huntley J, LaCroix AZ, Havlik RJ. Race and sex
+differentials in the impact of hypertension in the United States:
+The National Health and Nutrition Examination Survey I
+Epidemiologic Follow-up Study. Arch Intern Med. 1989;149:
+780 –7.
+
+9. Gillum RF, Mussolino ME, Madans JH. Coronary heart
+disease incidence and survival in African American women
+and men. The NHANES I Epidemiologic Follow-up Study.
+Ann Intern Med. 1997;127:111– 8.
+
+10. Ernst ND, Obarzanek E, Clark MB, Briefel RR, Brown
+CD, Donato K. Cardiovascular health risks related to over-
+weight. J Am Diet Assoc. 1997;97(suppl):S47–51.
+
+11. Ohare WP, Pollard KM, Mann TL, Kent MM. African
+
+Americans in the 1990s. Popul Bull. 1991;46:1–38.
+
+12. Gillum RF. Epidemiology of heart failure in the United
+
+States. Am Heart J. 1993;126:1042–7.
+
+1534 OBESITY RESEARCH Vol. 11 No. 12 December 2003
+
+13. Lipton RB, Liao Y, Cao G, Cooper RS, McGee D. Deter-
+minants of incident non-insulin-dependent diabetes mellitus
+among blacks and whites in a national sample. Am J Epide-
+miol. 1993;138:826 –39.
+
+14. Folsom AR, Stevens J, Schreiner PJ, McGovern PG. Body
+mass index, waist/hip ratio, and coronary heart disease inci-
+dence in African Americans and whites: Atherosclerosis Risk
+in Communities Study Investigators. Am J Epidemiol. 1998;
+148:1187–94.
+
+15. Gillum RF, Mussolino ME, Madans JH. Body fat distribu-
+tion and hypertension incidence in women and men: The
+NHANES I Epidemiologic Follow-up Study. Int J Obes. 1998;
+22:127–34.
+
+16. Durazo-Arvizu RA, McGee DL, Cooper RS, Liao Y, Luke
+A. Mortality and optimal body mass index in a sample of the
+US population. Am J Epidemiol. 1998;147:739 – 49.
+
+17. Gunderson EP, Abrams B. Epidemiology of gestational
+weight gain and body weight changes after pregnancy. Epi-
+demiol Rev. 1999;21:261–75.
+
+18. Williamson DF, Madans J, Pamuk E, et al. A prospective
+study of childbearing and 10-year weight gain in US white
+women 25 to 45 years of age. Int J Obes. 1994;18:561–9.
+19. Rookus M, Rokebrand P, Burema J, et al. The effect of
+pregnancy on the body mass index 9 months postpartum in 49
+women. Int J Obes. 1987;11:609 –18.
+
+20. Smith DE, Lewis CE, Caveny JL, et al. Longitudinal
+changes in adiposity associated with pregnancy: The CARDIA
+Study: Coronary Artery Risk Development in Young Adults
+Study. JAMA. 1994;271:1747–51.
+
+21. Wolfe WS, Sobal S, Olson CM, et al. Parity-associated
+weight gain and its modification by sociodemographic and
+behavioral factors: a prospective analysis in US women. Int J
+Obes Relat Metab Disord. 1997;21:802–10.
+
+22. Rosenberg L, Palmer JR, Rao RS, Adams-Campbell L.
+Risk factors for coronary heart disease in African-American
+women. Am J Epidemiol. 1999;150:904 –9.
+
+23. Palmer JR, Rao RS, Adams-Campbell LL, Rosenberg L.
+Height and breast cancer risk: results from the Black Women’s
+Heath Study. Cancer Causes Control. 2001;12:343– 8.
+24. Block G, Hartman AM, Naughton D. A reduced dietary
+questionnaire: development and validation. Epidemiology.
+1990;1:58 – 64.
+
+25. Lewis CE, Jacobs DR Jr., McCreath H, et al. Weight gain
+continues in the 1990s: 10-year trends in weight and over-
+weight from the CARDIA Study. Am J Epidemiol. 2000;151:
+1172– 81.
+
+26. Pamuk E, Makuc D, Heck K, Reuben C, Lochner K.
+Socioeconomic Status and Health Chartbook. Health, United
+States, 1998. Hyattsville, MD: National Center for Health
+Statistics; 1998.
+
+27. Institute of Medicine. Nutrition during Pregnancy: Part I,
+Weight Gain. Washington, DC: National Academy Press;
+1990.
+
+28. Keppel KG, Taffel SM. Pregnancy-related weight gain and
+implications of the 1990 Institute of Medicine
+
+retention:
+guidelines. Am J Public Health. 1993;83:1100 –3.
+
+29. Schauberger CW, Rooney BL, Brimer LM. Factors that
+influence weight loss in the puerperium. Obstet Gynecol.
+1992;79:424 –9.
+
+ 15508528, 2003, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1038/oby.2003.204 by Howard University Louis Stokes, Wiley Online Library on [30/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons LicenseChildbearing and Weight Gain in Black Women, Rosenberg et al.
+
+30. Ohlin A, Rossner S. Maternal body weight development after
+
+40. Khosla T, Lowe CR. Obesity and smoking habits. BMJ.
+
+pregnancy. Int J Obes. 1990;14:159 –73.
+
+1971;4:10 –3.
+
+31. Parker JD, Abrams B. Differences in postpartum weight
+retention between black and white mothers. Obstet Gynecol.
+1993;81:768 –74.
+
+32. Greene GW, Smiciklas-Wright H, Scholl TO, et al. Post-
+partum weight change: how much of the weight gained in
+pregnancy will be lost after delivery? Obstet Gynecol. 1998;
+71:701–7.
+
+33. Boardley DJ, Saargent RG, Coker AL, et al. The relation-
+ship between diet, activity, and other factors, and postpartum
+weight change by race. Obstet Gynecol. 1995;86:834 – 8.
+34. Muscati SK, Gray-Donald K, Koski KG. Timing of weight
+gain during pregnancy: promoting fetal growth and minimiz-
+ing maternal weight retention. Int J Obes Relat Metab Disord.
+1996;20:526 –32.
+
+35. Scholl TO, Hediger ML, Schall JI, et al. Gestational weight
+gain, pregnancy outcome, and postpartum weight retention.
+Obstet Gynecol. 1995;86:423–7.
+
+36. Stein TP, Scholl TO, Schluter MD, et al. Plasma leptin
+influences gestational weight gain and postpartum weight
+retention. Am J Clin Nutr. 1998;68:1236 – 40.
+
+37. Gortmaker SL, Dietz WH, Cheung LW. Inactivity, diet and
+the fattening of America. J Am Diet Assoc. 1990;90:1247–52,
+1255.
+
+38. Kumanyika SK, Mauger D, Mitchell DC, Phillips B,
+Wright H, Palmer JR. Relative validity of food frequency
+questionnaire nutrient estimation in the Black Women’s
+Health Study. Ann Epidemiol. 2003;13:111–18.
+
+39. Colditz GA, Willett WC, Stampfer MJ, et al. Patterns of
+weight change and their relation to diet in a cohort of healthy
+women. Am J Clin Nutr. 1990;51:1100 –5.
+
+41. Physician’s Desk Reference, 56th Edition. Montvale, NJ:
+
+Medical Economics Company, Inc., 2002.
+
+42. DiPietro L, Anda RF, Williamson DF, Stunkard AJ. De-
+pressive symptoms and weight change in a national cohort of
+adults. Int J Obes Relat Metab Disord. 1992;16:745–53.
+43. Parfitt K, ed. Martindale: The Complete Drug Reference.
+32nd ed. London: Pharmaceutical Press; 1999, pp. 271–312.
+44. Ogden Cl, Flegal KM, Carroll MD, Johnson CL. Preva-
+lence and trends in overweight among US children and ado-
+lescents, 1999-2000. JAMA. 2002;288:1728 –32.
+
+45. Dewey KG, Heinig MJ, Nommsen LA. Maternal weight loss
+patterns during prolonged lactation. Am J Clin Nutr. 1993;58:
+162– 6.
+
+46. Janney CA, Zhang D, Sowers M. Lactation and weight
+
+retention. Am J Clin Nutr. 1997;66:1116 –24.
+
+47. U.S. Department of Commerce. Educational Attainment in the
+United States. Current Population Reports. Series P-20, No. 513.
+Washington DC: U.S. Department of Commerce; 1998.
+
+48. Adams-Campbell LL, Rosenberg L, Washburn RA, Rao
+RS, Kim KS, Palmer JR. Descriptive epidemiology of phys-
+ical activity in African-American women. Prev Med. 2000;30:
+43–50.
+
+49. Galuska DA, Will JC, Serdula MK, Ford ES. Are health
+care professionals advising obese patients to lose weight?
+JAMA. 1999;282:1576 – 8.
+
+50. Koplan JP, Dietz WH. Caloric imbalance and public health
+
+policy. JAMA. 1999;282:1579 – 81.
+
+51. Fontonarosa PB. Patients, physicians, and weight control.
+
+JAMA. 1999;282:1581–2.
+
+OBESITY RESEARCH Vol. 11 No. 12 December 2003 1535
+
+ 15508528, 2003, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1038/oby.2003.204 by Howard University Louis Stokes, Wiley Online Library on [30/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

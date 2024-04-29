@@ -1,0 +1,897 @@
+Women’s Health Reports
+Volume 3.1, 2022
+DOI: 10.1089/whr.2021.0148
+Accepted March 22, 2022
+
+Open camera or QR reader and
+scan code to access this article
+and other resources online.
+
+ORIGINAL ARTICLE
+
+Open Access
+
+Clinicians’ Perspectives on Racism and Black Women’s
+Maternal Health
+Brittany D. Chambers,1,2,* Brianne Taylor,2 Tamara Nelson,3 Jessica Harrison,4 Arielle Bell,3
+Allison O’Leary,2,5 Helen A. Arega,6 Sepehr Hashemi,6 Safyer McKenzie-Sampson,2,6 Karen A. Scott,5,7
+Tina Raine-Bennett,8 Andrea V. Jackson,5 Miriam Kuppermann,2,5,6 and Monica R. McLemore3
+
+Abstract
+Objective: The objective of this study was to explore clinician perceptions of how racism affects Black women’s
+pregnancy experiences, perinatal care, and birth outcomes.
+Materials and Methods: We conducted 25 semi-structured interviews with perinatal care clinicians practicing in
+the San Francisco Bay Area ( January to March 2019) who serve racially diverse women. Participants were primar-
+ily recruited through ‘‘Dear Perinatal Care Provider’’ email correspondences sent through department listservs.
+Culturally concordant, qualitatively trained research assistants conducted all interviews in person. The interviews
+ranged from 30 to 60 minutes and were audio-recorded and professionally transcribed verbatim. We used the
+constant comparative method consistent with grounded theory to analyze data.
+Results: Most participants were obstetrician/gynecologists (n = 11, 44%) or certiﬁed nurse midwives (n = 8, 32%),
+had worked in their current role for 1 to 5 years (n = 10, 40%), and identiﬁed as white (n = 16, 64%). Three themes
+emerged from the interviews: provision of inequitable care (e.g., I had a woman who had a massive complication
+during her labor course and felt like she wasn’t being treated seriously); surveillance of Black women and families
+(e.g., A urine tox screen on the Black baby even though it was not indicated, and they didn’t do it on the white baby
+when, in fact, it was indicated); and structural care issues (e.g., the history of medical racial experimentation).
+Conclusion: Clinicians’ views about how racism is currently operating and negatively impacting Black women’s
+care experiences, health outcomes, and well-being in medical institutions will be used to develop a racial equity
+training for perinatal care clinicians in collaboration with Black women and clinicians.
+
+Keywords: African Americans; maternal health; racism; women’s health
+
+1Department of Human Ecology, College of Agricultural and Environmental Sciences, University of California, Davis, Davis, California, USA.
+2California Preterm Birth Initiative, School of Medicine, University of California, San Francisco, San Francisco, California, USA.
+Departments of 3Family Health Care Nursing and 4Social and Behavioral Sciences, School of Nursing, University of California, San Francisco, San Francisco, California, USA.
+Departments of 5Obstetrics, Gynecology and Reproductive Sciences and 6Epidemiology and Biostatistics, School of Medicine, University of California, San Francisco, San
+Francisco, California, USA.
+7Department of Humanities and Social Sciences, University of California, San Francisco, San Francisco, California, USA.
+8Medicines360, San Francisco, California, USA.
+
+*Address correspondence to: Brittany D. Chambers, PhD, MPH, Department of Human Ecology, College of Agricultural and Environmental Sciences, One Shields Avenue,
+Davis, CA 95616, USA, E-mail: bdchambers@ucdavis.edu
+
+Findings from this study were presented at the 2019 Annual Building Interdisciplinary Research Careers in Women’s Health (BIRCWH) Meeting.
+
+ª Brittany D. Chambers et al., 2022; Published by Mary Ann Liebert, Inc. This Open Access article is distributed under the terms of the Creative Commons
+License [CC-BY] (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided
+the original work is properly cited.
+
+476
+
+Chambers, et al.; Women’s Health Report 2022, 3.1
+http://online.liebertpub.com/doi/10.1089/whr.2021.0148
+
+477
+
+Introduction
+Inequities in adverse maternal and child health out-
+comes persist in the United States. Black women are
+three to four times more likely to experience compli-
+cations during pregnancy and childbirth and die from
+these complications compared with white women.1–3
+Additionally, infants born to Black women are two
+times more likely to be born premature (<37 weeks
+of gestation) compared with infants born to white
+women.4 Care provided during pregnancy and child-
+birth can potentially reduce complications by aiding
+in the early detection and successful management of
+pre-existing or newly diagnosed comorbid medical
+conditions.5–9 Despite the beneﬁts of care during
+pregnancy and childbirth, racism serves as a barrier
+to Black women accessing and receiving quality
+care.5–8,10
+
+Racism is a multifaceted system developed as a tool
+to classify groups of people based on physical attri-
+butes and characteristics such as skin color, serving
+to oppress Black people.11,12 To sustain white suprem-
+acy in the United States, laws (e.g., Jim Crow Laws)
+and processes (e.g., Redlining) were established to
+allocate resources in ways that increased wealth and
+opportunity to whites.11,12 Promulgating negative ste-
+reotypes and scripts about Black people has added
+to these barriers to attaining and sustaining their
+economic wealth, bodily autonomy, and liberal
+freedoms.11
+
+Stereotypes are perceived notions of a person based
+on social and physical attributes, whereas scripts are
+ways people are taught or believe they should interact
+with people based on their physical and social attri-
+butes.13,14 In the context of reproductive health, rac-
+ism was used as a tool to establish therapies and
+surgical techniques in the ﬁeld of gynecology.15 In
+the 19th century, J. Marion Sims performed experi-
+mental surgery on enslaved Black women without
+their consent to develop a cure for vesicovaginal ﬁstu-
+la.15 These experiments facilitated the generations of
+two key health care scripts about Black women in
+the context of reproductive health care: (1) it is ac-
+ceptable to perform procedures on Black women
+without their consent; and (2) Black women have a
+high tolerance for pain.16,17
+
+Institutionalized racism in health care settings con-
+tributes to Black women receiving lower quality of
+care in comparison to white women, resulting in
+inequities in adverse maternal and child health
+outcome.18–24 There is an association between racial
+
+discrimination and Black women’s dissatisfaction
+with care, mistrust in providers, non-adherence to med-
+ical regimes, and ineffective patient-provider commu-
+nication.5–7,25,26 Studies have also shown that poor
+quality of care is associated with Black women being
+offered fewer or mistimed treatments and interven-
+tions.27–29 Research supports that any approach to
+improving Black women’s quality of care must address
+clinicians’ potential racial biases and racism towards
+Black people.30–34
+
+Clinicians’ biases and racism have been shown to be
+associated with poor health outcomes among Black
+compared with white patients.7,26,30–33,35 van Ryn
+et al.31 developed a conceptual framework of racism
+and how it impacts clinicians’ cognition, and clinical
+decision-making, conveying how structural and insti-
+tutional racism contributes to clinicians’ implicit and
+explicit racial biases that then inform clinicians’ com-
+munication, screening, diagnostic, and treatment be-
+haviors. This foundational work has led to a call for
+action for health care and grant-making institutions
+to address structural factors in an effort to improve
+health outcomes for Black, Indigenous, and other peo-
+ple of color, proposing a move from cultural to struc-
+tural competency.36,37
+
+Curriculums and praxis tailored toward medical stu-
+dents and the ﬁeld of obstetrics and gynecology have
+used structural competency38 and justice frameworks19
+to understand and address racism in prenatal and de-
+livery care settings, with a few curriculums recently de-
+veloped to focus on clinicians since California’s new
+legislation (AB 241 and SB 464) requires continuing
+education in implicit bias.37,39,40 Although there is a
+plethora of research documenting Black women’s expe-
+riences of racism and discrimination while navigating
+perinatal care, much less has been reported regard-
+ing the relationship between racism and clinical care
+through the lens of clinicians’ caring for Black women
+during pregnancy and childbirth.
+
+In preparation for the development of a new curric-
+ulum, the objective of this study was to explore clini-
+cians’ perceptions of how racism affects Black
+women’s perinatal experiences and outcomes. Research
+suggests that effective components of racial and cul-
+tural equity trainings include presenting data that are
+relevant to clinicians, providing vignettes of real-life ex-
+periences, sharing tools that can be used in clinic, and
+implementing quality improvement metrics.41–43 Our
+study participants’ stories will be used to develop vi-
+gnettes of real-life racist events that have occurred in
+
+Chambers, et al.; Women’s Health Report 2022, 3.1
+http://online.liebertpub.com/doi/10.1089/whr.2021.0148
+
+478
+
+perinatal care settings to guide clinicians through activ-
+ities to help them critically think about anti-racist ap-
+proaches to providing care.
+
+Materials and Methods
+We conducted a qualitative research study with a con-
+venience sample of 25 perinatal care clinicians. Clini-
+cians were eligible to participate in the study if they
+were currently providing perinatal care at one of two
+California-based hospital facilities in the San Francisco
+Bay Area serving racially diverse women. We recruited
+clinicians to participate in the study through ‘‘Dear
+Perinatal Care Clinician’’ email correspondence sent
+through department listservs and via presentations at
+department meetings. We used a semi-structured inter-
+view guide to conduct one-on-one interviews with par-
+ticipants, who provided informed consent and received
+a $50 American Express gift card for their participation.
+The interview guide focused on clinicians’ perspec-
+tives about the leading factors associated with the per-
+sistent racial equity gap between Black and white
+women in maternal and child health outcomes, the
+role racism may play in these inequities, and the con-
+tent and activities these clinicians would like to see
+in a racial equity training to improve Black women’s
+perinatal care experiences and outcomes. Interviews
+were conducted in-person between January and March
+2019 by culturally concordant research assistants trained
+in qualitative research methods. Interviews ranged be-
+tween 30 and 60 minutes and were audio-recorded
+and professionally transcribed.
+
+The study team met on a weekly basis during the
+data collection process to discuss interview ﬁndings
+and emerging themes. Each research assistant wrote
+ﬁeld notes within 24 hours of completing each inter-
+view to enable them to reﬂect on their interview expe-
+rience and summarize key themes and ideas that
+emerged. Data collection was stopped once saturation
+across key themes and ideas was reached. Upon com-
+pletion of the interviews, the study team reviewed tran-
+scripts and collectively developed a codebook for data
+analysis. The study team used modiﬁed grounded the-
+ory techniques, speciﬁcally an iterative process of cod-
+ing and analysis and the constant comparative method,
+to identify codes and sort them into larger themes.44,45
+Two research assistants coded each transcript, with
+an inter-rater reliability of 93%. All discrepancies
+were discussed, and ﬁnal codes were determined collec-
+tively as a team. Quotes throughout this article are la-
+beled based on clinicians’ facility (e.g., 01), interview
+
+order for each facility (e.g., 010), role (e.g., obstetricians/
+gynecologists [OB/GYN]), and race and/or ethnicity
+and gender identity (e.g., Black identiﬁed person).
+For example, a label such as ‘‘01-010, OB/GYN, Black
+identiﬁed person’’ will follow each quote. All data
+were coded and analyzed using Dedoose Version
+7.0.23 (Los Angeles, CA, USA). This study was ap-
+proved by the institutional review board at the Univer-
+sity of California, San Francisco (#18-26494).
+
+Results
+Characteristics of our study participants are provided
+in Table 1. The 25 perinatal care clinicians we in-
+terviewed included OB/GYN (n = 11, 44%), certiﬁed
+nurse midwives (CNM) (n = 8, 32%), family medicine
+practitioners (n = 2, 8%), and fellows/residents (n = 4,
+16%). On average, these clinicians had worked in their
+current role for 8.9 years. The majority of the partici-
+pants identiﬁed as white (n = 16, 64%) and women
+(n = 23, 92%).
+
+Participants shared three distinct ways in which rac-
+ism impacts health care systems and care provided to
+Black women: (1) provision of inequitable care; (2) sur-
+veillance of Black women and families; and (3) struc-
+tural care issues.
+
+Theme 1: provision of inequitable care
+Provision of inequitable care was deﬁned as racism
+inﬂuencing clinicians’ ability to acknowledge and en-
+gage Black women as agents of their own bodies and
+the care provided by hospitals. Participants described
+
+Table 1. Clinicians’ Characteristics
+
+Characteristic
+
+Role
+
+Certiﬁed nurse midwife
+Obstetrician/gynecologist
+Family medicine practitioner
+Fellow/residents
+
+Time in role (years)
+
+<1
+1–5
+6
+>10
+
+Race/ethnicity
+
+African American/Black
+Othera
+White
+
+Gender identity
+
+Woman
+Man
+
+n (%)
+
+8 (32)
+11 (44)
+2 (8)
+4 (16)
+
+3 (12)
+10 (40)
+4 (16)
+8 (32)
+
+4 (16)
+5 (20)
+16 (64)
+
+23 (92)
+2 (8)
+
+aOther race = Biracial, Middle Eastern, South Asian, and Latinx.
+
+Chambers, et al.; Women’s Health Report 2022, 3.1
+http://online.liebertpub.com/doi/10.1089/whr.2021.0148
+
+479
+
+that racism inﬂuences clinicians’ racist stereotypes and
+beliefs about Black women, which results in inadequate
+care. An OB/GYN at Facility 1, for example, shared
+ideologies and beliefs about
+that clinicians’ racist
+Black women directly inﬂuence not only the quality
+but also the frequency of care offered to Black women
+during their pregnancy and birthing experiences.
+
+I think there are times when maybe Black women are assumed
+to be less compliant because of their race . or when we’ve
+had patients who have come in to triage frequently during
+their pregnancies . I think when providers are sort of
+stressed by that sort of recurrent presentation . if a patient
+is a minority, they may be more likely to sort of trigger peo-
+ple’s
+(01-002,
+OB/GYN, white identiﬁed woman)
+
+clinicians] bad behavior.
+
+[health care
+
+A CNM at Facility 2 shared how racist stereotypes
+and beliefs about Black women inﬂuence the type of
+care and treatment options offered to Black women
+in the postpartum period.
+
+In the realm of family planning, or in the realm of lactation
+support, or in the realm of . pain management and labor,
+I think there are assumptions based on race that people
+like someone might assume . she’s probably not
+make,
+going to breastfeed anyway so I’m maybe not going to go as
+far as I would go in my own commitment or my own perse-
+verance in really being supportive. (02-005, CNM, white iden-
+tiﬁed woman)
+
+These quotes highlight perceptions
+
+that Black
+women inappropriately utilize health care—either too
+frequently or not enough—and assumptions about
+Black women’s preferences about pregnancy, childbirth,
+and parenting, illustrating how racism is an oppressive
+system inﬂuencing clinicians’ health care scripts about
+how to interact with and care for Black women.
+
+Racism impacts clinicians’ ability to listen to Black
+women’s experiences and treat them as equal partners
+in decision-making about their own care and treatment
+options. A CNM at Facility 1 shared a personal account
+of her patient not being listened to while birthing at the
+hospital, noting that while her patient was in a life-
+threatening situation her expressed level of pain was
+disregarded.
+
+I had a woman who . was actually my prenatal patient . she
+had a massive complication during her labor course and was
+in a lot of pain, felt like she wasn’t being treated seriously.
+She had a life-threatening situation, and I felt like she was
+not being listened to. She was not. She was not being listened
+to . and she was very clear and very vocal while she was in
+this state. She kept saying,
+‘‘This is why Black and Brown
+women die, because you’re not listening to me.’’ (01-010,
+CNM, white identiﬁed woman)
+
+Clinicians acknowledged that racism causes and im-
+pacts the provision of inequitable care provided to
+
+Black women, highlighting Black women are often dis-
+missed and not included as active participants in care
+decisions and treatment.
+
+Theme 2: surveillance of Black women and families
+Surveillance of Black women and families was deﬁned
+as racism inﬂuencing clinicians’ perceptions of Black
+women, children, and families, resulting in puni-
+tive care and treatment. The most common penalties
+shared among clinicians from both facilities were racial
+inequities in unwarranted urine toxicology (UTOX)
+screening or child protective services (CPS) involve-
+ment. For example, a CNM from Facility 2 shared
+that Black women are more often penalized for not
+showing up for prenatal care appointments than are
+white women:
+
+I think that a white woman that misses ﬁve prenatal appoint-
+ments probably isn’t going to have a UTOX. The person of
+color is going to have a UTOX, like where have you been,
+what have you been doing? (02-002, CNM, white identiﬁed
+woman)
+
+An OB/GYN from Facility 2 expressed similar con-
+cerns around racist
+involving a UTOX
+treatment
+screening that a Black infant received when a white in-
+fant in the same setting would not have had one.
+
+When I was in labor and delivery attending a few times ago .
+There were two babies. One was white, one was Black, and
+they ended up doing a urine tox screen on the Black baby
+even though . according to the protocol, it was not indicated,
+and they didn’t do it on the white baby when in fact, according
+to the protocol, it was indicated. (02-003, OB/GYN, white
+identiﬁed woman)
+
+These stories underscore how clinicians’ unethical
+UTOX screenings that do not align with protocols
+and procedures at their facilities negatively impact
+Black women’s care.
+
+A fellow/resident from Facility 2 expressed that ex-
+cessive punitive and authoritative actions expand be-
+yond Black women and include the policing of their
+support persons, particularly in birthing settings.
+
+I’ve seen Black women who have had multiple family mem-
+bers who have tried to come visit them or they’ve had other
+support people come visit them or even pets or other people
+that are part of their community and more often those patients,
+their families and their people are seen as disruptive or they’ve
+been asked to sign contracts about the number of people who
+can be allowed in the room, which, to me, has no medical jus-
+tiﬁcation. (02-009, Fellow/Resident, Black identiﬁed woman)
+
+These stories stress how clinicians perpetuate racial
+stereotypes of Black women, children, and families,
+which can cause harm and disrupt the structure of
+the Black family.
+
+Chambers, et al.; Women’s Health Report 2022, 3.1
+http://online.liebertpub.com/doi/10.1089/whr.2021.0148
+
+480
+
+Theme 3: structural care issues
+Structural care issues were deﬁned as the historical and
+contemporary impact of health care-based racism on
+Black women’s reproductive health care experiences
+and outcomes. Participants expressed a heightened
+awareness of structural racism and how it impacts
+both Black women’s health outcomes, medical educa-
+tion, and clinicians’ interactions with patients. They
+shared that health care institutions in general, and
+the ﬁeld of OB/GYN in particular, were established
+using racist procedures and protocols to advance the
+reproductive health of white women at the expense of
+Black women. An OB/GYN from Facility 2 shared
+their experiences in learning about and acknowledging
+institutional racism and the role it plays in the care cli-
+nicians provide to Black women.
+
+We’re learning, now, we’ve always known but it’s being ex-
+posed more about the racism inherent in medicine from the
+history of medicine in the US, like Dr. Sims and gynecologists
+that were experimenting on Black women, as well as the Hen-
+rietta Lacks story . So trying to unpack how that translates to
+care that people receive or don’t receive right now. (02-008,
+OB/GYN, white identiﬁed woman)
+
+Clinicians acknowledged that the ﬁeld of OB/GYN
+was built on racist ideologies, beliefs, language, and
+behaviors and that there is a need to dismantle the
+system to improve Black women’s reproductive health
+experiences and outcomes. An OB/GYN from Facility
+1 expressed struggling with training students, resi-
+dents, and fellows on racial equity without chang-
+ing how the current system values and serves Black
+women.
+
+Despite the efforts around training trainees or providers in
+certain ways are we really challenging the underpinnings of
+a structure that is so oppressive and racist . I’ve just been
+thinking a lot about this in terms of we’ve now recruited
+this very diverse group of trainees, but we still educate them
+in the ways that we always have, which is in some ways perpet-
+uating sort of white supremacy and hierarchy within our mod-
+els. (01-006, OB/GYN, Black identiﬁed woman)
+
+Clinicians also stressed the need for more upstream
+policies and interventions to dismantle the historical
+and pervasive racist structures and practices to improve
+Black women’s care experiences and outcomes.
+
+Although clinicians were aware of structural racism
+and how it impacts health care practices and behaviors,
+they struggled identifying how racism impacted their
+own care practices. A Family Medicine clinician shared:
+
+I think that in our work to undo hundreds and hundreds of
+years of not just poor healthcare but sometimes purposely
+damaging healthcare, we’ve got a lot of work ahead of us,
+and it’s up to us to increase the trust. I don’t expect people
+
+to come into the healthcare setting trusting us, and so that
+has to be our work. We have to be proactive, and I’m not ex-
+actly sure how to do that. (02-010, Family Medicine, white
+identiﬁed woman)
+
+Overall, clinicians stressed that racism is a multifac-
+eted issue that will require reﬂexivity among clinicians
+to recognize and dismantle their racist ideologies, be-
+liefs, language, and behaviors that manifest as acts of
+anti-racism, health care racism, and obstetric racism
+that led to inequitable care, in addition to restructuring
+the current way perinatal care is taught to learners.
+Additionally, policies and procedures must be imple-
+mented to hold clinicians accountable to provide equi-
+table and respectful care to Black women, children, and
+families.
+
+Discussion
+Three overarching theme emerged from our study
+supporting the growing literature on obstetric rac-
+ism. Davis deﬁned obstetric racism as the occurrence
+and analytic processes, which function at the inter-
+sections of medical racism and obstetric violence
+inﬂuencing Black women and birthing people’s re-
+productive care experiences and conditions, result-
+ing in poor health outcomes.43,46 Prior research
+suggests that Black women and birthing people expe-
+rience maltreatment and preventable adverse out-
+comes in perinatal health care settings at higher
+rates than white women.27 Findings from our study
+underscore the mistreatment experienced by Black
+women in health care settings from the perspectives
+of perinatal care clinicians and that the root cause is
+racism.
+
+Participants in our study shared concerns regarding
+the overreporting of Black women, infants, and family
+members in relationship to security and police ofﬁcers
+in health care settings.36,47 There was an overwhelming
+consensus among these clinicians that Black women
+and infants receive UTOX screenings at disproportion-
+ately higher rates than white women and infants, even
+when not indicated.48 Previous research highlights that
+Black women are four times as likely to be reported to
+CPS compared to white women, even though Black
+women are identiﬁed for alcohol/drugs by perinatal
+care providers at similar rates to white women and
+are more likely to enter treatment during pregnancy.49
+Similar to previous research, clinicians from our study
+also shared that punitive actions extend beyond Black
+women and infants to their support persons, particu-
+larly during birth.50
+
+Chambers, et al.; Women’s Health Report 2022, 3.1
+http://online.liebertpub.com/doi/10.1089/whr.2021.0148
+
+481
+
+Clinicians in our study highlight the importance of
+understanding the historical and contemporary im-
+pacts of structural racism has on Black women’s acces-
+sibility to quality care. They stressed that racism is
+embedded in the curriculum used to teach future clini-
+cians and in the current health care system. They also
+shared observation of how racism structures ‘‘care’’
+hierarchies, whereby Black women experience differen-
+tial treatment resulting in near-death experiences and
+other adverse consequences. Clinicians further empha-
+sized the importance of acknowledging and addressing
+institutional racism in health care settings. They shared
+the need to restructure medical and nursing school cur-
+ricula to ensure the next generation is equipped with
+the skills to provide equitable care to Black women,
+and policies to hold themselves and their peers
+accountable.
+
+This study contributes to the growing body of liter-
+ature importantly examining racism within health
+care settings. Uniquely drawing from perinatal care
+clinicians’ perspectives, a goal of this research is de-
+veloping a tailored racial equity training that re-
+sponds to the needs of perinatal care clinicians.
+Given the new legislation in California (AB 241) re-
+quiring clinicians
+to take continuing education
+courses to address implicit bias and mistreatment
+and improve the quality of care provided to patients,
+and additional legislation (SB 464) emphasizing im-
+proving pregnancy-related care for Black women, it
+is important to talk with clinicians to understand
+how racism operates in health care settings from
+their perspectives to develop trainings that respond
+to their needs.
+
+Despite this call
+
+to action and new legislation,
+there are no evidence-based training interventions tai-
+lored for perinatal care clinicians that have taken a
+community-based approach to include stories from
+both Black women and perinatal care clinicians. Data
+from this study will be used to create vignettes from
+real-life events, rather than hypothetical situations,
+allowing clinicians to critically engage with issues that
+may arise in their health care settings and practice
+strategies to address them.
+
+The major strength of this study is the diverse sam-
+ple of perinatal care clinicians we interviewed, en-
+abling us to do an in-depth analysis of perceptions
+of racism in health care settings from varying perspec-
+tives. Limitations include that all clinicians were
+recruited from California-based health care facilities
+in the San Francisco Bay Area and were practicing
+
+or training in an urban setting. Therefore, study ﬁnd-
+ings are not generalize to more rural settings or
+among clinicians practicing in states that do not
+have legislation requiring racial equity training.
+Also, general emails were sent out to all clinicians
+and only those who voluntarily responded to partici-
+pate were included in the study contributing to selec-
+tion bias. It is possible that clinicians interviewed have
+an invested interest in advancing racial equity in
+health care settings.
+
+Conclusions
+Clinicians identiﬁed racism as a key factor disrupting
+optimal prenatal care and birthing experiences for
+Black women. These clinicians’ experiences support
+the need for a racial equity training to address not
+only implicit biases but also the history of institutional
+racism and multilevel tools that clinicians and health
+care institutions can use to improve Black women’s
+care experiences and outcomes. Our team is using
+these data to develop a tailored racial equity training
+uplifting both Black women’s and perinatal care clini-
+cian’s experiences.
+
+Author Disclosure Statement
+No competing ﬁnancial interests exist.
+
+Funding Information
+This research study was supported by the Eunice
+Kennedy Shriver National Institute of Child Health
+and Human Development/ Ofﬁce of Research on
+Women’s Health-funded K12 [K12 HD052163].
+
+References
+1. Callaghan WM, Creanga AA, Kuklina EV. Severe maternal morbidity
+
+among delivery and postpartum hospitalizations in the United States.
+Obstet Gynecol 2012;120:1029–1036.
+
+2. Creanga AA, Berg CJ, Ko JY, et al. Maternal mortality and morbidity in
+
+the United States: Where are we now? J Womens Health (Larchmt) 2014;
+23:3–9.
+
+3. Kassebaum NJ, Bertozzi-Villa A, Coggeshall MS, et al. Global, regional, and
+national levels and causes of maternal mortality during 1990–2013: A
+systematic analysis for the Global Burden of Disease Study 2013. Lancet
+2014;384:980–1004.
+
+4. Martin JA, Hamilton BE, Osterman MJK, Driscoll AK, Drake P. Births: Final
+
+data for 2016. Natl Vital Stat Rep 2018;67:1–55.
+
+5. Salm Ward TC, Mazul M, Ngui EM, Bridgewater FD, Harley AE. ‘‘You learn
+to go last’’: Perceptions of prenatal care experiences among African-
+American women with limited incomes. Matern Child Health J 2013;17:
+1753–1759.
+
+6. Nuru-Jeter A, Dominguez TP, Hammond WP, et al. ‘‘It’s the skin you’re in’’:
+African-American women talk about their experiences of racism. An ex-
+ploratory study to develop measures of racism for birth outcome studies.
+Matern Child Health J 2009;13:29–39.
+
+7. Slaughter-Acey JC, Caldwell CH, Misra DP. The inﬂuence of personal and
+
+group racism on entry into prenatal care among African American
+women. Womens Health Issues 2013;23:e381–e387.
+
+Chambers, et al.; Women’s Health Report 2022, 3.1
+http://online.liebertpub.com/doi/10.1089/whr.2021.0148
+
+482
+
+8. Nguyen KH, Subramanian SV, Sorensen G, Tsang K, Wright RJ. Inﬂuence of
+experiences of racial discrimination and ethnic identity on prenatal
+smoking among urban black and Hispanic women. J Epidemiol Com-
+munity Health 2012;66:315–321.
+
+9. McCormick MC, Siegel JE. Prenatal care: Effectiveness and implementa-
+
+tion. United Kingdom: Cambridge University Press, 1999.
+
+10. Chambers BD, Arabia SE, Arega HA, et al. Exposures to structural racism
+
+and racial discrimination among pregnant and early postpartum Black
+Women living in Oakland, California. Stress Health 2020;36:213–219.
+11. Jones CP. Levels of racism: A theoretic framework and a gardener’s tale.
+
+Am J Public Health 2000;90:1212–1215.
+
+12. Dominguez TP. Race, racism, and racial disparities in adverse birth out-
+
+comes. Clin Obstet Gynecol 2008;51:360–370.
+
+32. Metzl JM, Hansen H. Structural competency: Theorizing a new medical
+
+engagement with stigma and inequality. Soc Sci Med 2014;103:126–133.
+33. Ravenell J, Ogedegbe G. Unconscious bias and real-world hypertension
+outcomes: Advancing disparities research. J Gen Intern Med 2014;29:973–975.
+34. Kozhimannil KB, Hardeman RR, Henning-Smith C. Maternity care access,
+quality, and outcomes: A systems-level perspective on research, clinical,
+and policy needs. Semin Perinatol 2017;41:367–374.
+Institute of Medicine (US) Committee on Quality of Health Care in
+America. Crossing the quality chasm: A new health system for the 21st
+century. Washington, D.C.: National Academies Press, 2001.
+
+35.
+
+36. Metzl JM, Roberts DE. Structural competency meets structural racism:
+Race, politics, and the structure of medical knowledge. Virtual Mentor
+2014;16:674–690.
+
+13. Bos AER, Pryor JB, Reeder GD, Stutterheim SE. Stigma: Advances in theory
+
+37. Hardeman RR, Karbeah J, Kozhimannil KB. Applying a critical race lens to
+
+and research. Basic Appl Soc Psychol 2013;35:1–9.
+
+14. Custers EJFM. Thirty years of illness scripts: Theoretical origins and prac-
+
+tical applications. Med Teach 2015;37:457–462.
+
+15. Owens DC. Medical bondage: Race, gender, and the origins of American
+
+Gynecology. Athens: University of Georgia Press, 2017.
+
+16. Hoffman KM, Trawalter S, Axt JR, Oliver MN. Racial bias in pain assessment
+and treatment recommendations, and false beliefs about biological dif-
+ferences between blacks and whites. Proc Natl Acad Sci U S A. 2016;113:
+4296–4301.
+
+17. Hoberman J. Black and blue: The origins and consequences of medical
+racism. Berkeley and Los Angeles, California: University of California Press,
+2012.
+Institute of Medicine (US) Committee on Understanding and Eliminating
+Racial and Ethnic Disparities in Health Care. Unequal treatment: Con-
+fronting racial and ethnic disparities in health care (with CD). Washington,
+D.C.: National Academies Press, 2009.
+
+18.
+
+19. Julian Z, Robles D, Whetstone S, et al. Community-informed models of
+perinatal and reproductive health services provision: A justice-centered
+paradigm toward equity among Black birthing communities. Semin
+Perinatol 2020;44:151267.
+
+20. Chambers BD, Baer RJ, McLemore MR, Jelliffe-Pawlowski LL. Using index
+of concentration at the extremes as indicators of structural racism to
+evaluate the association with preterm birth and infant mortality—
+California, 2011–2012. J Urban Health 2019;96:159–170.
+
+relationship-centered care in pregnancy and childbirth: An antidote to
+structural racism. Birth 2020;47:3–7.
+
+38. Petty J, Metzl JM, Keeys MR. Developing and evaluating an innovative
+structural competency curriculum for pre-health students. J Med
+Humanit 2017;38:459–471.
+
+39. Bill Text—AB-241 Implicit bias: Continuing education: Requirements.
+Available at: https://leginfo.legislature.ca.gov/faces/billTextClient
+.xhtml?bill_id=201920200AB241 Accessed August 2, 2021.
+
+40. Bill Text— SB-464 California Food Assistance Program: Eligibility and
+
+beneﬁts. Available at: https://leginfo.legislature.ca.gov/faces/
+billNavClient.xhtml?bill_id=202120220SB464 Accessed August 7, 2021.
+41. Zestcott CA, Blair IV, Stone J. Examining the presence, consequences, and
+reduction of implicit bias in health care: A narrative review. Group Process
+Intergroup Relat 2016;19:528–542.
+
+42. FitzGerald C, Hurst S. Implicit bias in healthcare professionals: A system-
+
+atic review. BMC Med Ethics 2017;18:19.
+
+43. Scott KA, Davis DA. Obstetric racism: Naming and identifying a way
+
+out of Black women’s adverse medical experiences. Am Anthropol 123:
+681–684.
+
+44. Glaser BG. The constant comparative method of qualitative analysis. Soc
+
+Probl 1965;12:436–445.
+
+45. Constructing Grounded Theory. SAGE Publications Ltd. 2021. Available at:
+https://uk.sagepub.com/en-gb/eur/constructing-grounded-theory/
+book235960 Accessed July 20, 2021.
+
+21. Dyer L, Chambers BD, Crear-Perry J, Theall KP, Wallace M. The Index of
+
+46. Davis DA. Obstetric racism: The racial politics of pregnancy, labor, and
+
+Concentration at the Extremes (ICE) and pregnancy-associated mortality
+in Louisiana, 2016–2017. Matern Child Health J 2021:1–9. [Epub ahead of
+print]; DOI: 10.1007/s10995-021-03189-1
+
+22. Mendez DD, Doebler DA, Kim KH, Amutah NN, Fabio A, Bodnar LM.
+
+Neighborhood socioeconomic disadvantage and gestational weight gain
+and loss. Matern Child Health J 2014;18:1095–1103.
+
+23. Hardeman RR, Chantarat T, Smith ML, Van Riper DC, Mendez DD. Asso-
+ciation of residence in high–police contact neighborhoods with preterm
+birth among Black and White individuals in Minneapolis. JAMA Netw
+Open 2021;4:e2130290.
+
+24. Chambers BD, Erausquin JT, Tanner AE, Nichols TR, Brown-Jeffy S. Testing
+the association between traditional and novel indicators of County-Level
+structural racism and birth outcomes among Black and White women.
+J Racial Ethn Health Disparities. 5:966–977.
+
+25. Ben J, Cormack D, Harris R, Paradies Y. Racism and health service utilisation:
+A systematic review and meta-analysis. PLoS One 2017;12:e0189900.
+26. Attanasio L, Kozhimannil KB. Patient-reported communication quality and
+perceived discrimination in maternity care. Med Care 2015;53:863–871.
+27. Franck LS, McLemore MR, Cooper N, et al. A novel method for involving
+women of color at high risk for preterm birth in research priority setting.
+J Vis Exp 2018;131:56220.
+
+28. McLemore MR, Altman MR, Cooper N, Williams S, Rand L, Franck L. Health
+care experiences of pregnant, birthing and postnatal women of color at
+risk for preterm birth. Soc Sci Med 2018;201:127–135.
+
+29. Vedam S, Stoll K, Taiwo TK, et al. The Giving Voice to Mothers study:
+
+Inequity and mistreatment during pregnancy and childbirth in the United
+States. Reprod Health 2019;16:77.
+
+30. van Ryn M, Hardeman R, Phelan SM, et al. medical school experiences
+
+associated with change in implicit racial bias among 3547 students: A Medical
+Student CHANGES Study Report. J Gen Intern Med 2015;30:1748–1756.
+31. van Ryn M, Burgess DJ, Dovidio JF, et al. The impact of racism on clinician
+
+cognition, behavior, and clinical decision making. Du Bois Rev 2011;8:199–218.
+
+birthing. Med Anthropol 2019;38:560–573.
+
+47. Chambers BD, Arega HA, Arabia SE, et al. Black women’s perspectives on
+structural racism across the reproductive lifespan: A conceptual framework
+for measurement development. Matern Child Health J 2021;25:402–413.
+48. Woodruff K, Scott KA, Roberts SC. Pregnant people’s experiences dis-
+cussing their cannabis use with prenatal care providers in a state with
+legalized cannabis. Drug Alcohol Depend 2021;227:108998.
+
+49. Roberts SCM, Nuru-Jeter A. Universal screening for alcohol and drug use
+and racial disparities in child protective services reporting. J Behav Health
+Serv Res 2012;39:3–16.
+
+50. Contributor G. The labor of racism. anthro{dendum}. 2018. Available at:
+https://anthrodendum.org/2018/05/07/the-labor-of-racism/ Accessed
+July 20, 2021.
+
+Cite this article as: Chambers BD, Taylor B, Nelson T, Harrison J, Bell A,
+O’Leary A, Arega HA, Hashemi S, McKenzie-Sampson S, Scott KA,
+Raine-Bennett T, Jackson AV, Kuppermann M, McLemore MR (2022)
+Clinicians’ perspectives on racism and Black women’s maternal
+health, Women’s Health Report 3:1, 476–482, DOI: 10.1089/
+whr.2021.0148.
+
+Abbreviations Used
+
+CNM ¼ certiﬁed nurse midwives
+CPS ¼ child protective services
+OB/GYN ¼ obstetricians/gynecologists
+
+UTOX ¼ urine toxicology
+
+

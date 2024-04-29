@@ -1,0 +1,1214 @@
+666605 SGOXXX10.1177/2158244016666605SAGE OpenLewis et al.
+
+research-article2016
+
+Article
+
+Black Adolescent Females’ Perceptions 
+of Racial Discrimination When Accessing 
+Reproductive and General Health Care
+
+SAGE Open
+July-Sepetember 2016: 1 –10
+© The Author(s) 2016
+DOI: 10.1177/2158244016666605
+sgo.sagepub.com
+
+Valerie J. Lewis1,2, Cynthia J. Mollen3, Christine M. Forke3, 
+Nadja G. Peter4, Susmita Pati5, Sheyla P. Medina6,  
+and Sarah E. Johnson7
+
+Abstract
+Adolescents, like adults, frequently experience discrimination, which can be particularly salient in the context of reproductive 
+health care. We examined urban Black adolescent females’ perceived experiences of racial discrimination during reproductive 
+health care encounters. Structured face-to-face interviews were conducted with female African American patients, from age 
+13 through 20, who obtained reproductive health care services at a single site. Twenty-four participants were enrolled. All 
+were in or graduated from high school, with a mean age of 16.8 years. These young Black women reported infrequent race-
+based  discrimination  in  the  health  care  setting;  however,  many  reported  commonly  experiencing  discrimination  in  other 
+places.  An  awareness  of  the  discrimination  that  minority  young  women  experience  in  non–health  care  settings  can  help 
+providers demonstrate cultural humility when addressing such concerns with their patients. With this information, providers 
+can provide anticipatory guidance and the tools necessary to navigate complex social systems.
+
+Keywords
+African American, adolescents, discrimination, family planning, health care
+
+The Institute of Medicine defines health disparities as “racial 
+or ethnic differences in the quality of health care that are not 
+due to access-related factors or clinical needs, preferences, 
+and  appropriateness  of  intervention”  (Smedley,  Stith,  & 
+Nelson, 2003). In this case, discrimination at the individual 
+patient–provider level is thought to manifest as differences in 
+care  resulting  from  biases,  prejudices,  and  stereotyping  in 
+clinical communication and decision making.
+
+There  is  evidence  that  patients  who  perceive  racial  dis-
+crimination  are  more  likely  to  report  adverse  health  out-
+comes.  Previous  work  has  found  that  minority  adults  who 
+report  ever  experiencing  discrimination,  being  prevented 
+from doing something, being hassled, or made to feel inferior 
+in  various  situations  have  greater  physical  and  psychiatric 
+symptoms  than  their  counterparts  who  did  not  report  this 
+experience (Borrell, Kiefe, Williams, Diez-Roux, & Gordon-
+Larsen, 2006). In addition, individuals who report experienc-
+ing discrimination at any time during their lifetime have been 
+found to have poor adherence to treatment, worse health out-
+comes,  and  delays  in  seeking  medical  care  (Casagrande, 
+Gary, LaVeist, Gaskin, & Cooper, 2007).
+
+The work of Dr. David Williams (2012) and others has 
+continued  to  demonstrate  a  clear  relationship  between 
+minority race and poorer health outcomes. Racial inequities 
+
+and  disparities  are  evident  in  the  timing  of  disease  onset 
+(earlier for minorities), severity and progression of disease 
+(more severe for minorities), the effects of some risk factors 
+(less  exposure  to  the  risk  factor  has  a  greater  impact  on 
+minorities),  and  the  persistence  of  health  disparities  over 
+time (resulting in a lower life expectancy for minorities vs. 
+non-minorities).
+
+Racial  discrimination  is  reported  frequently  by  African 
+American adolescents, similar to their adult counterparts (Fisher, 
+Wallace, & Fenton, 2000; Sellers, Copeland-Linder, Martin, & 
+Lewis,  2006).  Among  adolescents,  racial  discrimination  is 
+
+1University of South Florida, Tampa, FL, USA
+2Lehigh Valley Health Network, Allentown, PA, USA
+3Alpert Medical School, Brown University, Providence, RI, USA, (formerly 
+University of Pennsylvania, Philadelphia, PA, USA
+4St. Christopher’s Hospital for Children, Philadelphia, PA, USA
+5Stony Brook University, NY, USA
+6Goucher College, Towson, MD, USA
+7Johns Hopkins School of Medicine, Baltimore, MD, USA
+
+Corresponding Author:
+Valerie J. Lewis, Lehigh Valley Health Network, Department of 
+Community Health, 1628 W. Chew St. SON, Room 2912, Allentown,  
+PA 18102, USA. 
+Email: Valerie_J.Lewis@lvhn.org
+
+Creative Commons CC-BY: This article is distributed under the terms of the Creative Commons Attribution 3.0 License  
+(http://www.creativecommons.org/licenses/by/3.0/) which permits any use, reproduction and distribution of  
+
+the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages  
+(https://us.sagepub.com/en-us/nam/open-access-at-sage).
+
+2 
+
+SAGE Open
+
+associated with poorer psychological functioning as measured 
+by perceived stress, depressive symptomatology, and psycho-
+logical well-being (Sellers et al., 2006).
+
+While previous work has provided valuable  insight into 
+adolescents’  general  experiences  with  discrimination,  little 
+has focused on this population’s health care system encoun-
+ters, which are often in the context of reproductive health or 
+family planning care (Ma, Wang, & Stafford, 2005). Given 
+the sensitive nature of care that is provided in these settings, 
+reproductive care encounters can be prone to discriminatory 
+practices based on imposed stereotypes or judgments about 
+patients, such as what was described by the African American 
+women  in  Benkert  and  Peters’s  (2005)  study  who  reported 
+experiencing race-based discrimination when seeking family 
+planning care. For example, provider beliefs about the num-
+ber of sexual partners, history of sexually transmitted infec-
+tions (STIs), or contraceptive use may differ depending on 
+the  race  of  the  patient. Thorburn  and  Bogart  (2005)  found 
+that among African American women ages 15 to 44 who had 
+received  family  planning  services,  the  majority  (67%) 
+reported  having  experienced  race-based  discrimination. 
+Among those 15 to 20 years of age, there was a greater asso-
+ciation  with  stereotype-related  discrimination.  In  addition, 
+having a stronger Black identity was correlated with a greater 
+perception of general health care discrimination.
+
+Jo Valentine (2008) provided an overview of barriers to 
+the diagnosis and treatment of STIs and the relationship to 
+the  heavy  STI  disease  burden  in  the  Black  community. 
+Constructs  such  as  stigma,  shame,  and  mistrust,  as  well  as 
+the historical legacy in which these constructs are rooted and 
+their contribution to the negative perceptions of Black sexu-
+ality were explored and evaluated.
+
+It  is  imperative  that  as  few  obstacles  as  possible  exist 
+when adolescents are seeking reproductive care because they 
+comprise a population at risk of suffering great health-related 
+consequences.  Notably,  young  African  American  women 
+suffer disproportionately from reproductive morbidity, high-
+lighting the need for health care providers to recognize barri-
+ers  that  impede  this  population  from  seeking  reproductive 
+health  care  (Augustine,  2010;  Centers  for  Disease  Control 
+and Prevention [CDC], 2012; Kost & Henshaw, 2013; Tuan, 
+2006). This  disparity  underscores  the  importance  of  health 
+care providers’ understanding the barriers to care, including 
+those  related  to  discrimination,  which  may  prevent  this 
+cohort  from  obtaining  reproductive  or  other  health  care 
+services.
+
+Discrimination  results  from  processes  of  social  inequity 
+in which there is an imbalance of power and control, and a 
+devaluation, stigmatization, and rejection of a group of peo-
+ple  who  possess  specific  attributes.  There  are  varying 
+responses to the experience of rejection, prompting a need to 
+consider  contextual,  relational,  and  dispositional  factors 
+(Smart Richman & Leary, 2009). Patients who have negative 
+perceptions of health care encounters, possess limited coping 
+skills, and have inconsistent health care follow-up may have 
+
+significant  health-related  consequences. There  is  an  under-
+mining of the therapeutic relationship and a lack of patient 
+empowerment that can occur if a young person perceives dis-
+crimination from a clinician. The diagram in Figure 1 repre-
+sents  the  cycle  that  can  occur  when  patients  interact  with 
+providers  whom  they  perceive  as  discriminatory  and  the 
+resultant  avoidance  of  potential  distress  or  discomfort  at 
+future encounters, followed by the negative impact on health 
+outcomes  if  care  is  not  sought  in  a  timely  fashion.  When 
+Slaughter-Acey,  Caldwell,  and  Misra  (2013)  examined  the 
+relationship between prenatal care entry and experiences of 
+personal  and  group  racism  among  low-income,  African 
+American women, they concluded that a delay in accessing 
+prenatal care may be grounded in an attempt to avoid a dis-
+criminatory  experience.  Using  this  context  as  a  conceptual 
+framework upon which this study is based, the objective was 
+to use qualitative techniques to examine young Black wom-
+en’s perceptions of racial discrimination during reproductive 
+health care encounters and in non–health care settings.
+
+Method
+
+Study Design
+
+We  conducted  in-depth,  semi-structured,  face-to-face  inter-
+views with adolescent females, age 13 to 21 years, seeking 
+care  at  an  urban  family  planning  clinic,  serving  predomi-
+nantly  African  American  females,  between  June  and 
+December of 2008. Study protocol and consent procedures 
+were  approved  by  the  hospital’s  institutional  review  board 
+and  the  regional  Family  Planning  Council.  Adolescent 
+women who met the study eligibility criteria provided writ-
+ten  informed  consent.  Parental  consent  was  waived  given 
+that  participants  were  obtaining  confidential  reproductive 
+health care.
+
+Participants
+
+Eligible participants met the following criteria: (a) female and 
+having  received  reproductive  health  care  at  the  recruitment 
+site, (b) 13 to 21 years of age, (c) able to speak and write in 
+English, and (d) self-identified as Black or African American. 
+Exclusion  criteria  included  the  following:  (a)  having  dis-
+cussed transition to an adult provider because of age during 
+the  last  clinic  visit  (indicating  the  young  woman  would 
+receive health care elsewhere in the future); (b) being preg-
+nant, as confirmed prior to the visit and/or on the day of the 
+interview; and (c) having cognitive impairment that prevented 
+participation in ongoing dialogue or written feedback.
+
+Participants were recruited through direct contact with a 
+trained  research  assistant  (RA)  at  the  clinic  or  through 
+recruitment  flyers.  The  RA  approached  young  women  fol-
+lowing their reproductive health care encounters with medi-
+cal  providers,  and  invited  them  to  participate  in  a  research 
+study  to  discuss  their  beliefs  about  race  and  health  care. 
+
+Lewis et al. 
+
+3
+
+Figure 1.  Impact of perceived discriminatory provider encounters on health outcomes.
+
+Participants  were  also  recruited  through  recruitment  flyers 
+that were posted in the clinic with general information about 
+the study and contact details. After screening and eligibility 
+for  participation  were  confirmed,  a  convenient  time  was 
+arranged  for  the  participant  to  return  for  the  face-to-face 
+interview. Informed written consent was obtained before the 
+interview.
+
+Data Collection
+
+Participants  were  interviewed  in  a  private  exam  room  by  a 
+trained  interviewer—an African American  female. A  detailed 
+semi-structured interview guide was developed from a thorough 
+literature review about race and ethnic identity development as 
+well as research about minority populations’ perceptions of ste-
+reotypes and their impact on discriminatory behaviors (Sellers 
+et al., 2006). Each interview lasted for approximately 60 min, 
+until saturation of key themes was achieved.
+
+The semi-structured interview enabled participants to tell 
+their  “stories”  about  their  experiences  of  discrimination, 
+either personally or vicariously (awareness of others’ experi-
+ences),  in  a  variety  of  contexts. The  participants  were  first 
+asked  demographic  questions  to  assess  age;  self-reported 
+
+ethnicity, skin color, educational level; personal work status; 
+parental educational level and work status; other sources of 
+household  income;  and  health  insurance  status.  The  inter-
+view guide included questions to elicit the participants’ defi-
+nition of discrimination and to assess their opinions about the 
+impact of skin color (light- vs. dark-skinned) on discrimina-
+tion, the directionality of discrimination (i.e., within race vs. 
+out-of-race discrimination), the presence of discrimination in 
+the health care setting (both reproductive and general medi-
+cal care), and its influence on the intention to return for med-
+ical  care,  discrimination  in  non-medical  settings,  vicarious 
+discrimination, and degree of Black identity.
+
+After  their  interviews,  participants  were  asked  to  com-
+plete  a  brief  questionnaire  in  private  to  provide  feedback 
+about  their  comfort  level  with  the  questions  and  the  inter-
+viewer. To ensure anonymity of feedback, participants were 
+instructed not to include identifying information on feedback 
+response sheets and to seal the form in a blank envelope. The 
+principal investigator (PI) reviewed the feedback, reporting 
+results in aggregate to the research team. Participants were 
+given a choice between two US$20 gift cards to one of two 
+local  merchants  as  compensation  for  their  time.  The  inter-
+views were audio recorded and transcribed professionally.
+
+4 
+
+SAGE Open
+
+Table 1.  Demographic Data.
+
+Characteristic
+
+M age (range = 13-20 years old)
+In or graduated from high school
+Households that receive cash assistance or 
+
+social security income
+
+Health insurance (private, or publicly funded)
+Mother’s educational level ≥ 12th grade
+Father’s educational level ≥ 12th grade
+At least one biological parent deceased
+African American with mixed ethnic heritagea
+Self-reported skin color
+  Light-skinned Black
+  Medium-skinned Black
+  Dark-skinned Black
+
+n (%)
+
+16.8 years
+24 (100)
+10 (42)
+
+22 (92)
+17 (72)
+13 (54)
+7 (29)
+5 (21)
+
+3 (12.5)
+14 (58.3)
+7 (29.2)
+
+aMixed ethnic heritage includes Native American, French, Puerto Rican, 
+and Jamaican.
+
+Interviewer  training  consisted  of  multiple  meetings  to 
+develop  the  interview  guide,  integrating  feedback  from 
+participant pilot data. An emergency medicine physician and 
+investigator with expertise in qualitative methodology over-
+saw and guided the training process. The PI conducted three 
+pilot  interviews  in  which  only  she,  as  the  interviewer,  was 
+videotaped  (with  the  participant’s  authorization)  to  assist 
+with  training  on  non-verbal  cues  and  standardization  of 
+interview technique. These videos were used to train the one 
+RA, who conducted the remainder of the interviews, the first 
+three  of  which  were  also  videotaped  (again,  only  she  was 
+filmed). In addition, mock interviews were conducted among 
+the interviewers themselves to enhance their interview skills. 
+During  the  period  of  data  collection,  the  PI  and  RA  met 
+weekly to discuss the study’s progress.
+
+Data Analysis
+
+Descriptive statistics were used to summarize demographic 
+variables. Transcript  text  was  entered  into  Microsoft Word 
+for organization and coding. A priori (conceived beforehand) 
+codes based on the interview guide were used to group and 
+label specific blocks of text and phrases from the interviews. 
+The first three interviews were coded by two members of the 
+research team to develop mutually agreed-upon  definitions 
+for each code. These initial interviews were coded multiple 
+times by these same two reviewers to refine and clarify the 
+terms  and  definitions  of  the  coding  library;  any  disagree-
+ments in coding were resolved by consensus. Each interview 
+was  then  coded  separately  by  two  reviewers  on  the  study 
+team. These two reviewers discussed the coding results, and 
+discrepancies were resolved by consensus. The third reviewer 
+coded  every  third  interview  and  provided  supervision  and 
+assistance  in  coming  to  consensus,  if  necessary.  Notes  of 
+coding decisions were kept to facilitate member communica-
+tion and maintain coding consistency. Transcripts were then 
+
+reviewed by the study team to identify patterns of emergent 
+and recurrent themes. Theme development continued as an 
+iterative  process,  with  review  of  transcripts  as  additional 
+interviews  were  ongoing,  to  assess  when  theme  saturation 
+had been achieved.
+
+Results
+
+Interviews were conducted with 30 subjects. Three of these 
+were  pilot  interviews  and  were  excluded  from  analysis. 
+Three  additional  participants  were  excluded  because  of 
+incomplete data due to audio recording failure (n = 2) or cog-
+nitive delay that was not detected until the interview was ini-
+tiated (n = 1; see Table 1).
+
+Interview Themes
+
+Table 2 provides additional illustrative quotes for each of the 
+themes described below.
+
+Definition of discrimination.  Most participants described peo-
+ple who discriminate as those who dislike, look down upon, 
+or  treat  an  individual  or  group  differently  for  a  variety  of 
+reasons. Race, skin color, and ethnicity were reasons men-
+tioned  by  the  majority  (n  =  17,  71%);  other  reasons  stated 
+were  age,  gender,  sexual  orientation,  religion,  and  appear-
+ance.  Many  participants  also  used  terms  such  as  “feeling 
+judged”  and  expressed  that  recipients  of  discrimination  or 
+prejudice lacked a sense of being valued and were made to 
+feel  unworthy  by  others.  Specifically,  discrimination  was 
+associated with a quality that works “against you because of 
+the  person  you  are,”  and  “restriction,”  or  having  limited 
+opportunities. Discrimination was associated with disadvan-
+tage  for  Blacks  and  advancement  for  Whites.  Participants 
+also  mentioned  other  specific  discrimination  dyads:  older 
+persons against younger ones, and teachers against (Black) 
+students.
+
+Experiences of racial discrimination in health care settings.  Par-
+ticipants  reported  that  they  infrequently  experienced  dis-
+crimination  in  the  health  care  setting.  Regarding  family 
+planning care, two participants reported past experiences in 
+which  providers  made  assumptions  about  their  sexual  his-
+tory.  One  young  woman  was  encouraged  by  her  male  pro-
+vider  to  begin  a  birth  control  method  because  her  mother 
+assumed she was interested in becoming sexually active and 
+took her to the doctor for this purpose; she emphasized that 
+he  did  not  confirm  with  her,  as  the  patient,  if  birth  control 
+was truly the reason she was there. Another young woman 
+perceived that her family planning provider assumed she was 
+sexually active, but she had come to the clinic only to learn 
+about birth control methods. In general health care encoun-
+ters,  one  participant  reported  feeling  as  if  she  was  treated 
+worse by a Black female physician (as compared with a non-
+Black  health  care  provider)  when  she  brought  her  younger 
+
+Lewis et al. 
+
+5
+
+Table 2.  Interview Themes With Participant Quotes.
+
+Construct
+
+Theme
+
+Illustrative quotes
+
+Discrimination 
+
+Differential treatment
+
+“When you discriminate like on a person they act different to you than they do a 
+
+definition
+
+different person because of their belief probably.”
+
+Value/worth
+
+“The way you look at a person, the way you value may have something to do with 
+
+the way you treat him like Caucasian folks may not value a person of color. That’s 
+why you may call that discrimination.”
+
+Stereotypes
+
+Negative view of Blacks by 
+
+“Because, like usually when people think about Black people, or like their 
+
+non-Blacks
+
+“Acting Black or White”
+
+neighborhoods, they’re like, ‘Oh, don’t go down there because you’re going to get 
+shot.’ Or they think of Black people, they’re like, ‘They’re dirty’ or ‘They’re poor.’ 
+‘They’re not better than us.’ . . . like if you ask a White person, like ‘What do you 
+think when you hear the word, like African American?’ They’ll probably say a whole 
+bunch of negative stuff. But I don’t know.”
+
+“She don’t know what she wants to be, she don’t know if she want to act White or 
+she want to act Black . . . White people who don’t know me, they may say she’s 
+just a confused soul.”
+
+Ethnicity
+
+Others’ negative impressions 
+of ethnic expressions or 
+cultural practices
+
+“ . . . me and my sister went in there . . . and when we were talking and stuff and 
+
+they were all like looking at us and they act like they were scared of us. The White 
+people there were scared of us like moving away from us.”
+
+sister for general pediatric care. She believed that the reason 
+for this differential treatment was that her sister was lighter 
+skinned and she and the provider were darker skinned, repre-
+sentative  of  a  viewpoint  that  individuals  with  lighter  skin 
+receive better treatment than those with darker skin. The per-
+ceived  assumption  that  these  young  Black  women  were 
+seeking contraception when they were not may be grounded 
+in  historical  perspectives  about  the  sexuality  of  Black 
+women.  During  times  of  slavery,  Blacks  were  seen  as  the 
+property  of  slave  owners;  they  were  not  viewed  as  human 
+and, therefore, were not entitled to rights befitting a human. 
+What accompanied these views was the inhumane treatment 
+of slaves as evidenced by the commission of horrific acts of 
+violence toward them, one of which was the rape of Black 
+women. Black female slaves were seen as objects of sexual 
+exploitation  for  White  men.  Women  had  no  right  to  resist 
+their slave owners’ advances; compliance with the owners’ 
+quest for sexual gratification was not only commonplace, but 
+expected (Collins, 2005). Furthermore, because Blacks had 
+no rights, this was not seen as a criminal act. Jezebel, a term 
+used to justify the sexual relations between White men and 
+Black  women,  emerged  during  slavery  times  and  depicts  a 
+Black woman with an overwhelming need and strong drive 
+for sex that could only be satiated by a White man, endorsing 
+the  perspective  that  interracial  sex  was,  in  fact,  desired  by 
+Black women (Collins, 2005; Valentine, 2008). This perpetu-
+ated the belief that Black women of that era were uncivilized 
+with  unbridled  sexual  appetites,  “naturally”  promiscuous, 
+and therefore impure. Childbearing was an important aspect 
+of  Black  women’s  sexuality  as  great  value  was  placed  on 
+their  fecundity  given  the  desire  of  slave  owners  to  sustain 
+and grow the slave workforce (Valentine, 2008).
+
+There  is  evidence  that  young  women  perceive  that  the 
+“Jezebel perspective” of Black women as it relates to sexual-
+ity,  use  of  birth  control,  and  pregnancy  still  exists.  Some 
+
+young women described when they were solicited by White 
+men to participate in atypical sexual acts because these men 
+view  Black  women  as  “sexual  freak[s].”  Relating  to  preg-
+nancy, one young woman shared, “To some people, I think, 
+when they see a Black girl, they automatically assume that I 
+got three or four kids or I am running around and all wild and 
+loud and—I am this off the wall . . . ” These experiences and 
+perceptions  may  indicate  that  the  belief  that  Black  women 
+are  hypersexual,  promiscuous,  or  breeders  still  prevails 
+today.
+
+Experiences of racial discrimination, non–health care related.  Par-
+ticipants reported experiencing discrimination in a variety of 
+settings,  including  the  workplace,  school,  stores,  and  their 
+neighborhoods (see Table 3). Events at work and school were 
+particularly common, especially with regard to being hired 
+or  maintaining  employment  and  interactions  with  peers, 
+respectively. This was the case for one participant who heard 
+that  a  hiring  manager  where  she  submitted  her  application 
+told her non-Black friend “Every time a Black person comes 
+and fills out an application I throw it away.”
+
+Another frequently described event was racial profiling, 
+or  being  targeted  by  an  individual  purely  on  the  basis  of 
+racial  or  ethnic  characteristics. The  context  in  which  these 
+events  were  most  likely  to  occur  was  in  stores  (e.g.,  being 
+followed)  and  observations  of  or  interactions  with  law 
+enforcement officials (e.g., harassment, use of unnecessary 
+force, being stopped in a vehicle without clear justification). 
+Interviewees described similar events that were experienced 
+by family members or friends, with the majority of witnessed 
+incidents involving police and Black males. Young women 
+described both emotional and action-based responses when 
+these events occurred. Anger, hurt, disgust, and discomfort 
+were  among  the  emotional  responses  commonly  reported. 
+Verbal expression of these feelings toward the perpetrator or 
+
+6 
+
+SAGE Open
+
+Table 3.  Participants’ Descriptions of Non–Health Care Related Discriminatory Events.
+
+Setting
+
+Recreational 
+
+setting
+
+Event
+
+Avoidance. “We got into the pool with 
+them, and she looked and was like, 
+‘Come on we are going back to the 
+beach, we don’t want to be up here.”
+
+Neighborhood Sexual solicitation, Black women as 
+sexual objects
+
+Characteristics of perpetrator
+
+Person(s) 
+involved
+
+Race
+
+Age
+
+Gender
+
+Perceived 
+reason(s) for 
+discrimination
+
+Response of 
+participant
+
+Passersby White Same age Female
+
+Race
+
+None
+
+Men
+
+White
+
+— Male
+
+Race, 
+
+Feelings—
+
+appearance
+
+disgust, action-
+based—verbal 
+response
+
+Street
+
+Holding bags tightly, walk quickly when 
+
+Passersby White
+
+Adult female Race
+
+Customers
+
+Race
+
+None
+
+None
+
+Stores
+
+White 40s-50s Adult female Race
+
+None
+
+Workplace, 
+
+store
+
+she passes
+
+Patrons go to another cashier to ring 
+them. “It’s like, ‘I don’t want her to 
+ring me . . .’”
+
+Participant was denied an application 
+for a job, but White friend obtained 
+application a few minutes later; she 
+then was told by her friend that 
+store manager said, “Every time a 
+Black person comes and fills out an 
+application I throw it away.”
+
+School
+
+Racial incident—hung Black baby doll in 
+
+—
+
+—
+
+—
+
+—
+
+—
+
+None
+
+a noose with epithets
+
+leaving the setting where the incident took place represented 
+examples  of  actions  taken  in  response  to  a  discriminatory 
+event.
+
+Stereotypes.  Many  of  the  participants  reported  that  Blacks 
+are  viewed  negatively  by  non-Blacks.  The  young  women 
+gave examples of feeling that Blacks are thought of as less 
+intelligent, being poor, having many children, living in vio-
+lent areas, or participating in criminal acts. These ideas were 
+captured in quotes such as the following:
+
+Because, like usually when people think about Black people, or 
+like their neighborhoods, they’re like, “Oh, don’t go down there 
+because you’re going to get shot.” Or they think of Black people, 
+they’re  like,  “They’re  dirty”  or  “They’re  poor.”  “They’re  not 
+better than us.” Like if a White person—like if you ask a White 
+person, like “What do you think when you hear the word, like 
+African  American?”  They’ll  probably  say  a  whole  bunch  of 
+negative stuff. But I don’t know.
+
+In addition, a common sentiment shared by interviewees was 
+“acting Black or White.” References made to these behaviors 
+were  usually  in  the  context  of  speech,  or  using  colloquial 
+terms or slang specific to Blacks. For example, one partici-
+pant  spoke  of  being  “bona  fide  ghetto”  (ghetto  being  a 
+description  of  predominantly  Black,  low-resource  areas  in 
+some  communities)  as  “loud,  obnoxious,  cussing  all  the 
+time”  (cussing  refers  to  swearing  or  use  of  profanity). 
+Alternatively,  young  women  also  described  times  when 
+
+Blacks or Whites told them they were “acting White” because 
+they participated in certain activities or spoke in a way that 
+was  perceived  as  being  associated  with  “Whiteness.”  One 
+young  lady  said,  “I  don’t  know  what  I  want  to  be,  I  don’t 
+know if I want to act White or if I want to act Black . . . White 
+people who don’t know me, they may say I’m just a confused 
+soul.”
+
+The  inverse  was  also  noted  when  White  friends  or 
+acquaintances of some participants “acted Black” by speak-
+ing a certain way or using specific terms only in the presence 
+of Black people. In spite of being part of these different cul-
+tural  realms,  the  participants  made  it  clear  that  they  knew 
+what behavior was appropriate at any given time. For exam-
+ple,  participants  believed  that  slang  could  be  used  with 
+friends, but speaking in a professional tone and using proper 
+English is expected during an interview.
+
+Ethnicity.  There were commonalities among many of the par-
+ticipants when describing the ways in which they identified 
+with their ethnic culture. Young women spoke not only about 
+the  use  of  slang  or  a  specific  manner  of  dress  but  also  the 
+styling of hair.
+
+Some  of  the  young  women  believed  that  the  practices 
+demonstrating  their  membership  in  the  Black  culture  were 
+perceived as having a negative impact on the way that they 
+were viewed or treated by non-Blacks and Blacks, alike. One 
+young woman mentioned that if she wore her hair in a “bush” 
+(afro  hair  style),  she  would  be  asked  “[why]  do  you  have 
+
+ 
+Lewis et al. 
+
+7
+
+your hair like that? It looks dirty” whereas long, straight hair 
+is  viewed  as  “beautiful.”  In  general,  these  young  women 
+illustrated that the ways in which they expressed their ethnic 
+culture through styles of hair, dress, or language were very 
+powerful, and their choices could either make others around 
+them—Black or White—feel comfortable in their presence, 
+or not.
+
+Skin  color.  Many young women, regardless of self-reported 
+skin color, perceived that light-skinned Blacks are regarded 
+more positively and receive better treatment than those who 
+are dark-skinned, and that this differential treatment is prac-
+ticed by both Blacks and Whites. This perception was evi-
+denced by the following comments:
+
+ . . . if you’re light-skinned you’re better no matter if you’re 
+dark-skinned  or  you’re  light-skinned  but  like  better  jobs  if 
+you’re  light-skinned.  Like,  people  will  like  you  better  or 
+you’ll  come-you’ll  come  off  better  than  people  who  are 
+dark-skinned.
+
+  .  .  .  Light,  like  you  have  your-you’re  better,  you’re  just 
+everything is just going to be given to you, like you’re just better 
+than the next person.
+
+Not  only  did  they  report  this  belief  system  being  held 
+among members of general society but also prevailing among 
+members of their family in which lighter skinned individuals 
+were  more  highly  valued  or  preferred  over  darker  skinned 
+individuals.  One  exception  to  this  “rule”  is  when  light-
+skinned Blacks think of themselves as “better than” others, 
+resulting in poorer treatment and exclusion from the domi-
+nant Black group.
+
+Most young women, regardless of their self-reported skin 
+color classification, believed that for them personally, their 
+skin color did not affect the way they were treated by others. 
+However, some young women who self-identified as dark-
+skinned gave vivid accounts of hurtful personal experiences 
+relating to their skin color, which had a negative impact on 
+how they viewed themselves. An example of this was a quote 
+from a young lady who recounted childhood experiences of 
+bullying:
+
+When I was younger I would get bullied and stuff, they used to 
+call me tar baby and all this other stuff . . . yeah it used to make 
+me  cry  and  feel  bad  about  myself,  but  now  I  don’t  pay  no 
+attention to things like that.
+
+Another young lady recounted, “And I didn’t like being so 
+dark, like they be like ‘Blackie,’ . . .”
+
+Positive  outlook  on  race  relations.  Many  young  women 
+expressed that, although they are aware discrimination exists, 
+they do not believe there is a role for it in today’s world and 
+do not endorse the idea that anyone should receive different 
+treatment  on  the  basis  of  race  or  skin  color.  There  is  a 
+
+reassuring sense of tolerance and the embracement of diver-
+sity. One young woman expressed,
+
+Just do you, don’t worry about nobody else, come together, be a 
+big family. I go and eat spaghetti and meatballs with my Italian 
+friends all the time. I eat at the Jamaican store all the time; I even 
+eat Jewish food. We do the same things. Cut it out, right . . . So 
+it’s like be friends with everybody you know.
+
+Discussion
+
+The findings of this study indicate that young Black women 
+did not frequently perceive discrimination in the health care 
+setting,  contrary  to  what  other  studies  have  reported.  An 
+example of such a study is Benkert and Peters’s (2005) work 
+in which they found that African American women reported 
+experiencing  discrimination  when  seeking  family  planning 
+services.
+
+It is for this reason that our finding of young women not 
+endorsing discrimination in a clinical setting warrants further 
+examination. To better understand why this may have been 
+the  case  in  our  clinic,  it  is  necessary  to  first  provide  some 
+context by describing the racial composition of the personnel 
+who staffed the clinic as well as the patient population that 
+was served there. The majority of patients served at the clinic 
+were Black (the clinic is embedded in an urban community 
+that  is  predominately  Black).  In  contrast,  the  staff  repre-
+sented a heterogeneous mix of both Black and White (in gen-
+eral, there were more White than Black staff). The front-line 
+staff, such as receptionists and medical assistants, who made 
+initial contact with patients were Black; however, the nurses 
+and physicians were predominately White (with the excep-
+tion of one Black physician). There were no cultural compe-
+tence  trainings  provided  to  staff,  but  it  is  reasonable  to 
+consider that with the clinic being located in a Black com-
+munity,  serving  mostly  Black  youth,  with  Black  front-line 
+staff, the non-Black staff may have had a heightened aware-
+ness  of  issues  related  to  cultural  bias  and  would  be  more 
+likely to engage in self-monitoring of behaviors that may be 
+perceived  as  discriminatory.  In  addition,  perhaps  by  first 
+interacting with Black reception staff and same-race peers in 
+the  waiting  room,  patients’  perceptions  of  the  clinical 
+encounter with non-Black clinicians that followed were posi-
+tively  influenced  (priming  effect). Alternatively,  it  may  be 
+that  the  presence  of  Blacks  in  the  clinic  enhanced  comfort 
+levels among patients, enabling them to be more receptive to 
+care they received from non-Black clinicians.
+
+Alternatively,  the  race  or  skin  color  of  the  medical  pro-
+vider may be one of many complex factors that a patient con-
+siders  when  assessing 
+the  degree  of  discrimination 
+experienced during a health care encounter. Support for this 
+supposition comes from one participant who described feel-
+ing as though she was discriminated against even though she 
+and the physician with whom she was interacting were the 
+same  race  and  same  darker  hue.  This  suggests  that  the 
+
+8 
+
+SAGE Open
+
+therapeutic bond goes beyond “skin deep” and may, in fact, 
+be more influenced by the perception of respect that the pro-
+vider  shows  the  patient.  Previous  studies  examining  what 
+Black youth value in their relationships with health care pro-
+viders have shown that being respectful and non-judgmental, 
+as well as maintaining the confidentiality of their informa-
+tion,  is  more  important  than  sharing  physical  attributes  or 
+characteristics  with  a  provider  (Ginsburg,  Menapace,  & 
+Slap, 1997; Ginsburg et al., 1995).
+
+We did discover that discrimination, although not neces-
+sarily perceived as being present in the clinic, is a common 
+element in the lives of these young Black women. The set-
+tings in which they are most likely to spend their time are the 
+places  that  they  reported  having  negative  experiences  of 
+race-based  discrimination:  school,  the  workplace,  stores, 
+their  neighborhoods,  recreational  venues,  and  their  own 
+homes.  The  perpetrators  of  these  incidents  are  individuals 
+from  the  same  race,  as  well  as  those  from  different  racial 
+backgrounds. The events may be subtle, such as an askance 
+glance,  or  overt,  such  as  a  directed  racial  slur  or  epithet. 
+Incidents may involve someone with whom they have a close 
+relationship, like a family member, or someone from whom 
+protection  is  expected,  such  as  a  law  enforcement  official. 
+For  some,  it  has  negatively  affected  how  they  view  them-
+selves, or how they believe others view them and Blacks as a 
+group.
+
+Our  findings  suggest  that  intra-racial  dynamics  were  at 
+play in the perceptions of these young women. We chose to 
+explore  the  degree  to  which  the  young  women  identified 
+with  being  Black,  as  some  studies  have  shown  that,  the 
+stronger one’s Black identity, the more likely one is to per-
+ceive  an  event  as  discriminatory  (Sellers  et  al.,  2006; 
+Thorburn & Bogart, 2005). Young women reported that the 
+more  they  expressed  their  ethnicity  or  elements  of  their 
+Black  culture,  the  more  they  were  viewed  negatively  by 
+members of other racial or ethnic groups. Interestingly, skin 
+color—the  degree  of  lightness  or  darkness—was  a  factor 
+that had an impact on the perception of discrimination and 
+affected  self-image  in  these  participants.  Among  these 
+young  women,  there  is  a  belief  that  being  lighter  skinned 
+confers a degree of protection against discrimination and, in 
+fact,  is  a  more  highly  valued  attribute  among  both  non-
+Blacks and Blacks. It is worth providing a historical over-
+view  to  understand  the  origin  of  these  beliefs  and  their 
+prevalence among young Black women.
+
+During slavery, Whites placed greater economic value on 
+those who possessed lighter skin—they were sold at higher 
+prices and were preferred by Whites to perform personal ser-
+vices. These lighter skinned individuals were more likely to 
+be house servants and were not subject to the hard field labor 
+of their darker skinned counterparts, thus enabling them to 
+develop marketable skills and gain social capital. These pref-
+erential practices stemmed from a belief that the lighter skin 
+hue more closely paralleled the Euro-centric view of beauty 
+in which White was more aesthetically appealing than Black, 
+
+and that those with evidence of mixed racial heritage (lighter 
+skin),  were  intellectually  superior  to  those  of  pure African 
+ancestry.  Our  findings,  as  evidenced  by  the  comments  of 
+some of the participants, suggest that this historical perspec-
+tive, rooted in the legacy of slavery, racism, and discrimina-
+tion that was commonplace in this country for centuries, has 
+been perpetuated and is still embedded in the belief systems 
+of Black youth today (Keith & Herring, 1991).
+
+It  was  encouraging  to  learn  that  many  of  the  young 
+women  we  interviewed  had  not  adopted  such  views  and, 
+although  they  or  others  had  experienced  discrimination, 
+their  perceptions  of  the  world  around  them  had  not  been 
+tainted.  Participants’  racial  identity  and  ways  that  they 
+identify with their ethnic culture may help to promote their 
+positive outlook. This concept, known as racial socializa-
+tion  (based  on  race  pride  and  preparation  for  bias),  is 
+believed  to  be  a  potential  protective  factor  that  buffers 
+African American youth from the negative impacts of per-
+ceived  discrimination  (Harris-Britt,  Valrie,  Kurtz-Costes, 
+&  Rowley,  2007).  However,  for  those  youth  who  do  not 
+possess those protective factors, we must not overlook the 
+potential negative impact on their emotional and physical 
+well-being, in both the short- and long-term. A 5-year lon-
+gitudinal study of African American adolescents (enrolled 
+between  10  and  12  years  of  age)  found  that  increases  in 
+perceived  discrimination  were  associated  with  increased 
+conduct  and  depressive  symptoms  (Brody  et  al.,  2006). 
+Nurturing, involved parenting was a protective factor; con-
+duct problems were more prevalent among boys, but there 
+were  no  gender  differences  in  depressive  symptoms. 
+Although this study gives some preliminary data about the 
+consequences  of  early  exposure  to  discrimination,  more 
+research is needed to assess the relationship between dis-
+crimination, health status, and protective factors in youth 
+who  are  exposed  to  discrimination  over  an  extended  and 
+prolonged period of time, and how these impacts manifest 
+in  adulthood.  The  more  recent  Adverse  Childhood 
+Experience work of Wade, Shea, Rubin, and Wood (2014) 
+has  taken  into  account  the  impact  of  discrimination  on 
+youth and demonstrates that urban-specific traumas during 
+childhood predisposes to poor health outcomes as adults. 
+However, there is an acknowledgment that future work is 
+required to understand these complex relationships in more 
+depth and how they manifest in adulthood.
+
+Among  the  issues  with  which  young  people  must  con-
+tend, and which should be included and addressed during the 
+health  care  visit,  is  the  topic  of  racial  discrimination. 
+Approaching  the  subject  in  a  culturally  sensitive  way  and 
+focusing on pertinent issues (e.g., safety in one’s neighbor-
+hood) is only one aspect of competent care. A broader under-
+standing of institutional barriers that exist for an adolescent 
+woman can help the clinician understand her perspective and 
+assist in developing strategies to overcome future barriers.
+
+This  group  of  urban,  minority  young  women  provided 
+insight  into  their  perceptions  and  experiences  of  racial 
+
+Lewis et al. 
+
+9
+
+discrimination. Although valuable, the study findings may be 
+specific to the sampled population and not generalizable to 
+other adolescent populations. Future studies in other health 
+care settings, particularly targeting other demographic popu-
+lations, will be useful to further delineate the experiences of 
+discrimination among young minority women and men.
+
+Funding
+
+The author(s) disclosed receipt of the following financial support 
+for the research and/or authorship of this article: The authors appre-
+ciate the generous support provided by the Northeast Consortium 
+for  Minority  Faculty  Development  grant 
+(University  of 
+Pennsylvania), which made it possible to do this work.
+
+Conclusion
+
+During in-depth, semi-structured interviews, Black adoles-
+cent females reported infrequently experiencing race-based 
+discrimination in the health care setting. However, in other 
+domains of their lives, this was a common occurrence. An 
+increased  awareness  of  and  understanding  that  minority 
+young women experience discrimination in non–health care 
+settings  can  be  acquired  through  cultural  sensitivity  train-
+ing. However, the providers in this clinic had not received 
+any  such  training  and  yet  were  still  able  to  demonstrate  a 
+level of cultural awareness, responding sensitively to their 
+racially diverse patients and meeting their health care needs 
+in  an  environment  of  comfort  and  safety.  It  may  be  that, 
+while  the  staff  did  not  receive  formal  cultural  sensitivity 
+training, they developed an implicit understanding—through 
+their  medical  training,  clinic  philosophy,  and  expectations 
+established  in  the  provision  of  adolescent  reproductive 
+health  care—about  the  cultural  constructs  and  context  of 
+adolescent sexuality, resulting in improved health outcomes 
+for this population.
+
+A high level of cultural awareness that is seamlessly inte-
+grated  into  the  clinic  setting,  and  perhaps  a  willingness  to 
+learn from patients’ non-clinical discriminatory experiences, 
+can  facilitate  health  providers’  demonstration  of  cultural 
+humility, enabling them to provide some of the tools neces-
+sary for youth to navigate complex social systems. Inquiries 
+of discriminatory events or experiences can be made by pro-
+viders during the social history portion of an encounter, cre-
+ating a space for open dialogue about these sensitive issues. 
+This can provide an opportunity for reciprocal learning and 
+allow  a  provider  to  lay  a  framework  for  anticipatory  guid-
+ance  and  problem  solving  around  these  issues.  Equally 
+important  is  the  reinforcement  that  these  young  people  are 
+valued and the clinic is a place where their diversity and con-
+tributions are readily embraced and supported.
+
+Acknowledgments
+
+The  authors  gratefully  acknowledge  Denise  Watson  and  Laurie 
+Paramore  for  their  work  with  transcription,  as  well  as  Jacqueline 
+Grove for her expertise and assistance in preparation of this manu-
+script.  In  addition,  we  express  our  sincere  gratitude  to  the  young 
+women who took the time to provide their perspectives on such a 
+sensitive issue.
+
+Declaration of Conflicting Interests
+
+The author(s) declared no potential conflicts of interest with respect 
+to the research, authorship, and/or publication of this article.
+
+References
+
+Augustine,  J.  (2010).  Adolescents  and  sexually  transmitted  infec-
+from  http://www.advocatesforyouth.org/
+
+tions.  Retrieved 
+publications/456?task=view
+
+Benkert,  R.,  &  Peters,  R.  M.  (2005).  African  American  wom-
+en’s  coping  with  health  care  prejudice.  Western  Journal 
+of  Nursing  Research,  27,  863-889;  discussion  890-865. 
+doi:10.1177/0193945905278588
+
+Borrell,  L.  N.,  Kiefe,  C.  I.,  Williams,  D.  R.,  Diez-Roux,  A.  V., 
+&  Gordon-Larsen,  P.  (2006).  Self-reported  health,  perceived 
+racial discrimination, and skin color in African Americans in 
+the  CARDIA  study.  Social  Science  &  Medicine,  63,  1415-
+1427. doi:10.1016/j.socscimed.2006.04.008
+
+Brody, G. H., Chen, Y. F., Murry, V. M., Simons, R. L., Gibbons, 
+F.  X.,  Gerrard,  M.,  &  Cutrona,  C.  E.  (2006).  Perceived  dis-
+crimination  and  the  adjustment  of  African  American  youths: 
+A  five-year  longitudinal  analysis  with  contextual  moderation 
+effects. Child Development, 77, 1170-1189.
+
+Casagrande,  S.  S.,  Gary,  T.  L.,  LaVeist,  T.  A.,  Gaskin,  D.  J.,  & 
+Cooper, L. A. (2007). Perceived discrimination and adherence 
+to medical care in a racially integrated community. Journal of 
+General Internal Medicine, 22, 389-395. doi:10.1007/s11606-
+006-0057-4
+
+Centers  for  Disease  Control  and  Prevention.  (2012).  Sexually 
+transmitted  disease  surveillance  2011.  Atlanta,  GA:  U.S. 
+Department  of  Health  and  Human  Services.  Retrieved  from 
+http://www.cdc.gov/std/stats
+
+Collins,  P.  H.  (2005).  Black  sexual  politics:  African  Americans, 
+gender, and the new racism. New York, NY: Routledge.
+Fisher, C. B., Wallace, S. A., & Fenton, R. E. (2000). Discrimination 
+distress during adolescence. Journal of Youth and Adolescence, 
+29, 679-695.
+
+Ginsburg, K. R., Menapace, A. S., & Slap, G. B. (1997). Factors 
+affecting the decision to seek health care: The voice of adoles-
+cents. Pediatrics, 100, 922-930.
+
+Ginsburg, K. R., Slap, G. B., Cnaan, A., Forke, C. M., Balsley, C. 
+M., & Rouselle, D. M. (1995). Adolescents’ perceptions of fac-
+tors affecting their decisions to seek health care. Journal of the 
+American Medical Association, 273, 1913-1918.
+
+Harris-Britt,  A.,  Valrie,  C.  R.,  Kurtz-Costes,  B.,  &  Rowley,  S.  J. 
+(2007).  Perceived  racial  discrimination  and  self-esteem  in 
+African  American  youth:  Racial  socialization  as  a  protective 
+factor. Journal of Research on Adolescence, 17, 669-682.
+Keith,  V.  M.,  &  Herring,  C.  (1991).  Skin  tone  and  stratification 
+in the Black community. American Journal of Sociology, 97, 
+760-778.
+
+Kost, K., & Henshaw, S. (2013). U.S. teenage pregnancies, births and 
+abortions, 2008: State trends by age, race and ethnicity. Retrieved 
+from http://www.guttmacher.org/sections/adolescents.php
+
+Ma, J., Wang, Y., & Stafford, R. S. (2005). U.S. adolescents receive 
+suboptimal  preventive  counseling  during  ambulatory  care. 
+Journal of Adolescent Health, 36, 441.
+
+10 
+
+SAGE Open
+
+Sellers,  R.  M.,  Copeland-Linder,  N.,  Martin,  P.  P.,  &  Lewis,  R. 
+H.  (2006).  Racial  identity  matters:  The  relationship  between 
+racial discrimination and psychological functioning in African 
+American  adolescents.  Journal  of  Research  on  Adolescence, 
+16, 187-216.
+
+Slaughter-Acey, J. C., Caldwell, C. H., & Misra, D. P. (2013). The 
+influence  of  personal  and  group  racism  on  entry  into  prena-
+tal  care  among  African-American  women.  Women’s  Health 
+Issues, 23, e381-e387. doi:10.1016/j.whi.2013.08.001
+
+Smart Richman, L., & Leary, M. R. (2009). Reactions to discrimi-
+nation, stigmatization, ostracism, and other forms of interper-
+sonal rejection: A multimotive model. Psychological Review, 
+116, 365-383. doi:10.1037/a0015250
+
+Smedley, B. D., Stith, A. Y., & Nelson, A. R. (2003). Unequal 
+treatment:  Confronting  racial  and  ethnic  disparities  in 
+health  care  (p.  32).  Washington,  DC:  National  Academies 
+Press.
+
+Thorburn, S., & Bogart, L. M. (2005). African American women 
+and  family  planning  services:  Perceptions  of  discrimination. 
+Women and Health, 42, 23-39. doi:10.1300/J013v42n01_02
+Tuan,  N.  (2006).  Young  African  American  women  and  HIV. 
+from  http://www.advocatesforyouth.org/publi-
+
+Retrieved 
+cations/499?task=view
+
+Valentine,  J.  A.  (2008).  Impact  of  attitudes  and  beliefs  regard-
+ing  African  American  sexual  behavior  on  STD  prevention 
+and  control  in  African  American  communities:  Unintended 
+consequences.  Sexually  Transmitted  Diseases,  35,  S23-S29. 
+doi:10.1097/OLQ.0b013e31818d3cc7
+
+Wade, R., Shea, J. A., Rubin, D., & Wood, J. (2014). Adverse child-
+hood experiences of low-income urban youth. Pediatrics, 134, 
+e13-e20. doi:10.1542/peds.2013-2475
+
+Williams, D. R. (2012). Miles to go before we sleep: Racial inequi-
+ties in health. Journal of Health and Social Behavior, 53, 279-
+295. doi:10.1177/0022146512455804
+
+Author Biographies
+
+Valerie J. Lewis, MD, MPH, is the director of Community Health 
+Systems Innovations and an attending physician who specializes in 
+the subspecialty of Adolescent Medicine at Lehigh Valley Health 
+Network. She is an assistant professor of Pediatrics in the College 
+of Medicine at the University of South Florida. Dr. Lewis focuses 
+on the physical and emotional health and well-being of adolescents 
+and is involved in all aspects of service provision from clinical care 
+and advocacy to research and education.
+
+Cynthia  J.  Mollen,  MD,  MSCE,  is  an  attending  physician  in 
+Pediatric  Emergency  Medicine  at  The  Children’s  Hospital  of 
+Philadelphia (CHOP) and an associate professor of pediatrics at the 
+Perelman  School  of  Medicine  at  the  University  of  Pennsylvania. 
+She is an investigator at PolicyLab at CHOP, a research center aim-
+ing to improve child health through policy change, and has exper-
+tise in qualitative methodology. Dr. Mollen’s research focuses on 
+adolescent reproductive health.
+
+Christine M. Forke, RN, MSN, CRNP, is a fellow in the Violence 
+Prevention  Initiative  in  the  Center  for  Injury  Research  and 
+Prevention at The Children’s Hospital of Philadelphia and a degree 
+candidate in the Department of Biostatistics and Epidemiology at 
+the Perelman School of Medicine at the University of Pennsylvania. 
+Her work focuses on pediatric and adolescent health, and she has a 
+specific  interest  in  identifying  and  responding  to  intimate  partner 
+violence and its impact on children, adolescents, and families.
+
+Nadja G. Peter, MD, is an attending physician at St. Christopher’s 
+Hospital for Children in Philadelphia, PA, where she practices ado-
+lescent medicine. At the Center for Child and Adolescent Health, 
+she provides comprehensive primary care for adolescents, encom-
+passing both routine health services and the coordination of care for 
+those with chronic illnesses and complex diagnoses.
+
+Susmita Pati, MD, MPH, is an associate professor of pediatrics at 
+Stony Brook Children’s Service. In addition to her pediatric prac-
+tice,  she  specializes  in  health  services  research,  examining  the 
+impact of public policy on the health of underserved children and 
+families. Dr. Pati’s current research projects examine predictors of 
+Medicaid retention, the relationship between maternal health liter-
+acy  and  child  health  outcomes,  and  methods  to  tailor  peidatric 
+health supervision to individual needs.
+
+Sheyla P. Medina is currently a second-year medical student at the 
+Warren Alpert Medical School at Brown University. She brings a 
+holistic  background  in  public  health  research  and  management, 
+with a particular focus on child and adolescent health and reproduc-
+tive health interventions. Ms. Medina intends to bridge her back-
+ground in population health with her training in child and adoles-
+cent health care.
+
+Sarah  E.  Johnson,  MD,  is  an  instructor  of  medicine  at  Johns 
+Hopkins School of Medicine. She is trained in internal medicine and 
+works as a hospitalist at the Johns Hopkins Hospital. Dr. Johnson’s 
+interests include health systems management; she is currently com-
+pleting a management fellowship within the health system.
+
+

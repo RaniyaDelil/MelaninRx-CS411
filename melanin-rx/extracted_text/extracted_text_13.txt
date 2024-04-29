@@ -1,0 +1,469 @@
+JOURNAL OF WOMEN’S HEALTH
+Volume 30, Number 2, 2021
+Mary Ann Liebert, Inc.
+DOI: 10.1089/jwh.2020.8874
+
+How Implicit Bias Contributes to Racial Disparities
+in Maternal Morbidity and Mortality in the United States
+
+Bani Saluja, MPH1 and Zenobia Bryant, PhD2
+
+Abstract
+
+Over the past two decades, maternal mortality rates have declined around the world. In the United States, however,
+700 women die each year as a result of pregnancy or delivery complications. This represents a 50% increase in the
+U.S. maternal mortality rate over the same time period. According to the Centers for Disease Control and Prevention
+(CDC), the pregnancy-related mortality ratios vary signiﬁcantly by race, with White women experiencing 13.0
+deaths per 100,000 births, compared with 42.8 deaths per 100,000 births for Black women, from 2011 to 2015.
+Multiple studies suggest that implicit bias—deﬁned as the attitudes or stereotypes that affect our understanding,
+actions, and decisions in an unconscious manner—is most likely a contributing factor to this alarming racial health
+disparity. The failure to recognize the pain of African American patients, regardless of whether it is conscious or
+unconscious, has the potential to affect the way obstetrician/gynecologists counsel patients about treatment options
+when it comes to chronic conditions, contraception, vaginal birth after cesarean delivery, and the management of
+ﬁbroids. In this article, we will review implicit bias and the impact it can have on health care and health disparities.
+
+Keywords: maternal morbidity, maternal mortality, implicit bias, racism
+
+Introduction
+
+Over the past two decades, maternal morbidity and
+
+mortality (MMM) rates have declined around the world.
+However, MMM rates have been increasing steadily in the
+United States—the only developed country in which this has
+occurred.1 Each year, *700 women die because of pregnancy
+or delivery complications in the United States, but approxi-
+mately three in ﬁve pregnancy-related deaths could have been
+prevented.2 Furthermore, pregnancy-related mortality rates
+vary signiﬁcantly by race. According to data from the Centers
+for Disease Control and Prevention (CDC) National Pregnancy
+Mortality Surveillance System (PMSS) spanning 2007–2016,
+White women experienced 12.7 deaths per 100,000 births
+compared with 40.8 deaths per 100,000 births for Black
+women.3 Understanding what contributes to this racial divide
+in maternal health outcomes is of vital importance because it
+can illuminate where and how to tackle such a multifaceted
+issue and focus the scope of public health prevention programs.
+
+Decades of research indicate that this serious U.S. public
+health problem involves structural racism and its negative ef-
+fects on the minds and bodies of all racial groups, especially
+people of color.4 Structural racism refers to the summative
+ways in which societies foster racial discrimination through
+mutually reinforcing systems such as housing, education,
+media, employment, and health care.5 Today, an imbalance of
+inherited resources and persisting discrimination restrict the
+access of many Americans of color to better jobs, quality ed-
+ucation, political power, healthy neighborhoods, and quality
+health care.4 As a result, implicit, discriminatory attitudes, and
+behaviors have permeated the U.S. health care system and
+likely are a powerful contributing factor to the high negative
+maternal health outcomes experienced by Black women.
+
+What Is Implicit Bias?
+
+Implicit bias is different from overt and intentional dis-
+crimination and develops early in life from exposure to
+
+1Department of Behavioral and Community Health, University of Maryland School of Public Health, College Park, Maryland, USA.
+2Scientiﬁc Consulting Group, Inc., Gaithersburg, Maryland, USA.
+
+ª Bani Saluja and Zenobia Bryant 2021; Published by Mary Ann Liebert, Inc. This Open Access article is distributed under the terms of
+the Creative Commons Attribution Noncommercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits any non-
+commercial use, distribution, and reproduction in any medium, provided the original author(s) and the source are cited.
+
+Correction added on February 19, 2021 after ﬁrst online publication of November 25, 2020: The article reﬂects Open Access, with
+copyright transferring to the author(s), and a Creative Commons Attribution Noncommercial License (CC-BY-NC) added (http://
+creativecommons.org/licenses/by-nc/4.0/).
+
+270
+
+IMPLICIT BIAS, RACIAL GAPS, AND MATERNAL MORBIDITY
+
+271
+
+repeated reinforcement of stereotypes perpetuated by struc-
+tural discrimination.6 The mere existence of cultural ste-
+reotypes regarding certain social or racial groups has the
+potential to inﬂuence one’s behavior toward individuals
+from the stereotyped group.6 Implicit bias is deﬁned as
+thoughts and feelings that exist outside of conscious
+awareness and subsequently can affect human understand-
+ing, actions, and decisions unknowingly.7,8 These biases
+cause attitudes about other people based on personal char-
+acteristics, including, but not limited to, age, race, and
+ethnicity.8 Because implicit bias is unconscious, it can be
+difﬁcult to measure, and actions resulting from it often are
+challenging to recognize and control.7
+
+Measuring Implicit Bias
+
+Implicit bias cannot be measured well with standard (self-
+report) survey questions.9 The most common tool used to assess
+implicit bias is the Implicit Association Test (IAT). This tool is
+available online and is a computerized, timed dual categori-
+zation task that measures implicit preferences by bypassing
+conscious processing.6,8 The IAT has been used in hundreds
+of studies across a variety of disciplines, including psychology,
+health, political science, and market research.9 Demonstra-
+tions of the IAT can be found at https://implicit.harvard.edu.
+
+Implicit Bias, Health Care Providers,
+and Maternal Health
+
+Implicit bias is directly correlated with lower quality of
+care for patients and may be activated under stressful
+working conditions.7,10 The potential inﬂuence of implicit
+bias is especially relevant in settings that are prone to
+overload or high stress. These environments include emer-
+gency departments or labor and delivery settings, where
+relying on automatic or unconscious processes to execute
+medical decision making quickly becomes essential. How-
+ever, such automatic processes also are likely to activate
+stereotypes and unconscious beliefs.8 In addition, cognitive
+stressors, such as overcrowding and the demand to care for
+more patients during a shift, are associated with an increase in
+implicit bias.11
+
+Although the medical profession strives for equal treatment
+of all patients, racial disparities in health care are prevalent.6
+Racial disparities exist because implicit bias affects health care
+providers’ perceptions and decisions, creating inequalities in
+access, patient–provider interactions, treatment decisions, and
+health outcomes.4,12 Even when health care providers do not
+display explicit discrimination, implicit biases still exist.4 A
+2012 study found that, after adjusting for medically necessary
+procedures, cesarean deliveries were more common among
+Black and Latina women than White women. Cesarean deliv-
+eries lead to more negative health outcomes for both mother and
+baby; research on obstetric care increasingly considers rising
+C-section rates to be a source of MMM. Three of the six leading
+causes of maternal mortality are associated with cesareans:
+hemorrhage, complications of anesthesia, and infection.13
+
+Moreover, many health care providers struggle to ac-
+knowledge the impact of personal implicit bias on how they
+care for their patients.14 A study conducted by the Society for
+Maternal Fetal Medicine showed inconsistency between
+clinicians’ willingness to acknowledge disparities in their
+practice and their consideration of implicit bias. In fact, 84%
+
+of respondents agreed that disparities affect their practice, but
+only 29% believed that personal biases inﬂuenced their
+ability to care for patients.8
+
+Furthermore, some health care providers still hold false
+beliefs about biological differences between Black and White
+individuals that increase implicit bias. These beliefs include
+ideas that Black people have less sensitive nerve endings,
+thicker skin, and stronger bones.15 The presence of these beliefs
+causes health care providers to rate Black patients’ pain lower
+and results in less-appropriate treatment recommendations.15
+Speciﬁcally regarding pain management, Rust et al. found sig-
+niﬁcant racial/ethnic differences in the rates of epidural anal-
+gesia. Minorities, speciﬁcally Black non-Hispanic and Hispanic
+patients, had signiﬁcantly lower rates of epidural analgesia.16 As
+a result, health care provider bias, although unintentional and
+often unrecognized, does lead to mistrust in the health care
+system and poor patient satisfaction from people of color.17
+
+In a comprehensive report entitled Birth Settings in Amer-
+ica: Outcomes, Quality, Access, and Choice by the National
+Academies of Sciences, the authors reference the Listening to
+Mothers III survey, which found that approximately one in ﬁve
+Black and Hispanic women experienced mistreatment from
+hospital-based care providers because of their race, ethnicity,
+cultural background, and/or language.18 As reported in an ar-
+ticle published in 2018, anthropologist Dana-Ain Davis ana-
+lyzed the birth stories of Black women living in the United
+States. These birth stories describe various forms of mal-
+treatment during medical encounters while they were pregnant
+or during labor and delivery. Consequently, some women
+avoided the hospital if possible and utilized midwives and
+doulas for home or birth center services.19
+
+The Effects of Implicit Bias
+on Patient–Provider Communication
+
+In addition to its potential impact on medical decision
+making, implicit bias also can affect how providers com-
+municate with patients. Studies found that people of color are
+more likely to report lower satisfaction with health care
+provider interactions.7 Subtle racial biases may be expressed
+in such ways as approaching patients with a condescending
+tone that decreases the likelihood that patients will feel heard
+and valued by their providers or recommending different
+treatment options for patients based on assumptions about
+their treatment adherence capabilities or presumed health
+conditions.7 Consistent and robust evidence shows that health
+care providers who exhibit higher implicit bias demonstrate
+higher verbal dominance in their communication styles and
+treatment.11 Subsequently, patients of
+less interpersonal
+these providers report poorer satisfaction ratings and greater
+difﬁculty understanding or
+following recommendations,
+which can perpetuate biases held by the provider.11 This is a
+vicious cycle that highlights the importance of improved
+communication and the need for health care providers to be
+aware of their own implicit biases.
+
+The actions of providers and their interactions with patients
+are highly associated with racial disparities in women’s expe-
+rience of trauma during birth. In the United States, 30% of
+Black and Hispanic women who delivered in hospitals reported
+provider mistreatment, whereas only 21% of White women
+reported provider mistreatment.12 The perceived dismissals
+women felt of legitimate concerns and symptoms, such as
+
+272
+
+SALUJA AND BRYANT
+
+preeclampsia and hypertension, can help explain the existence
+of poor birth outcomes even for Black women with the most
+advantages, such as high income and advanced education.20
+
+Opportunities for Intervention
+
+Efforts to resolve racial disparities in maternal health are
+constrained by two main challenges: (1) lack of reliable data
+on patient identity (including race, ethnicity, native country,
+and language) and (2) limited patient and staff education on
+the best practices for collecting information related to iden-
+tity.8 The improvement of cultural humility programming for
+health care providers is increasingly emphasized. Cultural
+humility goes beyond cultural competency and is deﬁned as a
+life-long commitment to self-evaluation and self-critique in
+an effort to address power imbalances and advocate for
+others.21 Practicing cultural humility mitigates implicit bias,
+promotes empathy, and aids health care providers in ac-
+knowledging and respecting patients’ individuality.21 Cul-
+tural humility principles emphasize that providers should aim
+to connect with patients instead of assuming expertise on the
+patient’s race, culture, or ethnicity and how those relate to the
+patient’s health.21 Efforts to incorporate awareness of im-
+plicit bias in medical and nursing school and residency
+training programs are important steps in training the next
+generation of health care providers to treat patients and
+families with respect and provide high-quality care to an
+increasingly diverse patient population.
+
+Evidence also shows that mindfulness interventions are
+effective at reducing implicit bias. Mindfulness-based prac-
+tices can offer additional beneﬁts to health care providers,
+including decreasing burnout and improving empathy and
+well-being.11 In one successful intervention, after completing
+a baseline IAT and an educational program about the impact of
+implicit bias on discriminatory behaviors, participants were
+trained on how to apply several bias-reduction strategies to
+everyday practice. These strategies included (1) stereotype
+replacement, in which individuals were trained to recognize
+stereotypes being perpetuated in society and within themselves
+and how to replace them with nonstereotypic responses; (2)
+counter-stereotypic imaging, in which individuals imagine
+someone from a marginalized group who does not fulﬁll
+commonly believed stereotypes about that group; (3) indi-
+viduation, in which individuals try to get to know someone else
+and focus on their individual characteristics, instead of their
+group-based characteristics; and (4) perspective taking, in
+which individuals consciously assess a situation from the
+viewpoint of another racial group. Furthermore, health care
+providers should actively seek out as many opportunities for
+cross-cultural contact as possible throughout their career.11
+
+As for opportunities regarding patient empowerment, pa-
+tients who read their clinical notes through online patient
+portals report that doing so engages them actively in their
+care, improves their sense of control over their health, and
+enhances safety, especially among minority patients.22
+Qualitative research also suggests that reading their clinical
+notes can help patients feel listened to, validated, and un-
+derstood.22 Open notes may increase trust between patients
+and clinicians, reduce transmission of biases, and increase
+patient engagement. Also, patients should be given infor-
+mation to make informed decisions about continuing or
+ending a relationship with a provider; expecting mothers are
+
+not obligated to remain with a health care provider
+throughout a pregnancy and should be encouraged to ﬁnd the
+right ﬁt, particularly early in the pregnancy.19
+
+Additionally, hospital systems can implement mandatory
+MMM reviews, which help to identify areas of substandard
+care that need improvement.14 If conducting a systematic,
+multidisciplinary review of all cases of maternal death and
+severe morbidity and establishing a mechanism to dissemi-
+nate knowledge gained from those reviews became standard
+practice, then hundreds of lives could be saved.
+
+Furthermore, the disparities of any condition, let alone
+maternal health, cannot be discussed without also discussing
+the system-level factors that may contribute to them. An
+important system-level factor that impacts clinical care is the
+availability of transportation to in-person visits. Cab vouch-
+ers or other transit programs may help with this barrier. The
+frequency of scheduled in-person visits poses another chal-
+lenge; innovations in telehealth may assist
+in improved
+patient-centered care. Also, for women who do not speak
+English, failures in adequate communication also can con-
+tribute to maternal health disparities. Increasing the avail-
+ability of interpreter services, both in person and on the
+phone, could support improvements in this area.14
+
+Conclusion
+
+To reiterate, most pregnancy-related deaths can be pre-
+vented; all levels of the social/ecological model should be
+considered together when examining racial disparities in
+health care. Further identiﬁcation and evaluation of factors
+contributing to racial disparities is crucial to informing and
+implementing prevention strategies that will effectively re-
+duce disparities in pregnancy-related mortality, including
+strategies to improve women’s health and access to quality
+care in all maternal phases: preconception, pregnancy, and
+postpartum.3 We recognize that addressing this complex
+national problem requires coordination and collaboration
+among patients, families, health care providers, community
+organizations, hospitals, health systems, and policymakers.3
+We believe the interdisciplinary work can be done, but in-
+dividual implicit bias and the deep impact of structural racism
+must be acknowledged and accepted before real progress can
+be made in reducing racial disparities in maternal mortality
+and decreasing maternal deaths overall in the United States.
+
+Author Disclosure Statement
+
+No competing ﬁnancial interests exist.
+
+Funding Information
+
+No funding was received for this article.
+
+References
+
+1. Delbanco S, Lehan M, Montalvo T, Levin-Scherz J. The
+rising U.S. maternal mortality rate demands action from
+employers. Harvard Business Review. Published online
+June 28, 2019. Available at: https://hbr.org/2019/06/the-
+rising-u-s-maternal-mortality-rate-demands-action-from-
+employers Accessed May 20, 2020.
+
+2. Petersen EE, Davis NL, Goodman D, et al. Vital signs:
+Pregnancy-related deaths, United States, 2011–2015, and
+strategies for prevention, 13 states, 2013–2017. MMWR
+Morb Mortal Wkly Rep 2019;68:423–429.
+
+IMPLICIT BIAS, RACIAL GAPS, AND MATERNAL MORBIDITY
+
+273
+
+3. Petersen EE. Racial/ethnic disparities in pregnancy-related
+deaths—United States, 2007–2016. MMWR Morb Mortal
+Wkly Rep 2019;68:762–765.
+
+4. Feagin J, Benneﬁeld Z. Systemic racism and U.S. health
+
+care. Soc Sci Med 2014;103:7–14.
+
+5. Bailey ZD, Krieger N, Age´nor M, Graves J, Linos N, Bassett
+MT. Structural racism and health inequities in the USA:
+Evidence and interventions. Lancet 2017;389:1453–1463.
+6. Chapman EN, Kaatz A, Carnes M. Physicians and implicit
+bias: How doctors may unwittingly perpetuate health care
+disparities. J Gen Intern Med 2013;28:1504–1510.
+
+7. Hall WJ, Chapman MV, Lee KM, et al. Implicit racial/
+ethnic bias among health care professionals and its inﬂu-
+ence on health care outcomes: A systematic review.
+Am J Public Health 2015;105:e60–e76.
+
+8. Howell EA, Brown H, Brumley J, et al. Reduction of
+peripartum racial and ethnic disparities: A conceptual
+framework and maternal safety consensus bundle. Obstet
+Gynecol 2018;131:770–782.
+
+9. Blair IV, Steiner JF, Havranek EP. Unconscious (implicit)
+bias and health disparities: Where do we go from here?
+Perm J 2011;15:71–78.
+
+10. Hilton EJ, Goff KL, Sreedharan R, Lunardi N, Batakji M,
+Rosenberger DS. The ﬂaw of medicine: Addressing racial
+and gender disparities in critical care. Anesthesiol Clin
+2020;38:357–368.
+
+11. Johnson TJ. Racial bias and its impact on children and
+adolescents. Pediatr Clin North Am 2020;67:425–436.
+12. Vedam S, Stoll K, Taiwo TK, et al. The Giving Voice to
+Mothers study: Inequity and mistreatment during pregnancy
+and childbirth in the United States. Reprod Health 2019;16:77.
+13. Roth LM, Henley MM. Unequal motherhood: Racial-ethnic
+and socioeconomic disparities in cesarean sections in the
+United States. Soc Probl 2012;59:207–227.
+
+14. Jain JA, Temming LA, D’Alton ME, et al. SMFM special
+report: Putting the ‘‘M’’ back in MFM: Reducing racial and
+ethnic disparities in maternal morbidity and mortality: A
+call to action. Am J Obstet Gynecol 2018;218:B9–B17.
+15. Jones SCT, Anderson RE, Gaskin-Wasson AL, Sawyer BA,
+Applewhite K, Metzger IW. From ‘‘crib to cofﬁn’’: Navi-
+gating coping from racism-related stress throughout the
+lifespan of black Americans. Am J Orthopsychiatry 2020;
+90:267–282.
+
+16. Rust G, Nembhard WN, Nichols M, et al. Racial and ethnic
+disparities in the provision of epidural analgesia to Georgia
+delivery.
+labor
+during
+Medicaid
+Am J Obstet Gynecol 2004;191:456–462.
+
+beneﬁciaries
+
+and
+
+17. Alhusen JL, Bower KM, Epstein E, Sharps P. Racial dis-
+crimination and adverse birth outcomes: An integrative
+review. J Midwifery Womens Health 2016;61:707–720.
+18. National Academies of Science, Engineering, and Medi-
+cine. Birth settings in America: Outcomes, quality, access,
+and choice. National Academies Press, 2020.
+
+19. Davis D-A. Obstetric racism: The racial politics of preg-
+nancy, labor, and birthing. Med Anthropol 2019;38:560–573.
+20. Villarose L. Why America’s black mothers and babies are
+in a life-or-death crisis. The New York Times. Published
+April 11, 2018. www.nytimes.com/2018/04/11/magazine/
+black-mothers-babies-death-maternal-mortality.html Ac-
+cessed May 26, 2020.
+
+21. Masters C, Robinson D, Faulkner S, Patterson E, McIlraith
+T, Ansari A. Addressing biases in patient care with the 5Rs
+of cultural humility: A clinician coaching tool. J Gen Intern
+Med 2019;34:627–630.
+
+22. Blease C, Fernandez L, Bell SK, Delbanco T, DesRoches C.
+Empowering patients and reducing inequities: Is there po-
+tential in sharing clinical notes? BMJ Qual Saf 2020;29:1–2.
+
+Address correspondence to:
+Bani Saluja, MPH
+Department of Behavioral and Community Health
+University of Maryland School of Public Health
+College Park, MD 20742
+USA
+
+E-mail: bsaluja@umd.edu
+
+Zenobia Bryant, PhD
+Scientiﬁc Consulting Group, Inc.
+656 Quince Orchard Road
+Suite 210
+Gaithersburg, MD 20878
+USA
+
+E-mail: zenobia.j.bryant@gmail.com
+
+

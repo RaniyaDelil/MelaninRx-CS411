@@ -1,0 +1,1926 @@
+ RESEARCH AND PRACTICE 
+
+Onset of Natural Menopause in African American Women
+
+| Julie R. Palmer, ScD, Lynn Rosenberg, ScD, Lauren A. Wise, MSc, Nicholas J. Horton, ScD, Lucile L. Adams-Campbell, PhD
+
+A woman’s age at the onset of natural meno-
+pause is associated with several serious ill-
+nesses. For example, early menopause has
+been associated with an increased risk of os-
+teoporosis1,2 and with an increased overall
+mortality.3,4 Cigarette smoking is the only
+factor that has been consistently linked to
+earlier natural menopause.5–13 Nullipar-
+ity,12,14–16 nonuse of oral contraceptives,12,16–18
+low body mass index,10,19 and low educa-
+tional status12,16,20 have also been associated
+with earlier menopause, but the evidence is
+inconsistent.
+
+Almost all available data on determinants
+
+of age at natural menopause in American
+women have come from studies of White
+women. The exceptions are Bromberger et
+al.’s6 prospective study of age at natural men-
+opause, which included 19 Black women and
+Gold et al.’s12 cross-sectional study of natural
+menopause, which included 4157 African
+American women. One of the findings of the
+Bromberger study was an association be-
+tween increased stress and an earlier age of
+menopause among the Black women. In our
+report, we prospectively assessed the relation
+of demographic, reproductive, and health fac-
+tors to age at natural menopause among US
+Black women, based on data from a follow-up
+study of 64 500 African American women.
+To pursue a hypothesis raised by the study of
+Bromberger et al.,6 we also assessed the rela-
+tion of participants’ perceived experiences of
+racism to the risk of early menopause.
+
+METHODS
+
+Data Collection
+
+In 1995, 64 500 US Black women aged
+21 to 69 years from all areas of the United
+States enrolled in the Black Women’s Health
+Study by completing health question-
+naires.21–24 The questionnaires were mailed
+to subscribers to Essence magazine, members
+of selected Black professional organizations,
+and friends and relatives of early respon-
+dents. The participants were sent follow-up
+
+Objectives. This study assessed predictors of the onset of natural menopause in Af-
+
+rican American women.
+
+Methods. We used mailed questionnaires to collect data at baseline in 1995 and dur-
+ing follow-up from Black Women’s Health Study participants. Cox proportional hazards
+regression was used to assess potential predictors—including experiences of racism—
+of the onset of natural menopause among 17 070 women aged 35 to 55 years and pre-
+menopausal in 1995.
+
+Results. The hazard ratio (HR) was 1.43 for current smokers (95% confidence inter-
+val [CI]=1.24, 1.66) and 1.21 (95% CI=1.06, 1.38) for ex-smokers and significantly less
+for obese women and oral contraceptive users. Hazard ratios for most questions about
+racism were elevated by 10% to 30% but were not statistically significant.
+
+Conclusions. Earlier onset of natural menopause among African American women is
+strongly associated with smoking and inversely associated with body mass index and
+oral contraceptive use. (Am J Public Health. 2003;93:299–306)
+
+questionnaires in 1997 and 1999: 82% com-
+pleted the 1997 questionnaire and 80% com-
+pleted the 1999 questionnaire.
+
+The 1995 questionnaire asked about many
+
+factors, including current weight and height,
+history of oral contraceptive use, vigorous
+physical activity in the previous year, current
+and past cigarette smoking, parity, and age at
+menarche. With respect to menopause, the
+women were asked in 1995: “Have your
+menstrual periods stopped permanently (yes/
+yes but have periods now due to female hor-
+mones/ no/ not sure).” The 1997 question-
+naire asked: “Have you gone through meno-
+pause (yes/ yes but have periods now due to
+female hormones/ no but I am currently
+going through menopause/ no/ uncertain); If
+yes (gone through menopause), what was the
+age at menopause and what caused the men-
+opause (natural menopause/ surgery/ med-
+ication, chemotherapy, radiation).” The 1999
+questionnaire asked: “Have your menstrual
+periods stopped permanently (menopause)
+(yes/ yes but have periods now due to female
+hormones/ no/ uncertain/ never had peri-
+ods).” If periods had ceased permanently, the
+women were asked the age at which their pe-
+riods stopped and the reason (natural meno-
+pause/ surgery/ medications, chemotherapy,
+radiation). The 1997 questionnaire also asked
+questions about perceptions of experiences of
+racism. There were 5 questions about experi-
+
+ences in daily life: “In your day-to-day life,
+how often has it happened that you received
+poorer service than other people in restau-
+rants or stores; people acted as if they
+thought you were not intelligent; people acted
+as if they were afraid of you; people acted as
+if they thought you were dishonest; people
+acted as if they were better than you.” There
+were 3 questions about unfair treatment:
+“Have you ever been treated unfairly due to
+your race in the area of: job (hiring, promo-
+tion, firing); housing (renting, buying, mort-
+gage); police (stopped, searched, threatened).”
+These were taken from a set of questions
+used by Williams et al.25 in a study of racial
+differences in physical and mental health; a
+high score was positively related to several
+measures of poor health in that study. Finally,
+participants were asked how often they
+thought about their race, with a question de-
+veloped by C. Jones.26
+
+In our study, menopause was defined as
+permanent cessation of menstrual periods. To
+assess the degree of misclassification of natu-
+ral menopause, we examined the 1999 ques-
+tionnaire responses of the 253 women who
+reported a natural menopause on the 1997
+questionnaire. Of these, 224 had completed
+the menopause section of the 1999 question-
+naire; 88% reported having had a natural
+menopause, suggesting that misclassification
+of age at menopause was not substantial. The
+
+February 2003, Vol 93, No. 2 | American Journal of Public Health
+
+Palmer et al. | Peer Reviewed | Research and Practice | 299
+
+ RESEARCH AND PRACTICE 
+
+baseline: parity (nulliparous, 1, 2, 3, ≥ 4
+births), age at menarche (<11, 11, 12–13,
+14, ≥15 years), years of oral contraceptive
+use (never use, 1–4, 5–9, ≥10 years), unilat-
+eral oophorectomy, smoking status (never,
+past, current), years of education (<12, 12,
+13–15, 16, ≥17), vigorous physical activity
+(none, < 5 hours per week, ≥ 5 hours per
+week), and body mass index (in kilograms
+per meter2) (< 20, 20–24, 25–29, ≥ 30).
+Women with missing information on any co-
+variate (n = 760) were dropped from the
+final analysis. We also assessed the estimated
+number of ovulatory cycles, defined as fol-
+lows: [(age at baseline – age at menarche) –
+(parity + years of oral contraceptive use)] ÷
+(average cycle length/365); we did not have
+information on cycle length and used 28 for
+the average cycle length in the formula.29
+The assumption of proportional hazards
+was evaluated for the final model by plotting
+the complementary log-log transform and as-
+sessing parallelism of the exposure-specific
+survival curves.28 To address the possibility
+that hormone replacement therapy may be
+related to the onset of menopausal symptoms
+and may differ by socioeconomic position,30
+we conducted separate analyses28,31 in which
+the 724 women who initiated hormone re-
+placement use before menopause were reclas-
+sified as having had the outcome event. We
+also ran models in which premenopausal
+women who used oral contraceptives (n =
+922) were considered premenopausal
+throughout the follow-up period rather than
+being censored. Because these analyses
+yielded results similar to those with the origi-
+nal outcome definition, we present data only
+from the original analysis.
+
+RESULTS
+
+Baseline demographic, lifestyle, and health
+characteristics of the 17 070 participants who
+were premenopausal at the start of follow-up
+are presented in Table 1 according to their
+menstrual status at the end of follow-up. In
+total, 1323 women reached a natural meno-
+pause (reported by 253 women on the 1997
+questionnaire and by 1070 on the 1999
+questionnaire) and 12 796 women were still
+premenopausal at the end of follow-up. The
+remainder underwent either surgical meno-
+
+remaining 12% indicated that they were cur-
+rently “going through menopause” or were
+“uncertain” about their menopausal status;
+these women were not considered to have
+undergone natural menopause. It was not
+possible to perform similar data cleaning for
+women who first reported the occurrence of
+natural menopause on the 1999 question-
+naire because subsequent data on their men-
+opausal status were not available, but there is
+no reason to expect different results.
+
+Data Analysis
+
+Our analytic sample comprised all Black
+Women’s Health Study participants who were
+premenopausal and aged 35 to 55 years at
+baseline (1995) and who had completed at
+least 1 follow-up questionnaire (1997 or
+1999) (n = 17 070). Our analytic goal was to
+estimate the incidence of menopause in rela-
+tion to selected baseline characteristics and
+perceived experiences of racism. All women
+were considered “at risk” for menopause until
+the occurrence of natural menopause, the end
+of their follow-up period in the study (maxi-
+mum of 4 years), or the occurrence of a cen-
+soring event. Women were censored at the
+midpoint of the follow-up interval in which
+they reported hysterectomy (n = 670), bilat-
+eral oophorectomy (n = 553), medical meno-
+pause (n = 82), or use of hormone replace-
+ment therapy or oral contraceptives (n =
+1646).
+
+Proportional hazards regression models
+were used to derive hazard ratios (HRs) for
+age at natural menopause in relation to se-
+lected baseline characteristics and perceived
+experiences of racism, with adjustment for po-
+tential confounders.27 The hazard function for
+each variable was related to the conditional
+probability of reaching menopause at age t,
+given that a woman had not reached meno-
+pause by age t. We used the PHREG proce-
+dure in SAS (version 8.0; SAS Institute Inc,
+Cary, NC), with the “exact” option to handle
+ties, as age was measured to the nearest
+year.28
+
+We assessed factors that, on theoretical
+
+grounds, may be associated with natural
+menopause or that have been shown to be
+associated with natural menopause in previ-
+ous studies. Our final multivariate model in-
+cluded the following covariates measured at
+
+pause or medical menopause, or began tak-
+ing hormones before the permanent cessa-
+tion of menses. The mean age at natural
+menopause was 49.6 years (SD = 3.71); the
+median age was 50 years (interquartile
+range = 47, 52).
+
+Hazard ratios are given in Table 2 as esti-
+
+mates of the incidence rate ratios for these
+factors in relation to the occurrence of natural
+menopause. Cigarette smoking was most
+strongly associated with early menopause: the
+hazard ratio was 1.43 (95% confidence inter-
+val [CI] = 1.24, 1.66) for current smokers and
+1.21 (95% CI = 1.06, 1.38) for past smokers
+relative to never smokers. A dose response–
+relation with the duration and intensity of cig-
+arette smoking was found, with the hazard
+ratio for pack-years of smoking increasing to
+1.52 (95% CI = 1.30, 1.79) for the highest
+quartile (P for trend = .0048). High body
+mass index was associated with a reduced oc-
+currence of menopause: the hazard ratio for
+women in the highest category, ≥ 30, was
+0.78 (95% CI = 0.67, 0.90) relative to
+women with a body mass index of 20 to 24
+years. The hazard ratio was also reduced for
+women who had used oral contraceptives for
+at least 1 year relative to women who used
+them for shorter periods or not at all (0.86
+[95% CI = 0.77, 0.96]), but there was no fur-
+ther reduction associated with longer-term
+use. The hazard ratio for parous women rela-
+tive to nulliparous women was 0.93, but the
+confidence interval included 1.0, and there
+was no trend by the number of births. The
+hazard ratio for unilateral oophorectomy was
+1.17 (95% CI = 0.82, 1.66). Age at menarche,
+years of education, and vigorous physical ac-
+tivity were not related to the occurrence of
+menopause. The number of lifetime ovulatory
+cycles also was not associated with meno-
+pause (HR for ≥ 300 cycles relative to < 300
+was 1.03 [95% CI = 0.87, 1.24]).
+
+The analyses were repeated separately ac-
+cording to age at the start of follow-up, 35 to
+44 or 45 to 55 years, with the former pro-
+viding information on very early menopause.
+Unilateral oophorectomy was strongly associ-
+ated with age at menopause among the youn-
+ger women (HR = 2.00 [95% CI = 1.09,
+3.68]), but not among the older women
+(HR = 0.87 [95% CI = 0.54, 1.39]). Cigarette
+smoking, body mass index, and oral contra-
+
+300 | Research and Practice | Peer Reviewed | Palmer et al.
+
+American Journal of Public Health | February 2003, Vol 93, No. 2
+
+ RESEARCH AND PRACTICE 
+
+TABLE 1—Demographic, Lifestyle, and Health Characteristics of 17 070 Participants Who Were 
+Premenopausal at Baseline, by Menopausal Status at Follow-Up: Black Women’s Health Study,
+United States, 1995–1999
+
+Baseline characteristic
+
+Age at baseline, median (IQ)
+Smoking status
+Never smoker
+Past smoker
+Current smoker
+Missing
+
+Years of age at menarche
+
+<11
+11
+12–13
+14
+≥15
+Missing
+
+Parity
+
+Nulliparous
+Parous
+Missing
+
+Years of oral contraceptive use
+
+<1
+≥1
+
+Years of education
+
+<12
+12
+13–15
+16
+≥17
+Missing
+
+Body mass index in kg/m2
+
+< 20
+20–24
+25–29
+≥ 30
+Missing
+
+Unilateral oophorectomy
+
+No
+Yes
+
+Vigorous physical activity
+
+None
+< 5 h/wk
+≥ 5 h/wk
+
+Menopausal Status at Follow-Up
+
+Premenopausal
+(n = 12 796), No. (%)
+
+Premenopausal, Hormone Use
+(n = 1646), No. (%)
+
+Surgical Menopause
+(n = 1223), No. (%)
+
+Medical Menopause
+(n = 82), No. (%)
+
+Natural Menopause
+(n = 1323), No. (%)
+
+40 (37–43)
+
+41 (37–45)
+
+42 (38–45)
+
+44 (40–47)
+
+48 (45-50)
+
+7495 (58.6)
+2716 (21.2)
+2541 (19.9)
+44 (0.34)
+
+1382 (10.8)
+1977 (15.5)
+6783 (53.0)
+1336 (10.4)
+1257 (9.8)
+61 (0.5)
+
+3058 (23.9)
+9605 (75.1)
+133 (1.0)
+
+5385 (42.1)
+7411 (57.9)
+
+202 (1.6)
+1703 (13.3)
+4576 (35.8)
+2881 (22.5)
+3261 (25.5)
+173 (1.3)
+
+530 (4.1)
+3957 (30.9)
+4041 (31.6)
+4078 (31.9)
+190 (1.5)
+
+12 526 (97.9)
+270 (2.1)
+
+4734 (37.0)
+6481 (50.6)
+1581 (12.4)
+
+1003 (60.9)
+361 (21.9)
+271 (16.5)
+11 (0.67)
+
+187 (11.3)
+263 (16.0)
+859 (52.2)
+166 (10.1)
+163 (9.9)
+8 (0.5)
+
+440 (26.7)
+1181 (71.8)
+25 (1.5)
+
+522 (31.7)
+1124 (68.3)
+
+15 (0.9)
+211 (12.8)
+548 (33.3)
+404 (24.5)
+445 (27.1)
+23 (1.4)
+
+68 (4.2)
+524 (31.8)
+543 (33.0)
+476 (28.9)
+35 (2.1)
+
+1595 (96.9)
+51 (3.1)
+
+577 (35.1)
+852 (51.7)
+217 (13.2)
+
+750 (61.3)
+271 (22.2)
+196 (16.0)
+6 (0.49)
+
+148 (12.1)
+197 (16.1)
+669 (54.7)
+108 (8.8)
+96 (7.9)
+5 (0.4)
+
+223 (18.2)
+983 (80.4)
+17 (1.4)
+
+490 (40.1)
+733 (59.9)
+
+23 (1.9)
+193 (15.8)
+459 (37.5)
+269 (22.0)
+271 (22.2)
+8 (0.6)
+
+25 (2.0)
+336 (27.5)
+429 (35.1)
+414 (33.9)
+19 (1.5)
+
+1199 (98.0)
+24 (2.0)
+
+487 (39.8)
+605 (49.5)
+131 (10.7)
+
+47 (57.3)
+19 (23.2)
+16 (19.5)
+0 (0.0)
+
+8 (9.8)
+23 (28.0)
+35 (42.7)
+5 (6.1)
+11 (13.4)
+0 (0.0)
+
+18 (22.0)
+64 (78.0)
+0 (0.0)
+
+34 (41.5)
+48 (58.5)
+
+1 (1.2)
+16 (19.5)
+26 (31.7)
+13 (15.9)
+26 (31.7)
+0 (0.0)
+
+2 (2.4)
+19 (23.2)
+32 (39.0)
+28 (34.2)
+1 (1.2)
+
+80 (97.6)
+2 (2.4)
+
+35 (42.7)
+43 (52.4)
+4 (4.9)
+
+672 (50.8)
+370 (28.0)
+275 (20.8)
+6 (0.45)
+
+152 (11.5)
+196 (14.8)
+699 (52.8)
+133 (10.1)
+136 (10.3)
+7 (0.5)
+
+206 (15.6)
+1106 (83.6)
+11 (0.8)
+
+632 (47.8)
+691 (52.2)
+
+32 (2.4)
+205 (15.5)
+410 (31.0)
+256 (19.4)
+401 (30.3)
+19 (1.4)
+
+39 (3.0)
+392 (29.6)
+451 (34.1)
+413 (31.2)
+28 (2.1)
+
+1290 (97.5)
+33 (2.5)
+
+593 (44.8)
+596 (45.1)
+134 (10.1)
+
+Note. IQ = interquartile range: 25th to 75th percentile. Follow-up was at 4 years.
+
+ceptive use were associated with age at meno-
+pause in both groups.
+
+Factors concerning perceived experiences
+of racism are presented in Table 3 according
+to menstrual status at the end of follow-up,
+
+and hazard ratios for the association between
+perceived experiences of racism and the oc-
+currence of natural menopause are given in
+Table 4. For the 5 questions on how people
+acted toward the participant, most hazard ra-
+
+tios exceeded 1.0 but were not statistically
+significant. There was a significant association
+between risk of menopause and having expe-
+rienced “people act as if I am not intelligent”
+once a month (HR = 1.32 [95% CI = 1.06,
+
+February 2003, Vol 93, No. 2 | American Journal of Public Health
+
+Palmer et al. | Peer Reviewed | Research and Practice | 301
+
+ RESEARCH AND PRACTICE 
+
+TABLE 2—Hazard Ratios and 95% Confidence Intervals for Occurrence of Natural
+Menopause, by Selected Baseline Characteristics: Black Women’s Health Study, United
+States, 1995–1999 (n = 17 070)
+
+Baseline characteristics
+
+Crude HR (95% CI)
+
+Adjusted HRa (95% CI)
+
+Smoking status
+Never smoker
+Past smoker
+Current smoker
+
+Pack years
+
+Never smoker
+1st quartile
+2nd quartile
+3rd quartile
+4th quartile
+
+Parity
+
+Nulliparous
+Parous
+
+1 birth
+2 births
+3 births
+≥ 4 births
+Oral contraceptive use, y
+
+<1
+≥1
+
+1–4
+5–9
+≥10
+Age at menarche, y
+
+<11
+11
+12–13
+14
+≥15
+Education, y
+<12
+12
+13–15
+16
+≥17
+
+Body mass index in kg/m2
+
+< 20
+20–24
+25–29
+≥ 30
+
+Unilateral oophorectomy
+Vigorous physical activity
+
+None
+< 5 h/wk
+≥ 5 h/wk
+
+1.00b
+1.17 (1.03, 1.33)
+1.46 (1.27, 1.68)
+
+1.00b
+1.23 (0.98, 1.53)
+1.11 (0.92, 1.34)
+1.32 (1.11, 1.56)
+1.50 (1.29, 1.75)
+Test for trend: P < .0144
+
+1.00b
+0.93 (0.80, 1.08)
+0.98 (0.82, 1.17)
+0.90 (0.76, 1.07)
+0.93 (0.77, 1.13)
+0.93 (0.76, 1.14)
+
+1.00b
+0.89 (0.80, 0.99)
+0.88 (0.77, 1.01)
+0.86 (0.73, 1.00)
+0.97 (0.82, 1.15)
+
+1.07 (0.85, 1.35)
+0.95 (0.76, 1.18)
+0.94 (0.78, 1.13)
+0.92 (0.73, 1.17)
+1.00b
+
+1.13 (0.78, 1.62)
+1.00 (0.84, 1.18)
+0.99 (0.87, 1.14)
+1.11 (0.95, 1.30)
+1.00b
+
+1.06 (0.76, 1.47)
+1.00b
+0.89 (0.78, 1.02)
+0.81 (0.70, 0.93)
+1.16 (0.82, 1.65)
+
+1.00b
+0.99 (0.88, 1.11)
+1.02 (0.84, 1.23)
+
+1.00b
+1.21 (1.06, 1.38)
+1.43 (1.24, 1.66)
+
+1.00b
+1.20 (0.95, 1.51)
+1.13 (0.93, 1.36)
+1.33 (1.12, 1.58)
+1.52 (1.30, 1.79)
+Test for trend: P < .0048
+
+1.00b
+0.93 (0.80, 1.09)
+0.96 (0.80, 1.15)
+0.90 (0.76, 1.07)
+0.94 (0.77, 1.14)
+0.94 (0.76, 1.16)
+
+1.00b
+0.86 (0.77, 0.96)
+0.86 (0.74, 0.99)
+0.84 (0.71, 0.99)
+0.90 (0.75, 1.08)
+
+1.07 (0.84, 1.36)
+0.97 (0.77, 1.21)
+0.95 (0.78, 1.14)
+0.88 (0.69, 1.12)
+1.00b
+
+1.03 (0.69, 1.53)
+0.99 (0.83, 1.18)
+0.96 (0.83, 1.11)
+1.11 (0.95, 1.31)
+1.00b
+
+1.03 (0.74, 1.44)
+1.00b
+0.89 (0.77, 1.02)
+0.78 (0.67, 0.90)
+1.17 (0.82, 1.66)
+
+1.00b
+0.97 (0.86, 1.10)
+0.96 (0.79, 1.17)
+
+Note. HR = hazard ratio; CI = confidence interval.
+aAdjusted for all other variables in table, using parity (0, 1, 2, 3, ≥ 4 births), years of oral contraceptive use (never use, 1–4,
+5–9, ≥10), and smoking status (never, past, current). Pack-years of smoking in quartiles were modeled separately.
+bReference category.
+
+1.65]). Hazard ratios for positive responses to
+questions about experiencing discrimination
+in the areas of employment, housing, or the
+police were all close to 1.0. For the question
+on how often the participant thinks about her
+race, the hazard ratio for the category “once a
+day” was significantly elevated (1.23 [95%
+CI = 1.02, 1.47]), but the estimate for the
+highest category (“constantly”) was only
+slightly elevated (1.05 [95% CI = .87, 1.27]).
+For all 9 questions concerning race and rac-
+ism, the hazard ratio was elevated for the
+missing category. A comparison of women
+who did not answer 1 or more of the racism
+questions with those who answered all of the
+questions indicated that these groups were
+similar with respect to most of the study vari-
+ables but had fewer years of education. We
+repeated the analyses of racism questions
+within subgroups defined according to age
+and educational status and found no evidence
+of interaction.
+
+The questions on racism were asked at the
+first follow-up, in 1997. We assumed that re-
+sponses to those questions represented the in-
+dividual’s general experiences of racism
+rather than experiences at 1 particular time,
+and therefore we considered these variables
+to be “baseline” characteristics of the partici-
+pants. To check this assumption, we repeated
+our analyses, beginning follow-up in 1997
+rather than 1995, and found the results to be
+unchanged.
+
+DISCUSSION
+
+The median age at menopause in this
+study falls in the range of values reported in
+follow-up studies of White women.10,32 In the
+small study by Bromberger et al.,6 the median
+age at menopause in Black women was 49.3
+years.
+
+The permanent cessation of menstrual pe-
+riods is thought to be due to the depletion of
+ovarian follicles.33 Follicles are depleted by
+ovulation and by atresia or degeneration. Pre-
+vious studies indicate that current cigarette
+smoking leads to an earlier age at meno-
+pause5–13; results on past smoking are
+mixed.10,12,13 One possible mechanism is that
+tobacco smoke constituents such as polycyclic
+hydrocarbons may destroy primordial oocytes
+or may contribute to degeneration of follicles
+
+302 | Research and Practice | Peer Reviewed | Palmer et al.
+
+American Journal of Public Health | February 2003, Vol 93, No. 2
+
+ RESEARCH AND PRACTICE 
+
+TABLE 3—Perceived Experiences of Racism of 17 070 Participants Who Were Premenopausal at 
+Baseline, by Menstrual Status at Follow-Up: Black Women’s Health Study, United States, 1995–1999
+
+Racism Question
+
+Premenopausal
+(n = 12 796), No. (%)
+
+Premenopausal, Hormone Use
+(n = 1646), No. (%)
+
+Surgical Menopause
+(n = 1223), No. (%)
+
+Medical Menopause
+(n = 82), No. (%)
+
+Natural Menopause
+(n = 1323), No. (%)
+
+Did not complete 1997 questionnaire
+
+878 (6.9)
+
+82 (5.0)
+
+89 (7.3)
+
+7 (8.5)
+
+103 (7.8)
+
+Receive poorer service than others
+
+<1/mo
+
+1/mo
+≥1/wk
+Missing
+
+People act as if I am not intelligent
+
+<1/mo
+
+1/mo
+≥1/wk
+Missing
+
+People act as if they are afraid of me
+
+<1/mo
+
+1/mo
+≥1/wk
+Missing
+
+People think I am dishonest
+
+<1/mo
+
+1/mo
+≥1/wk
+Missing
+
+People think they are better than me
+
+<1/mo
+
+1/mo
+≥1/wk
+Missing
+
+I have been treated unfairly at job
+
+No
+
+Yes
+
+Missing
+
+I have been treated unfairly in housing
+
+No
+
+Yes
+
+Missing
+
+I have been treated unfairly by police
+
+No
+
+Yes
+
+Missing
+
+How often I think about my race
+
+Never—1/yr
+
+1/mo—1/wk
+
+1/d
+
+Constantly
+
+Missing
+
+Note. Follow-up was at 4 years.
+
+9807 (76.6)
+
+934 (7.3)
+
+1030 (8.0)
+
+147 (1.2)
+
+8794 (68.7)
+
+954 (7.5)
+
+2027 (15.8)
+
+143 (1.1)
+
+9991 (78.1)
+
+578 (4.5)
+
+1202 (9.4)
+
+147 (1.1)
+
+1315 (80.0)
+
+118 (7.2)
+
+112 (6.8)
+
+19 (1.2)
+
+1177 (71.5)
+
+126 (7.6)
+
+242 (14.7)
+
+19 (1.2)
+
+1335 (81.1)
+
+91 (5.5)
+
+123 (7.5)
+
+15 (0.9)
+
+10 345 (80.8)
+
+1376 (83.6)
+
+505 (4.0)
+
+875 (6.8)
+
+193 (1.5)
+
+7818 (61.1)
+
+1101 (8.6)
+
+2793 (21.8)
+
+206 (1.6)
+
+7269 (56.8)
+
+4370 (34.1)
+
+279 (2.2)
+
+4648 (36.3)
+
+6790 (53.1)
+
+480 (3.7)
+
+2913 (22.8)
+
+8535 (66.7)
+
+470 (3.7)
+
+1783 (13.9)
+
+3177 (24.8)
+
+3555 (27.8)
+
+2984 (23.3)
+
+419 (3.3)
+
+69 (4.2)
+
+98 (5.9)
+
+21 (1.3)
+
+1053 (64.0)
+
+145 (8.8)
+
+344 (21.0)
+
+22 (1.3)
+
+938 (57.0)
+
+588 (35.7)
+
+38 (2.3)
+
+589 (35.8)
+
+907 (55.1)
+
+68 (4.1)
+
+355 (21.6)
+
+1149 (69.8)
+
+60 (3.6)
+
+243 (14.8)
+
+445 (27.0)
+
+441 (26.8)
+
+367 (22.3)
+
+68 (4.1)
+
+934 (76.4)
+
+82 (6.7)
+
+99 (8.1)
+
+19 (1.5)
+
+810 (66.2)
+
+72 (5.9)
+
+232 (19.0)
+
+20 (1.6)
+
+964 (78.8)
+
+40 (3.3)
+
+117 (9.6)
+
+13 (1.1)
+
+975 (79.7)
+
+54 (4.4)
+
+87 (7.1)
+
+18 (1.5)
+
+741 (60.6)
+
+107 (8.7)
+
+270 (22.1)
+
+16 (1.3)
+
+688 (56.3)
+
+420 (34.3)
+
+26 (2.1)
+
+420 (34.3)
+
+662 (54.1)
+
+52 (4.3)
+
+231 (18.9)
+
+846 (69.2)
+
+57 (4.6)
+
+173 (14.1)
+
+308 (25.2)
+
+306 (25.0)
+
+288 (23.6)
+
+59 (4.8)
+
+60 (73.2)
+
+5 (6.1)
+
+9 (11.0)
+
+1 (1.2)
+
+56 (68.3)
+
+4 (4.9)
+
+14 (17.1)
+
+1 (1.2)
+
+58 (70.8)
+
+2 (2.4)
+
+13 (15.9)
+
+2 (2.4)
+
+66 (80.5)
+
+1 (1.2)
+
+7 (8.5)
+
+1 (1.2)
+
+46 (56.1)
+
+5 (6.1)
+
+22 (26.8)
+
+2 (2.4)
+
+41 (50.0)
+
+32 (39.0)
+
+2 (2.4)
+
+31 (37.8)
+
+41 (50.0)
+
+3 (3.7)
+
+23 (28.1)
+
+51 (62.2)
+
+1 (1.2)
+
+15 (18.3)
+
+21 (25.6)
+
+19 (23.2)
+
+15 (18.3)
+
+5 (6.1)
+
+1053 (79.6)
+
+58 (4.4)
+
+89 (6.7)
+
+20 (1.5)
+
+919 (69.4)
+
+91 (6.9)
+
+185 (14.0)
+
+25 (1.9)
+
+1047 (79.1)
+
+48 (3.6)
+
+103 (7.8)
+
+22 (1.7)
+
+1078 (81.5)
+
+45 (3.4)
+
+74 (5.6)
+
+23 (1.7)
+
+849 (64.2)
+
+84 (6.3)
+
+259 (19.6)
+
+28 (2.1)
+
+743 (56.2)
+
+438 (33.1)
+
+39 (2.9)
+
+493 (37.3)
+
+658 (49.7)
+
+69 (5.2)
+
+276 (20.8)
+
+865 (65.4)
+
+79 (6.0)
+
+200 (15.1)
+
+285 (21.6)
+
+392 (29.6)
+
+279 (21.1)
+
+64 (4.8)
+
+February 2003, Vol 93, No. 2 | American Journal of Public Health
+
+Palmer et al. | Peer Reviewed | Research and Practice | 303
+
+ RESEARCH AND PRACTICE 
+
+TABLE 4—Hazard Ratios and 95% Confidence Intervals for Occurrence of Natural
+Menopause, by Perceived Experiences of Racism: Black Women’s Health Study, United
+States, 1995–1999
+
+Racism Question
+
+Crude HR (95% CI)
+
+Adjusted HRa (95% CI)
+
+Receive poorer service than others
+
+<1/mo
+1/mo
+≥1/wk
+Missing
+
+People act as if I am not intelligent
+
+<1/mo
+1/mo
+≥1/wk
+Missing
+
+People act as if they are afraid of me
+
+<1/mo
+1/mo
+≥1/wk
+Missing
+
+People act as if they think I am dishonest
+
+<1/mo
+1/mo
+≥1/wk
+Missing
+
+People act as if they are better than me
+
+<1/mo
+1/mo
+≥1/wk
+Missing
+
+Job discrimination
+
+No
+Yes
+Missing
+
+Housing discrimination
+
+No
+Yes
+Missing
+
+Police discrimination
+
+No
+Yes
+Missing
+
+How often I think about my race
+
+Never–1/y
+1/mo–1/wk
+1/d
+Constantly
+Missing
+
+1.00b
+0.89 (0.68, 1.17)
+1.00 (0.80, 1.24)
+1.10 (0.71, 1.72)
+
+1.00b
+1.32 (1.07, 1.64)
+1.14 (0.97, 1.33)
+1.57 (1.05, 2.33)
+
+1.00b
+1.19 (0.89, 1.59)
+1.13 (0.92, 1.38)
+1.10 (0.72, 1.68)
+
+1.00b
+1.15 (0.85, 1.55)
+1.13 (0.89, 1.43)
+1.40 (0.93, 2.13)
+
+1.00b
+0.97 (0.78, 1.22)
+1.10 (0.96, 1.27)
+1.24 (0.85, 1.81)
+
+1.00b
+1.01 (0.90, 1.14)
+1.22 (0.88, 1.69)
+
+1.00b
+0.97 (0.86, 1.09)
+1.17 (0.91, 1.50)
+
+1.00b
+1.01 (0.88, 1.16)
+1.35 (1.05, 1.73)
+
+1.00b
+1.00 (0.83, 1.20)
+1.22 (1.03, 1.44)
+1.06 (0.88, 1.27)
+1.17 (0.88, 1.55)
+
+1.00b
+0.91 (0.70, 1.19)
+1.00 (0.80, 1.25)
+1.11 (0.70, 1.78)
+
+1.00b
+1.32 (1.06, 1.65)
+1.11 (0.94, 1.31)
+1.71 (1.14, 2.26)
+
+1.00b
+1.15 (0.85, 1.56)
+1.09 (0.88, 1.35)
+1.27 (0.83, 1.95)
+
+1.00b
+1.13 (0.82, 1.55)
+1.12 (0.88, 1.43)
+1.49 (0.97, 2.28)
+
+1.00b
+0.97 (0.77, 1.23)
+1.10 (0.96, 1.28)
+1.40 (0.95, 2.04)
+
+1.00b
+0.98 (0.86, 1.10)
+1.28 (0.92, 1.79)
+
+1.00b
+1.00 (0.88, 1.13)
+1.25 (0.97, 1.61)
+
+1.00b
+0.97 (0.84, 1.12)
+1.36 (1.07, 1.73)
+
+1.00b
+0.99 (0.82, 1.19)
+1.23 (1.02, 1.47)
+1.05 (0.87, 1.27)
+1.13 (0.84, 1.52)
+
+Note. HR = hazard ratio; CI = confidence interval.
+aAdjusted for parity (0, 1, 2, 3, ≥ 4 births), age at menarche (< 11, 11, 12–13, 14, ≥ 15 y), years of oral contraceptive use
+(never use, 1–4, 5–9, ≥ 10), unilateral oophorectomy, smoking status (never, past, current), years of education (< 12, 12,
+13–15, 16, ≥ 17), vigorous physical activity (none, < 5 h/wk, ≥ 5 h/wk), and body mass index (< 20, 20–24, 25–29, ≥ 30).
+bReference category.
+
+through lowered estrogen levels.34–36 Our re-
+sults suggest that both current and past smok-
+ing result in an earlier menopause among US
+Black women. The effect was stronger for
+current smokers and was greatest for women
+who had the heaviest exposure to cigarette
+smoke, as estimated by total pack-years of
+smoking.
+
+Factors related to the lifetime number of
+ovulatory cycles, and therefore possibly to
+age at menopause, include age at menarche,
+parity, and oral contraceptive use. We found
+no relation between age at menarche and
+age at menopause, in agreement with most
+previous studies on the topic.14,16 A number
+of studies have indicated that nulliparous
+women and oral contraceptive users have an
+earlier menopause,12,14–16 and some have
+suggested that age at menopause increases
+with increasing parity.15 We did not find an
+association with number of births and ob-
+served only a weak (nonsignificant) associa-
+tion with nulliparity. The use of oral contra-
+ceptives for 1 year or longer was associated
+with a later age at menopause, although we
+did not find a stronger association for long-
+term users. Cramer and Xu29 suggested that
+a measure of the lifetime number of ovula-
+tory cycles may be a good predictor of age
+at menopause. We found no association be-
+tween the number of ovulatory cycles and
+age at menopause. However, this measure
+was imprecise because we did not have in-
+formation on the participants’ usual cycle
+length, which may contribute much of the
+variation in the number of lifetime ovulatory
+cycles.
+
+Another reproductive variable, a history of
+
+unilateral oophorectomy without hysterec-
+tomy, has been linked with an early age at
+menopause in 2 previous studies.15,37 Such
+surgical procedures deplete a woman’s ovar-
+ian follicles and may predispose to a hypo-
+estrogenic state. In our study, there was little
+association between unilateral oophorectomy
+and age at menopause overall, but a strong
+association among the younger women. The
+study by Cramer et al.37 was also a study of
+very early menopause—the average age at
+menopause was 42.2 years
+
+Obese women had a reduced occurrence
+of early menopause in our study. Obesity has
+been associated with inadequate ovarian
+
+304 | Research and Practice | Peer Reviewed | Palmer et al.
+
+American Journal of Public Health | February 2003, Vol 93, No. 2
+
+ RESEARCH AND PRACTICE 
+
+sectional study that assessed natural meno-
+pause in Black women.12 As in other studies
+of age at menopause, the analyses were
+based on self-reports; random misclassifica-
+tion would have tended to weaken associa-
+tions. Previous US studies have indicated a
+high degree of accuracy in the self-reporting
+of hysterectomy and oophorectomy.48,49 The
+usual definition of menopause is permanent
+cessation of menstrual periods, indicated by a
+lack of menstruation for at least 12 months.
+In our study, permanent cessation of periods
+was self-defined. To assess the degree of mis-
+classification, we checked 1999 question-
+naire responses for women who reported per-
+manent cessation of menstruation due to
+natural causes on the 1997 questionnaire:
+the concordance was 88%, suggesting that
+misclassification of age at menopause was not
+substantial.
+
+The vast majority of participants in the
+present study had completed high school or a
+higher level of education. Thus the study re-
+sults are likely generalizable to the 85% of
+US Black women of the same ages who have
+at least a high school education.50 We cannot
+determine whether any of the factors under
+study, including racism, have a different rela-
+tion to age at menopause among low-income
+Black women.
+
+In summary, the present data from the
+Black Women’s Health Study indicate that the
+factor most strongly associated with age at
+menopause in Black women is smoking, in
+agreement with findings in White women.
+The results also suggest that young women
+who have a unilateral oophorectomy without
+hysterectomy are at increased risk of early
+menopause. The study provides equivocal
+data on whether experiences of racism accel-
+erate the onset of menopause.
+
+About the Authors
+Julie R. Palmer, Lynn Rosenberg, and Lauren A. Wise, are
+with the Slone Epidemiology Unit, Boston University
+School of Public Health, Mass. Nicholas J. Horton is with
+the Department of Epidemiology and Biostatistics, Boston
+University School of Public Health, Mass. Lucile L.
+Adams-Campbell is with the Howard University Cancer
+Center, Washington, DC.
+
+Requests for reprints should be sent to Julie R. Palmer,
+ScD, Slone Epidemiology Unit, Boston University School
+of Public Health, 1010 Commonwealth Ave., Boston, MA
+02215 (e-mail: jpalmer@slone.bu.edu).
+
+This article was accepted April 14, 2002.
+
+Contributors
+J. R. Palmer, L. Rosenberg, and L. L. Adams-Campbell
+designed the Black Women’s Health Study and partici-
+pated in the writing of this article. L. A. Wise carried
+out all data analyses and participated in preparation of
+the article, particularly with regard to the Methods sec-
+tion. N. J. Horton acted as biostatistician.
+
+Acknowledgments
+This work was supported by grant CA58420 from the
+National Cancer Institute.
+
+We thank Drs. Camara Jones and David Williams for
+
+providing their questions on race and racism.
+
+Human Participant Protection
+The study was approved by the institutional review
+boards of Boston University and Howard University.
+Participants indicated their informed consent by com-
+pleting postal health questionnaires and providing writ-
+ten releases for medical records.
+
+References
+1.
+Cummings SR. Epidemiology of osteoporosis in
+women. In: Korenman SG, ed. The Menopause: Proceed-
+ings of the Serono Symposium on the Menopause, March
+1989, Napa, CA. Norwell, Mass: Serono Symposium;
+1990:1–15.
+
+2.
+Kritz-Silverstein D, Barrett-Connor E. Early meno-
+pause, number of reproductive years, and bone mineral
+density in postmenopausal women. Am J Public Health.
+1993;83:983–988.
+
+Cooper G, Sandler DF. Age at natural menopause
+
+3.
+and mortality. Am J Epidemiol. 1998;8:229–235.
+
+Snowden DA, Kane RL, Beeson WL, et al. Is early
+
+4.
+natural menopause a biologic marker of health and
+aging? Am J Public Health. 1989;79:709–714.
+
+5. McKinlay SM, Brambilla DS, Posner JG. The nor-
+mal menopause transition. Am J Hum Biol. 1992;4:
+37–46.
+
+6.
+Bromberger JT, Matthews KA, Kullerr LH, et al.
+Prospective study of the determinants of age at meno-
+pause. Am J Epidemiol. 1997;145:124–133.
+
+Togerson DJ, Avenell A, Russell IT, et al. Factors
+
+7.
+associated with onset of menopause in women aged
+45–49. Maturitas. 1994;19:83–92.
+
+8.
+Brambilla DJ, McKinlay SM. A prospective study
+of factors affecting age at menopause. J Clin Epidemiol.
+1989;42:1031–1039.
+
+Lindquist O, Bengtsson C, Hansson T, et al. Age
+9.
+at menopause and its relation to osteoporosis. Maturi-
+tas. 1979;1:175–181.
+
+10. Willett W, Stampfer MJ, Bain C, et al. Cigarette
+smoking, relative weight, and menopause. Am J Epi-
+demiol. 1983;117:651–658.
+
+11. Cooper G, Sandler DP, Bohlig M. Active and pas-
+sive smoking and the occurrence of natural meno-
+pause. Epidemiology. 1999;10:771–773.
+
+12. Gold EB, Bromberger J, Crawford S, et al. Factors
+associated with age at natural menopause in a multi-
+ethnic sample of midlife women. Am J Epidemiol.
+2001;153:865–874.
+
+13. Hardy R, Kuh D, Wadsworth M. Smoking, body
+mass index, socioeconomic status and the menopausal
+
+function, which could result in fewer ovula-
+tory cycles and less depletion of follicles.38 In
+addition, the production of estrone in the adi-
+pose tissue of obese women may result in
+higher estrogen levels, which may lead to less
+follicular degeneration. Some previous studies
+found an earlier age at menopause among
+women with a low body mass index,10,19 but
+others did not.8,12,13,20
+
+A prospective study of the determinants of
+age at menopause in 185 healthy US women
+found an earlier age at menopause for the
+African American women (n = 19) and also
+found that psychosocial stress was predictive
+of an earlier menopause among those
+women.6 In another study, by Harlow et
+al.,39 depression was associated with earlier
+menopause. It appears that stress activates
+the hypothalamic-pituitary-adrenal axis, lead-
+ing to increased secretion of glucocorticoids
+with inhibition of release of gonadotropin-
+releasing hormone and suppression of ovula-
+tion.40,41 This mechanism is thought to ex-
+plain the well-established link between stress
+and hypothalamic amenorrhea.42,43 However,
+it is not clear how this pathway would lead to
+an earlier menopause. Racism can act as a
+chronic stressor, and in recent years there
+has been increasing interest in the potential
+health effects of daily life experiences of rac-
+ism.44–47 In our study, participants answered
+9 questions related to experiences of racism;
+statistically significant associations were ob-
+served for 2. These could be chance associa-
+tions given the number of possible outcomes
+for these questions and the lack of a “dose–
+response relation.” However, the hazard ra-
+tios for most categories of response for the
+questions were over 1.0. The largest and
+most consistent associations with the occur-
+rence of menopause were for categories of
+missing response. Further research is needed
+to explore whether not answering sensitive
+questions like these may in some way be a
+marker for the experience of racism.
+
+The data in our study were collected pro-
+spectively, minimizing the potential for recall
+bias and uncertainty about the timing of fac-
+tors of interest in relation to the occurrence
+of menopause. The sample is much larger
+than that in only previous study to assess age
+at menopause prospectively in US Black
+women6 and larger than that in a cross-
+
+February 2003, Vol 93, No. 2 | American Journal of Public Health
+
+Palmer et al. | Peer Reviewed | Research and Practice | 305
+
+ RESEARCH AND PRACTICE 
+
+transition in a British national cohort. Int J Epidemiol.
+2000;29:845–851.
+
+and age at menopause in women. Ann Intern Med.
+1985;103:350–356.
+
+14. Whelan EA, Sandler DP, McConnaughey DR, et
+al. Menstrual and reproductive characteristics and age
+at natural menopause. Am J Epidemiol. 1990;131:
+625–632.
+
+15. Hardy R, Kuh D. Reproductive characteristics and
+the age at inception of the perimenopause in a British
+national cohort. Am J Epidemiol. 1999;149:612–620.
+
+16. Stanford JL, Harge P, Brinton LA, et al. Factors in-
+fluencing the age at natural menopause. J Chronic Dis.
+1987;40:995–1002.
+
+17. Garrido-Latorre F, Lascano-Ponce EC, Lopez-
+Carrillo L, et al. Age of natural menopause among
+women in Mexico City. Int J Gynaecol Obstet. 1996;53:
+159–166.
+
+18. Van Keep PA, Brand PC, Lehert P. Factors affect-
+ing the age at menopause. J Biosoc Sci. 1979;6(suppl):
+37–55.
+
+19. Sherman BM, Wallace RB, Bean JA, et al. The re-
+lationship of menopausal hot flushes to medical and re-
+productive experience. J Gerontol. 1981;36:306–309.
+
+20. Luoto R, Kaprio J, Uutela A. Age at natural meno-
+pause and sociodemographic status in Finland. Am J
+Epidemiol. 1994;139:64–76.
+
+21. Rosenberg L, Palmer JR, Rao RS, Adams-
+Campbell L. Risk factors for coronary heart disease in
+African-American women. Am J Epidemiol. 1999;150:
+904–909.
+
+22. Palmer JR, Rao RS, Adams-Campbell LL, Rosen-
+berg L. Correlates of hysterectomy among African-
+American women. Am J Epidemiol. 1999;150;
+1309–1315.
+
+23. Palmer JR, Rao RS, Adams-Campbell LL, Rosen-
+berg L. Height and breast cancer risk: results from the
+Black Women’s Heath Study. Cancer Causes Control.
+2001;12:343–348.
+
+24. Adams-Campbell LL, Rosenberg L, Rao RS,
+Palmer JR. Strenuous physical activity and breast can-
+cer risk in African-American women. J Natl Med Assoc.
+2001;93:267–275.
+
+25. Williams DR, Yu Y, Jackson JS, Anderson NB. Ra-
+cial differences in physical and mental health. Socio-
+economic status, stress, and discrimination. J Health
+Psychol. 1997;2:335–351.
+
+26. Cozier Y, Jones C, Palmer JR, Rao RS, Adams-
+Campbell LL, Rosenberg L. Perceptions and experi-
+ences of racism among African-American women [ab-
+stract]. Am J Epidemiol. 2000;151:S24.
+
+27. Cox DR. Regression model and life tables (with
+discussion). J R Stat Soc B. 1972;34:187–220.
+
+28. Allison PD. Survival Analysis Using the SAS Sys-
+tem: a Practical Guide. Cary, NC: SAS Institute; 1995.
+
+29. Cramer DW, Xu H. Predicting age at menopause.
+Maturitas. 1996;23;319–326.
+
+30. Marks NF, Shinberg DS. Socioeconomic status dif-
+ferences in hormone therapy. Am J Epidemiol. 1998;
+148:581–593.
+
+31. Prentice RL, Kalbfleisch JD, Peterson AV,
+Flournoy N, Farewell VT, Breslow NE. The analysis of
+failure times in the presence of competing risks. Bio-
+metrics. 1978;34:541–554.
+
+32. McKinlay SM, Bifano NL, McKinlay JB. Smoking
+
+33. Ginsburg J. What determines the age at the meno-
+pause? BMJ. 1991;302:1288–1289.
+
+34. Matikainen T, Perez GI, Jurisicova A, et al. Aro-
+matic hydrocarbon receptor-driven Bax gene expres-
+sion is required for premature ovarian failure caused
+by biohazardous environmental chemicals. Nat Genet.
+2001;28:355–360.
+
+35. Khaw KT, Tazuke S, Barrett-Connor E. Cigarette
+smoking and levels of adrenal androgens in postmeno-
+pausal women. N Engl J Med. 1988;318:1705–1709.
+
+36. Longcope C, Johnston CC. Androgen and estrogen
+dynamics in pre- and post-menopausal women: a com-
+parison between smokers and non-smokers. J Clin En-
+docrinol Metab. 1988;67:379–383.
+
+37. Cramer DW, Xu H, Harlow BL. Does “incessant”
+ovulation increase risk for early menopause? Am J Ob-
+stet Gynecol. 1995;172:568–573.
+
+38. Garner PR. The impact of obesity on reproductive
+function. Semin Reprod Endocrinol. 1990;8:32–43.
+
+39. Harlow BL, Cramer DW, Annis KM. Association
+of medically treated depression and age at natural
+menopause. Am J Epidemiol. 1995;141:1170–1176.
+
+40. Berga SL. How stress can affect ovarian function.
+Contemp Obstet Gynecol. July 1993:87–94.
+
+41. Yehuda R, Giller EL, Southwick SM, Lowy MT,
+Mason JW. Hypothalamic-pituitary-adrenal dysfunction
+in posttraumatic stress disorder. Biol Psychiatry. 1991;
+30:1031–1048.
+
+42. Liu JH. Hypothalamic amenorrhea: clinical per-
+spectives, pathophysiology, and management. Am J Ob-
+stet Gynecol. 1990;163:1732–1736.
+
+43. Khoury SA, Reame NE, Kelch RP, et al. Diurnal
+patterns of pulsatile luteinizing hormone secretion in
+hypothalamic amenorrhea: reproducibility and re-
+sponses to opiate blockade and an alpha 2–adrenergic
+agonist. J Clin Endocrinol Metab. 1987;64:755–762.
+
+44. Krieger N, Sidney S. Racial discrimination and
+blood pressure: The CARDIA study of young black
+and white adults. Am J Public Health. 1996;86:
+1370–1378.
+
+45. Ren XS, Amick BC, Williams DR. Race/ethnic dis-
+parities in health: the interplay between discrimination
+and socioeconomic status. Ethn Dis. 1999;9:151–165.
+
+46. Broman CL. The health consequences of racial
+discrimination: a study of African Americans. Ethn Dis.
+1996;6:148–153.
+
+47. Stancil TR, Hertz-Picciotto I, Schramm M, Watt-
+Morse M. Stress and pregnancy among African-
+American women. Paediatr Perinat Epidemiol. 2000;14:
+127–135.
+
+48. Colditz GA, Stampfer MJ, Willett WC, et al. Re-
+producibility and validity of self-reported menopausal
+status in a prospective cohort study. Am J Epidemiol.
+1987;126:319–325.
+
+49. Paganini-Hill A, Ross RK. Reliability of recall of
+drug usage and other health-related information. Am J
+Epidemiol. 1982;116:114–122.
+
+50. Educational Attainment in the United States. Wash-
+ington, DC: US Department of Commerce; March
+1998 (update). Current Population Reports, P20–543.
+
+306 | Research and Practice | Peer Reviewed | Palmer et al.
+
+American Journal of Public Health | February 2003, Vol 93, No. 2
+
+

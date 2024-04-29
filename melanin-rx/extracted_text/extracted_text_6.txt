@@ -1,0 +1,1956 @@
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+HHS Public Access
+Author manuscript
+Lupus. Author manuscript; available in PMC 2021 February 03.
+
+Published in final edited form as:
+
+Lupus. 2021 February ; 30(2): 204–210. doi:10.1177/0961203320973074.
+
+A prospective study of reproductive factors in relation to risk of 
+systemic lupus erythematosus among black women
+
+Yvette C Cozier, DSc, MPH1, Medha Barbhaiya, MD, MPH2, Nelsy Castro-Webb, ALM1, 
+Karen H Costenbader, MD, MPH3, Lynn Rosenberg, ScD1
+1Slone Epidemiology Center at Boston University, Boston, MA;
+
+2Rheumatology, Department of Medicine, Hospital for Special Surgery, New York, NY,
+
+3Division of Rheumatology, Inflammation and Immunity, Department of Medicine, Brigham and 
+Women’s Hospital, Boston, MA
+
+Abstract
+
+Objective.—Systemic lupus erythematosus (SLE) occurs most commonly among reproductive 
+age women, compatible with a potential role of reproductive factors, although past studies 
+including women of mainly European ancestry have yielded conflicting results. We assessed 
+relationships of reproductive factors to SLE risk among black women.
+
+Methods.—We followed 58,243 participants in the Black Women’s Health Study (BWHS) from 
+1995 – 2015 using biennial health questionnaires, on which participants reported reproductive and 
+other factors. Self-reported incident SLE cases were confirmed as meeting 1997 American College 
+of Rheumatology SLE classification criteria by medical record review. Cox proportional hazards 
+regression models were used to estimate hazard ratios (HR) and 95% confidence intervals (95% 
+CI) for SLE for several reproductive factors, controlling for potential confounders.
+
+Results.—During 954,476 person-years of follow-up, 125 incident cases of SLE were confirmed. 
+Later age at menarche and longer duration of breast feeding were associated with increased risk of 
+SLE. The multivariable HRs were 2.31 (95% CI, 1.30–4.11) for age at menarche ≥15 relative to 
+age 12, and 1.73 (95% CI, 1.01 – 2.94) for breast feeding ≥ 6 months relative to none. There were 
+no clear associations with parity, age at first birth, menopausal status, hysterectomy, age at 
+menopause, or history of endometriosis.
+
+Conclusion.—Our results suggest that later menarchal age and breastfeeding of infants for ≥ 6 
+months vs. none may be associated with increased SLE risk among black women, while other 
+reproductive factors did not appear related. The biological mechanisms underlying these potential 
+associations should be pursued.
+
+Corresponding author and reprint requests: Yvette Cozier, DSc, Slone Epidemiology Center at Boston University, 72 East Concord 
+St, Boston, MA 02118; Phone:617-206-6165; FAX: 617-738-5119; yvettec@bu.edu. 
+Declaration of Conflicting Interest
+The Authors declare that there is no conflict of interest.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Cozier et al.
+
+Keywords
+
+Page 2
+
+reproduction; parity; menopause; menarche; lactation; systemic lupus erythematosus; SLE; 
+prospective; risk factor; black women
+
+Introduction
+
+Systemic lupus erythematosus (SLE) is an autoimmune disease that affects women more 
+than men, and black women more than women of other racial/ethnic groups.1–3 As SLE has 
+its peak incidence in women during the reproductive years at ages 15 to 40, increasing after 
+menarche and declining after menopause, research has focused on potential reproductive and 
+menopausal risk factors. However, results of past studies have been somewhat conflicting 
+and inconclusive.4–6 In the present study, we assessed reproductive factors, including age at 
+menarche, parity, age at first birth, breastfeeding, menopausal status, hysterectomy, and 
+endometriosis in relation to SLE risk in a prospective cohort study of black women, a 
+population at high risk of SLE. We hypothesized that early age at menarche and menopausal 
+status would be associated with increased risk of SLE as they have been in cohorts of white 
+women.6
+
+Methods
+
+The Black Women’s Health Study (BWHS).
+
+In 1995, black women ages 21–69 years (median 38 years) from the continental U.S. 
+enrolled in the BWHS by completing 14-page health questionnaires; the 59,000 women with 
+valid addresses a year later have been followed by biennial questionnaires, on which they 
+provide demographic, medical and lifestyle information.7,8 Yearly linkage with the National 
+Death Index was used to identify deaths. Follow-up has been successful for >85% of 
+potential person-years through 2015. The Institutional Review Board of Boston University 
+Medical Center approved the study. Participants indicate their consent by filling out the 
+questionnaires; they sign consents for obtainment of medical records.
+
+Reproductive factors.
+
+Participants provided data on age at menarche (<11,11,12–14, ≥ 15 years) at baseline in 
+1995. Self-reported parity, age at first birth (years), number of children, menopausal status 
+(including hysterectomy), age at menopause (years), and endometriosis were obtained in 
+1995, and updated on subsequent biennial questionnaires. Questions on lactation (never, 
+ever) (including duration (months)) were asked in 1995, 1999, 2003, 2005, and 2011 
+questionnaires.
+
+Covariates.
+
+Data on current height (inches), and weight (pounds) at age 18 were collected at baseline in 
+1995. Additional covariate variables, including current weight was used to calculate body 
+mass index (BMI) (>25, 25–29, ≥30 kg/m2), cigarette smoking (never, past, current), and 
+alcohol consumption (never, past, current), and use of female hormone replacement therapy 
+(ever, never) were obtained in 1995, with updates on subsequent biennial questionnaires. 
+
+Lupus. Author manuscript; available in PMC 2021 February 03.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Cozier et al.
+
+Page 3
+
+Age began alcohol consumption (≤ 14 years, >14years/never), age began smoking (≤ 14 
+years, >14 years/never), age began oral contraceptive use (≤ 14 years, >14 years/never), and 
+BMI at age 18 (<20, 20–24, 25–29, ≥30 kg/m2), were also obtained in 1995. Experiences of 
+childhood sexual abuse (ever, never) and physical abuse (ever, never) were collected in 2005, 
+and completed parental education (neither parent attended college, at least one parent 
+attended college, at least one parent college graduate) was collected in 2009.
+
+SLE cases.
+
+The 1995 questionnaire asked about a list of diagnoses that included “lupus”. Every 
+subsequent biennial questionnaire asked about “lupus (systemic lupus erythematosus)” and 
+the date of diagnosis. The doctors of women who gave consent were asked to provide copies 
+of medical records concerning SLE or to fill out a checklist about the presence of the 1997 
+Updated American College of Rheumatology (ACR) criteria for Classification of SLE.9,10 
+Medical record review by study rheumatologists (KC, MB) confirmed cases as the presence 
+of at least 4 of the ACR SLE classification criteria.
+
+Analytic cohort.
+
+The current analysis assessed data from the baseline questionnaire through ten subsequent 
+follow-up cycles (1995–2015). We excluded 757 women who reported SLE diagnosed 
+before study entry in 1995. The remaining 58,243 women comprised the analytic cohort.
+
+Statistical analysis.
+
+We used Cox proportional hazards regression to estimate hazard ratios (HRs) and 95% 
+confidence intervals (CIs) for the association of reproductive variables with risk of SLE. 
+Women contributed person-time over ten biennial questionnaire cycles from baseline in 
+1995 until SLE diagnosis, death (N=6,315), loss to follow-up (N=4,328), or end of follow-
+up (2015), whichever occurred first (Figure 1). Women who reported SLE, but for whom we 
+were unable to obtain medical records to confirm the diagnosis, were censored at the year of 
+self-reported diagnosis.
+
+Cox models were jointly stratified by age in 1-year intervals and questionnaire cycle (model 
+1). We examined age at menarche, parity, age at first birth, lactation, menopause, and 
+endometriosis as individual predictors of SLE. The multivariable model examining age at 
+menarche as the predictor included the following covariates from close to the time of 
+menarche: age began alcohol consumption, age began smoking, age began oral contraceptive 
+use, BMI at age 18, and completed parental education. A second model additionally adjusted 
+for ever experiencing childhood sexual abuse and childhood physical abuse. The 
+multivariable models for the remaining variables (menopause, parity, age at first birth, 
+lactation, and endometriosis) adjusted for the following: alcohol status, smoking status, 
+BMI, BMI at age 18, parity, menopausal status (except for menopause), current use of oral 
+contraceptives, ever use of female hormone, and age at menarche. Tests for trend were 
+performed by entering continuous variables in the multivariable models, using the median 
+value within each category as appropriate.
+
+Lupus. Author manuscript; available in PMC 2021 February 03.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Cozier et al.
+
+Results
+
+Page 4
+
+During 954,476 person-years of follow-up from entry in 1995 to 2015, 125 incident cases of 
+SLE were confirmed: the mean age at diagnosis was 43 years, the mean number of 1997 
+ACR criteria for SLE was 5.0 (±1.2), 64% had hematological and 30% had renal 
+involvement (Table 1). Table 2 displays the baseline demographic and reproductive 
+characteristics of the BWHS cohort and SLE cases in 1995. Compared to the BWHS cohort, 
+SLE cases were slightly older at baseline, more educated, less likely to smoke, were younger 
+at first birth, and more likely to report ever use of female hormones.
+
+As shown in Table 3, the HR for SLE increased, but not significantly with increasing age at 
+menarche (p trend= 0.08). We utilized multivariable models with and without adjustment for 
+childhood sexual and physical abuse. The multivariable HR for SLE for onset of menarche 
+at 15 years or older relative to menarche at age 12, the mean in the cohort, was 2.29 (95% 
+CI, 1.29–4.06); after additional adjustment for childhood sexual and physical abuse the HR 
+was 2.31 (95% CI, 1.30–4.11). Early menarche (<11 years) was not statistically associated 
+with increased risk of SLE: HR=1.31 (95% CI, 0.72, 2.39).
+
+Parity, age at first birth, and number of children were not related to SLE risk. The 
+multivariable-adjusted HR associated with breast feeding for at least 6 months relative to 
+none was 1.73 (95% CI, 1.01 – 2.94). When we further assessed longer duration of lactation 
+the multivariable HR for ≥ 12 months (13 cases) was unchanged at 1.73 (95% CI, 0.90–
+3.34). There were no consistent increases or decreases in SLE risk across having had a 
+hysterectomy, age at menopause, or endometriosis.
+
+Discussion
+
+In the present study, late onset of menarche was associated with an increased risk of SLE: 
+the HR for onset of menarche at age 15 or older compared to the cohort mean of 12 years, 
+was more than doubled. A study by Parks et al,11 reported that among postmenopausal 
+women in the National Health and Nutrition Examination Survey (NHANES; 1999–2004), 
+ANA prevalence was associated with an older age at menarche (p=0.019; age 16–20 versus 
+10–12 years POR=3.0, 95%CI 1.6, 5.9). Late age at menarche was also previously 
+associated with increased SLE risk in a case-control study of Japanese women (282 cases).5 
+However, SLE risk was elevated for early age at menarche, at 10 or younger, rather than late 
+age in the Nurses’ Health Study and the Nurses’ Health Study II cohorts, composed 
+primarily of White women. No association was found for age at menarche and SLE in a 
+case-control study from North and South Carolina with 240 cases, of whom almost two-
+thirds were black.4 In the current study, the HR for SLE among those who reported the 
+youngest age at menarche (< age 11) was also elevated at 1.31, but with only 17 cases in this 
+category this result was not significant.
+
+Age at menarche may be a marker for stress-mediated effects on the immune system, such as 
+child abuse, which may in turn influence risk of SLE. For example, Boynton-Jarrett and 
+colleagues found that severity of childhood sexual abuse was associated with risk for early 
+menarche, while physical abuse was associated with both early and late menarche in the 
+
+Lupus. Author manuscript; available in PMC 2021 February 03.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Cozier et al.
+
+Page 5
+
+NHS II cohort.12 In an analyses involving the BWHS, Wise et al. found that both childhood 
+sexual and physical abuse were positively associated with early menarche.13 Recent analyses 
+in both the NHS II14 and the BWHS15 have each found associations between childhood 
+physical and sexual abuse and risk of SLE. For that reason, we controlled for both childhood 
+sexual and physical abuse in the current analysis, but this did not materially change the 
+estimates.
+
+Ellis’s theory of stress reactivity16 hypothesizes a U-shaped (curvilinear) association 
+between early life adversity and stress reactivity. For example, family support or stress may 
+influence the hypothalamic-pituitary-gonadal (HPG) axis in response to early adversity, 
+resulting in either pathway hyper-activation (early menarche) or suppression (late 
+menarche). We did not assess types or levels of family support in our analyses.
+
+With regard to parity, risk of SLE was decreased in the Japanese study,5 and unassociated in 
+the NHS,6 the Carolina study,4 and the present study.
+
+Several studies have associated high levels of prolactin in blood with SLE disease activity or 
+development in humans17 and mouse models.18 Prolactin is a hormone primary secreted by 
+the pituitary gland and has stimulatory effects on the immune system. Prolactin stimulates 
+the production of milk in breastfeeding mothers, and serum levels of prolactin increase 
+minutes after breastfeeding.19 Breastfeeding for over 6 months, compared to never 
+breastfeeding, was associated with an increased risk of SLE in the multivariable-adjusted 
+models in the present study, although the risk was not further elevated among those who 
+breastfed their babies for 12 months or more, and it is not clear that this is more than a 
+chance finding. In contrast, duration of lactation was inversely associated with risk in the 
+Carolina Study,4 and not associated in the NHS.6 The relationship between long-term 
+breastfeeding, prolactin levels, and SLE needs further investigation.
+
+Earlier age at menopause (<47 years) was associated with a greater than two-fold increased 
+risk of SLE among women in the NHS cohort.6 This increase, however, was observed 
+primarily among those women who had undergone bilateral oophorectomy (surgical 
+menopause) and were therefore younger at the onset of menopause.
+
+There was no clear association with age at menopause or with hysterectomy in the present 
+study.
+
+History of endometriosis was associated with increased SLE risk in the NHS,20 and with a 
+non-significant increased risk among whites but not blacks in the Carolina study,4 whereas 
+there was no significant association in the present study based on only 14 SLE cases 
+reporting endometriosis.
+
+The present study has several strengths. The data were collected using a prospective cohort 
+study design, minimizing the possibility of reporting bias. Potential SLE cases were 
+reviewed and confirmed by study rheumatologists to meet the ACR classification criteria for 
+SLE. A number of potential confounding factors were controlled in the analysis. Study 
+limitations include limited statistical power because of the relatively small number of 
+incident SLE cases. We conducted multiple tests which increased the possibility of false 
+
+Lupus. Author manuscript; available in PMC 2021 February 03.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Cozier et al.
+
+Page 6
+
+positives. Additionally, several of the reproductive factors and the child abuse exposure 
+information were collected retrospectively. The BWHS is not a probability sample. 
+Participants must be literate to complete mailed questionnaires and they underrepresent the 
+15% of US black women nationally who have not completed high school.21 Conversely, 
+participants reside in all regions of the United States. Thus, the present results might apply 
+to a large population of U.S. black women.
+
+In summary, this study suggests that later age at menarche may be associated with increased 
+SLE risk among black women. The few studies of age at menarche in relation to SLE risk 
+are conflicting and a clear conclusion cannot be drawn. Results concerning long duration of 
+breast feeding are conflicting as well. It appears that if reproductive factors are related to 
+SLE, the associations are not strong enough to have clearly manifested across many studies 
+to date.
+
+Funding Support
+
+Research reported in this publication was supported by the National Cancer Institute R01- CA058420, U01-
+CA164974; National Institute of Arthritis and Musculoskeletal and Skin Diseases R01 AR057327 and K24 
+AR066109; Dr. Barbhaiya is supported by the Rheumatology Research Foundation Scientist Development Award.
+
+References
+
+1. Somers EC, Marder W, Cagnoli P, et al. Population-based incidence and prevalence of systemic 
+lupus erythematosus: the Michigan Lupus Epidemiology and Surveillance program. Arthritis 
+Rheumatol 2014;66:369–78. [PubMed: 24504809] 
+
+2. Feldman CH, Hiraki LT, Liu J, et al. Epidemiology and sociodemographics of systemic lupus 
+
+erythematosus and lupus nephritis among US adults with Medicaid coverage, 2000–2004. Arthritis 
+Rheum 2013;65:753–63. [PubMed: 23203603] 
+
+3. McCarty DJ, Manzi S, Medsger TA Jr., Ramsey-Goldman R, LaPorte RE, Kwoh CK. Incidence of 
+systemic lupus erythematosus. Race and gender differences. Arthritis Rheum 1995;38:1260–70. 
+[PubMed: 7575721] 
+
+4. Cooper GS, Dooley MA, Treadwell EL, St Clair EW, Gilkeson GS. Hormonal and reproductive risk 
+factors for development of systemic lupus erythematosus: results of a population-based, case-control 
+study. Arthritis Rheum 2002;46:1830–9. [PubMed: 12124867] 
+
+5. Nagata C, Fujita S, Iwata H, et al. Systemic lupus erythematosus: a case-control epidemiologic 
+
+study in Japan. Int J Dermatol 1995;34:333–7. [PubMed: 7607794] 
+
+6. Costenbader KH, Feskanich D, Stampfer MJ, Karlson EW. Reproductive and menopausal factors 
+
+and risk of systemic lupus erythematosus in women. Arthritis Rheum 2007;56:1251–62. [PubMed: 
+17393454] 
+
+7. Rosenberg L, Adams-Campbell L, Palmer JR. The Black Women’s Health Study: a follow-up study 
+for causes and preventions of illness. J Am Med Womens Assoc (1972) 1995;50:56–8. [PubMed: 
+7722208] 
+
+8. Russell C, Palmer JR, Adams-Campbell LL, Rosenberg L. Follow-up of a large cohort of Black 
+
+women. Am J Epidemiol 2001;154:845–53. [PubMed: 11682367] 
+
+9. Hochberg MC. Updating the American College of Rheumatology revised criteria for the 
+
+classification of systemic lupus erythematosus. Arthritis Rheum 1997;40:1725.
+
+10. Tan EM, Cohen AS, Fries JF, et al. The 1982 revised criteria for the classification of systemic lupus 
+
+erythematosus. Arthritis Rheum 1982;25:1271–7. [PubMed: 7138600] 
+
+11. Parks CG, Miller FW, Satoh M, et al. Reproductive and hormonal risk factors for antinuclear 
+
+antibodies (ANA) in a representative sample of U.S. women. Cancer Epidemiol Biomarkers Prev 
+2014;23:2492–502. [PubMed: 25086100] 
+
+Lupus. Author manuscript; available in PMC 2021 February 03.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Cozier et al.
+
+Page 7
+
+12. Boynton-Jarrett R, Wright RJ, Putnam FW, et al. Childhood abuse and age at menarche. J Adolesc 
+
+Health 2013;52:241–7. [PubMed: 23332491] 
+
+13. Wise LA, Palmer JR, Rothman EF, Rosenberg L. Childhood abuse and early menarche: findings 
+from the black women’s health study. Am J Public Health 2009;99 Suppl 2:S460–6. [PubMed: 
+19443822] 
+
+14. Feldman CH, Malspeis S, Leatherwood C, Kubzansky L, Costenbader KH, Roberts AL. 
+
+Association of Childhood Abuse with Incident Systemic Lupus Erythematosus in Adulthood in a 
+Longitudinal Cohort of Women. J Rheumatol 2019;46:1589–96. [PubMed: 31092723] 
+
+15. Cozier YC, Barbhaiya M, Castro-Webb N, et al. Association of Child Abuse with Systemic Lupus 
+
+Erythematosus in Black Women During Adulthood. Arthritis Care Res (Hoboken) 2020.
+
+16. Boyce WT, Ellis BJ. Biological sensitivity to context: I. An evolutionary-developmental theory of 
+the origins and functions of stress reactivity. Dev Psychopathol 2005;17:271–301. [PubMed: 
+16761546] 
+
+17. Song GG, Lee YH. Circulating prolactin level in systemic lupus erythematosus and its correlation 
+
+with disease activity: a meta-analysis. Lupus 2017;26:1260–8. [PubMed: 28420051] 
+
+18. Ledesma-Soto Y, Blanco-Favela F, Fuentes-Panana EM, et al. Increased levels of prolactin receptor 
+
+expression correlate with the early onset of lupus symptoms and increased numbers of 
+transitional-1 B cells after prolactin treatment. BMC Immunol 2012;13:11. [PubMed: 22404893] 
+19. Stuebe AM, Meltzer-Brody S, Pearson B, Pedersen C, Grewen K. Maternal neuroendocrine serum 
+
+levels in exclusively breastfeeding mothers. Breastfeed Med 2015;10:197–202. [PubMed: 
+25831434] 
+
+20. Harris HR, Costenbader KH, Mu F, et al. Endometriosis and the risks of systemic lupus 
+erythematosus and rheumatoid arthritis in the Nurses’ Health Study II. Ann Rheum Dis 
+2016;75:1279–84. [PubMed: 26238146] 
+
+21. Newburger EC, Curry A. Educational Attainment in the United States, March 1999 Current 
+
+Population Reports: Washington, DC: U.S. Department of Commerce; 2000.
+
+Lupus. Author manuscript; available in PMC 2021 February 03.
+
+ 
+ 
+ 
+ 
+Cozier et al.
+
+Page 8
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Figure 1. 
+Black Women’s Health Study follow up flow chart, 1995–2015
+
+Lupus. Author manuscript; available in PMC 2021 February 03.
+
+ 
+ 
+ 
+ 
+Cozier et al.
+
+Page 9
+
+Characteristics of SLE cases at diagnosis in the Black Women’s Health Study (BWHS, n=125)
+
+Table 1.
+
+Lupus (ACR) Characteristics
+
+Lupus cases (n=125)
+
+43 ± 10
+
+121 (97%)
+
+61 (49%)
+
+37 (30%)
+
+10 (8%)
+
+14 (11%)
+
+99 (79%)
+
+33 (26%)
+
+80 (64%)
+
+39 (31%)
+
+13 (10%)
+
+23 (18%)
+
+41 (33%)
+
+38 (30%)
+
+43 (34%)
+
+5.0 ± 1.2
+
+Age at diagnosis ± SD years
+
+ANA positive
+
+Anti-dsDNA or Anti-Sm positive
+
+Anti-dsDNA only
+
+Anti-Sm only
+
+Anti-dsDNA and anti-Sm
+
+Arthritis
+
+Discoid rash
+
+Hematologic disorders
+
+Malar rash
+
+Neurologic disorders
+
+Oral Ulcer
+
+Photosensitivity
+
+Renal disorder
+
+Serositis
+
+Number ACR* criteria (of 11), mean ± SD
+
+ACR = American College of Rheumatology
+
+dsDNA = double-stranded deoxyribonucleic acid
+
+Sm = Smith
+
+*
+
+Hochberg MC. Arthritis Rheum 1997;40:1725.
+
+Lupus. Author manuscript; available in PMC 2021 February 03.
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+ 
+ 
+ 
+ 
+Cozier et al.
+
+Page 10
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Baseline Characteristics of the BWHS Cohort in 1995*, n=58,243
+
+Table 2.
+
+All BWHS (n=58,118) % SLE Cases (n=125) %
+
+Population-based characteristics
+
+Age, mean ± SD
+
+BMI, kg/m2, mean ± SD
+
+39.0 ± 10.8
+
+28.0 ± 6.7
+
+36.4 ± 9.4
+
+28.2 ± 8.2
+
+Smoking
+
+  Never
+
+  Past
+
+  Current
+
+Alcohol Intake
+
+  Never
+
+  Past
+
+  Current
+
+65
+
+19
+
+16
+
+56
+
+18
+
+25
+
+63
+
+19
+
+18
+
+65
+
+15
+
+21
+
+Childhood/Young Adulthood
+
+BMI age 18 (, kg/m2, mean ± SD
+
+21.5 ± 4.1
+
+22.0 ± 5.4
+
+Parental Education, HS or less *
+
+Passive smoking 0–10 years*
+
+Age started smoking ≤ 14 years
+
+Age started drinking ≤ 14 years
+
+Age first OC ≤ 14 years
+
+Ever childhood sexual abuse
+
+Ever childhood physical abuse
+
+Reproductive factors
+
+Age at Menarche ≤ 11 years
+
+Parity
+
+nulliparous
+
+1–2 births
+
+3+ births
+
+Age at first birth ≥ 25 years
+
+Ever breastfeeding
+
+Premenopausal
+
+Ever Endometriosis
+
+Birthweight (self): 2500–3999 grams*
+
+Ever OC
+
+Ever use of female hormone replacement therapy
+
+35
+
+45
+
+4
+
+2
+
+2
+
+4
+
+23
+
+29
+
+35
+
+45
+
+20
+
+59
+
+40
+
+76
+
+8
+
+27
+
+76
+
+15
+
+49
+
+45
+
+5
+
+2
+
+2
+
+12
+
+29
+
+30
+
+36
+
+49
+
+15
+
+54
+
+40
+
+80
+
+10
+
+29
+
+73
+
+19
+
+*
+
+All data reported at study baseline in 1995 except for parental education (2009), passive smoking (1997) and birthweight (1997).
+
+Lupus. Author manuscript; available in PMC 2021 February 03.
+
+ 
+ 
+ 
+ 
+Cozier et al.
+
+Page 11
+
+Relation of Female Reproductive Factors to risk of systemic lupus erythematosus in the BWHS from 1995–
+2015, n=58,243
+
+Table 3.
+
+Cases
+
+Person-years
+
+Age- adjusted HR (95% CI)
+
+a
+
+Multivariable HR (95% CI)
+
+b
+
+Age at menarche
+
+c
+
+< 11
+
+11
+
+12
+
+13
+
+14
+
+≥ 15
+
+P for trend
+
+d
+
+Parity
+
+Nulliparous
+
+Parous
+
+  1 birth
+
+  2 births
+
+  3 births
+
+  ≥ 4 births
+
+Age at first birth
+
+d
+
+Nulliparous
+
+< 25 years
+
+25–29 years
+
+≥ 30 years
+
+Lactation
+
+d,e
+
+Never
+
+Ever
+
+  < 6 months
+
+  ≥6 months
+
+Menopausal status
+
+d
+
+Premenopausal
+
+Hysterectomy
+
+Postmenopausal
+
+  age < 40
+
+  age 40–44
+
+  age ≥ 45
+
+  age unknown
+
+Endometriosis
+
+d
+
+Never
+
+Ever
+
+17
+
+20
+
+29
+
+27
+
+12
+
+20
+
+44
+
+81
+
+36
+
+26
+
+11
+
+8
+
+44
+
+46
+
+20
+
+14
+
+42
+
+38
+
+14
+
+24
+
+93
+
+10
+
+20
+
+3
+
+6
+
+9
+
+2
+
+109830
+
+1.43 (0.78, 2.60)
+
+160041
+
+1.17 (0.66, 2.08)
+
+268018
+
+1.00 (reference)
+
+230833
+
+1.11 (0.66, 1.88)
+
+94153
+
+87328
+
+1.23 (0.63, 2.41)
+
+2.25 (1.27, 3.98)
+
+263575
+
+1.00 (reference)
+
+685852
+
+0.86 (0.58, 1.28)
+
+236352
+
+1.05 (0.67, 1.64)
+
+244597
+
+0.76 (0.46, 1.26)
+
+122042
+
+0.67 (0.34, 1.32)
+
+82862
+
+0.79 (0.36, 1.74)
+
+263575
+
+1.00 (reference)
+
+429530
+
+0.78 (0.50, 1.21)
+
+141259
+
+1.02 (0.59, 1.75)
+
+102987
+
+1.04 (0.56, 1.93)
+
+358919
+
+1.00 (reference)
+
+323652
+
+1.12 (0.72, 1.76)
+
+176987
+
+0.76 (0.41, 1.40)
+
+146665
+
+1.58 (0.94, 2.65)
+
+509187
+
+1.00 (reference)
+
+129858
+
+0.62 (0.29, 1.32)
+
+275591
+
+0.73 (0.36, 1.51)
+
+48884
+
+43296
+
+0.47 (0.14, 1.57)
+
+1.27 (0.49, 3.32)
+
+174267
+
+0.53 (0.20, 1.38)
+
+9145
+
+1.93 (0.45, 8.28)
+
+1.31 (0.72, 2.39)
+
+1.12 (0.63, 1.99)
+
+1.00 (reference)
+
+1.12 (0.66, 1.90)
+
+1.26 (0.64, 2.47)
+
+2.31 (1.30, 4.11)
+
+0.08
+
+1.00 (reference)
+
+0.93 (0.63, 1.38)
+
+1.12 (0.71, 1.76)
+
+0.82 (0.50, 1.38)
+
+0.72 (0.36, 1.44)
+
+0.84 (0.38, 1.87)
+
+1.00 (reference)
+
+0.89 (0.56, 1.44)
+
+1.13 (0.65, 1.96)
+
+1.09 (0.58, 2.05)
+
+1.00 (reference)
+
+1.17 (0.74, 1.85)
+
+0.78 (0.42, 1.45)
+
+1.73 (1.01, 2.94)
+
+1.00 (reference)
+
+0.57 (0.26,1.24)
+
+0.62 (0.29, 1.32)
+
+0.37 (0.11, 1.30)
+
+1.07 (0.39, 2.89)
+
+0.48 (0.18, 1.25)
+
+1.68 (0.39, 7.34)
+
+111
+
+14
+
+861661
+
+1.00 (reference)
+
+92814
+
+1.28 (0.73, 2.25)
+
+1.00 (reference)
+
+1.27 (0.72, 2.25)
+
+Lupus. Author manuscript; available in PMC 2021 February 03.
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+ 
+ 
+ 
+ 
+Cozier et al.
+
+a
+
+All models were adjusted for age and period
+
+Page 12
+
+b,c
+
+Age at menarche was adjusted for age started smoking ≤ 14 years, age started alcohol intake ≤ 14 years, age first OC ≤ 14 years, BMI at age 18, 
+
+parental education, ever child sexual abuse, and ever child physical abuse.
+
+b,d
+
+Parity, age at first birth, lactation, menopause, and endometriosis were adjusted for alcohol status, smoking status, BMI, BMI at age 18, 
+
+parity(except parity), menopausal status (except menopause), current OC use, ever use of female hormone, age at menarche.
+
+e
+
+Restricted to parous women. We used an indicator variable of having three or more births against having less than three births to control for parity.
+
+Lupus. Author manuscript; available in PMC 2021 February 03.
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+ 
+ 
+ 
+ 
+

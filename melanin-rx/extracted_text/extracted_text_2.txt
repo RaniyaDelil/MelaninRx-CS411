@@ -1,0 +1,1649 @@
+Social Science & Medicine 68 (2009) 2122–2128
+
+Contents lists available at ScienceDirect
+
+Social Science & Medicine
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / s o c s c i m e d
+
+Income incongruity, relative household income, and preterm birth in the Black
+Women’s Health Studyq
+
+Ghasi S. Phillips a, *, Lauren A. Wise b, Janet W. Rich-Edwards a, c, Meir J. Stampfer a, d, Lynn Rosenberg b
+a Harvard School of Public Health, Department of Epidemiology, 677 Huntington Avenue, Boston, MA, USA
+b Slone Epidemiology Center, Boston University, Boston, MA, USA
+c Connors Center for Women’s Health and Gender Biology, Brigham and Women’s Hospital, Boston, MA, USA
+d Channing Laboratory, Department of Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, MA, USA
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Available online 24 April 2009
+
+Keywords:
+African Americans
+Premature birth
+Relative income
+Neighborhood
+USA
+Women
+
+Relative income may be a better predictor of health outcomes than absolute income. We examined two
+measures of relative incomedincome incongruity and relative household incomedin relation to preterm
+birth in a study of U.S. Black women. Income incongruity is a measure that compares the median
+household income of an individual’s residential area with that of others who have the same level of
+marital status and education, but who may live in different areas. Relative household income is
+a measure that compares an individual’s household income with the median household income of her
+residential area. We used data collected biennially (1997–2003) from participants in the Black Women’s
+Health Study: 6257 singleton births were included in the income incongruity analyses and 5182 in the
+relative household income analyses; 15% of the births were preterm. After adjusting for confounders, we
+found no overall association of income incongruity or relative household income with preterm birth. For
+relative household income, but not for income incongruity, there was suggestive evidence that neigh-
+borhood composition modiﬁed the association with preterm birth: higher relative household income
+was associated with higher risk of preterm birth in neighborhoods with a high percentage of Black
+residents, and higher relative household income was associated with lower risk in neighborhoods with
+a low percentage of Black residents.
+
+(cid:2) 2009 Elsevier Ltd. All rights reserved.
+
+Introduction
+
+Preterm birth is the leading cause of neonatal mortality in the
+United States and Blacks are twice as likely as Whites to have
+a preterm birth (Ananth, Misra, Demissie, & Smulian, 2001; Ber-
+kowitz, Blackmore-Prince, Lapinski, & Savitz, 1998; Green et al.,
+2005; Martin et al., 2005). The racial disparity has not been fully
+explained by individual-level factors such as history of preterm
+birth or lack of prenatal care (Ananth et al., 2001; Berkowitz et al.,
+1998; Green et al., 2005). In recent years, researchers have begun to
+examine the effects of neighborhood socioeconomic status on
+adverse birth outcomes (Ahern, Pickett, Selvin, & Abrams, 2003;
+Culhane & Elo, 2005; Farley et al., 2006; Kaufman, Dole, Savitz, &
+Herring, 2003; Luo, Wilkins, & Kramer, 2006; Pickett, Ahern, Selvin,
+& Abrams, 2002; Pickett & Pearl, 2001).
+
+q
+
+This work was supported by National Cancer Institute grant R01 CA58420 and
+by Association of Schools of Public Health grant S324-16/18 given through the
+ASPH/CDC/ATSDR Cooperative agreement.
+
+* Corresponding author. Tel.: þ1 301 458 4469.
+
+E-mail address: ghasi.phillips@gmail.com (G.S. Phillips).
+
+0277-9536/$ – see front matter (cid:2) 2009 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.socscimed.2009.03.039
+
+Economically deprived areas are more likely to be inhabited by
+Blacks than Whites, even when both groups have similar income
+and education (Krieger, Williams, & Moss, 1997; Massey, Condran, &
+Denton, 1987). Economically disadvantaged communities are not as
+well-equipped with amenities for good health (e.g. primary care,
+supermarkets, and public transportation) as economically advan-
+taged areas (Kawachi & Kennedy, 1997; Lynch, Smith, Kaplan, &
+House, 2000; Marmot, 2002; Massey et al., 1987; Subramanian &
+Kawachi, 2004; Williams & Collins, 2001). Although the socioeco-
+nomic status of the individual or the individual’s neighborhood
+may affect health, it has been argued that absolute income may not
+be as inﬂuential as relative income and social status on morbidity
+(Marmot et al., 1991; Singh-Manoux, Adler, & Marmot, 2003) and
+mortality (Wilkinson, 1997a, 1997b).
+
+Income incongruity is a measure of relative income originally
+developed by Collins et al. (Collins, Herman, & David, 1997). Positive
+income incongruity exists when the median household income of
+a person’s residential area is greater than that for other individuals
+in the entire study population who share the person’s level of
+marital status and education, and negative income incongruity
+exists when the median household income of a person’s residential
+
+G.S. Phillips et al. / Social Science & Medicine 68 (2009) 2122–2128
+
+2123
+
+area is lower than expected according to the person’s level of
+marital status and education (Collins et al., 1997; Pickett, Collins,
+Masi, & Wilkinson, 2005). This variable has been used as a marker
+for relative income in studies that did not have income data at the
+individual level. Two studies, which exclusively enrolled Black
+women, have examined positive income incongruity in relation to
+preterm birth within levels of census tract racial composition
+(Pickett et al., 2005; Vinikoor, Kaufman, Maclehose, & Laraia, 2008).
+While no association was observed among Black women who lived
+in census tracts of mixed racial composition, positive income
+incongruity was associated with a reduced risk of preterm birth
+among Black women who resided in predominantly Black census
+tracts (Pickett et al., 2005; Vinikoor et al., 2008). Their ﬁnding
+supports studies that found beneﬁcial effects of racial residential
+segregation on health (Fang, Madhavan, Bosworth, & Alderman,
+1998; Halpern, 1993) but contrasts with others that reported
+detrimental effects on health (Osypuk & Acevedo-Garcia, 2008;
+Williams & Collins, 2001). Another study assessed positive and
+negative income incongruity among Black and White women and
+found that positive income incongruity, but not negative income
+incongruity, was associated with a lower risk of very low birth
+weight in both ethnic groups (Collins et al., 1997). The analyses
+were not stratiﬁed by neighborhood racial composition.
+
+In the present report from the Black Women’s Health Study, we
+had information on individual-level household income as well as
+area-level household income. We derived another measure of
+relative income,
+‘‘relative household income,’’ which deﬁnes an
+individual’s household income relative to the household incomes
+of others in her residential area (Subramanian & Kawachi, 2004;
+Wilkinson, 1997a). To our knowledge, no previous studies have
+examined the association of relative household income in relation
+to preterm birth. We examined relative household income
+(derived from an observed household income) and income
+incongruity (derived from an expected household income accord-
+ing to marital status and educational level) as potential risk factors
+for spontaneous and medically indicated preterm birth. We also
+examined whether racial composition of the residential area
+modiﬁed the effects of these relative income measures on risk of
+preterm birth.
+
+Methods
+
+Data sources
+
+of
+
+study
+
+follow-up
+
+The Black Women’s Health Study (BWHS) is an ongoing
+prospective
+Black women residing
+throughout the United States (Rosenberg, Adams-Campbell, &
+Palmer, 1995). In 1995, the study enrolled 59,000 women aged
+21–69 years who completed health questionnaires mailed to
+subscribers of Essence, a general interest magazine marketed to
+Black women. The enrolled population also included family and
+friends of early participants and members of selected Black
+professional organizations. Participants have been followed
+information on
+through biennial questionnaires that collect
+demographic, reproductive, and medical factors. The study has
+maintained an average follow-up rate of 80% since baseline
+(Rosenberg, Palmer, Wise, Horton, & Corwin, 2002; Rosenberg,
+Wise, & Palmer, 2005).
+
+The 1995 residential addresses were linked to the 2000 U.S.
+Census block group data by a company that has been reported to
+geocode accurately (Krieger, Waterman, Lemieux, Zierler, & Hogan,
+2001). Census block groups are geographic areas typically of
+homogenous demographic composition that contain an average of
+1500 people (US Census Bureau, 2002).
+
+Income incongruity
+
+Income incongruity compares a participant’s block group
+income with the average block group income of others in the study
+population with the same marital status and level of education
+(Collins et al., 1997; Pickett et al., 2005). To create this variable, we
+extracted information on median household income from census
+block group data and information on marital status (married or
+living as married, and unmarried) and years of education ((cid:2)12, 13–
+15, and (cid:3)16 years) from the follow-up questionnaires. Each woman
+was classiﬁed as having positive income incongruity if the median
+household income of the block group in which she lived was at least
+one standard deviation higher (or lower to deﬁne negative income
+incongruity) than the average block group median household
+income of mothers with the same level of education and marital
+status in our study population (Collins et al., 1997; Pickett et al.,
+2005). A participant with no income incongruity lived in a block
+group with a median household income that was within one
+standard deviation of the average block group median household
+income for study participants with comparable marital status and
+educational level.
+
+Relative household income
+
+Relative household income compares the participant’s house-
+hold income to the median household income of the block group in
+which she lives. Household income was assessed in categorical
+form in the BWHS. We collapsed the census variable, median
+household income, into the following six categories of U.S. dollars:
+(cid:2)15,000; 15,001–25,000; 25,001–35,000; 35,001–50,000; 50,001–
+100,000; and >100,000, and coded them from 1 to 6. This ordinal
+variable for block group median household income was then sub-
+tracted from the individual-level household income variable, for
+which the same categories had also been coded from 1 to 6. We
+categorized women as having ‘‘higher relative household income’’
+if their individual-level household income was at least one category
+higher than their block group’s median household income. We
+categorized women as having ‘‘lower relative household income’’ if
+their individual-level household income was at least one category
+lower than the median household income category of their block
+group, while ‘‘similar household income’’ indicated no difference in
+categories of individual-level and neighborhood-level household
+income.
+
+Preterm birth
+
+On follow-up questionnaires from 1997 to 2003, participants
+reported whether they had a singleton birth that was three or
+more weeks early, which the BWHS deﬁnes as a preterm birth.
+Participants also reported the reason for the preterm birth. We
+separately assessed spontaneous preterm births (premature labor
+for no known reason or early rupture of membranes) and medi-
+cally indicated preterm births (cesarean section or medical
+induction) because they may have different etiologies (Berkowitz
+et al., 1998; Pickett, Abrams, & Selvin, 2000). The BWHS carried
+out two validation studies of self-reported preterm birth (deﬁned
+as 3 or more weeks early).
+In a study that compared the
+self-reports of 25 BWHS participants with medical record data,
+preterm birth was conﬁrmed for 23 (92%), and the reason for the
+preterm birth was conﬁrmed for 20 of the 23 cases (87%). In
+a study that compared the self-reports of 23 BWHS participants
+from Massachusetts who delivered singletons during 1995–2003
+with birth registry data from the Massachusetts Department of
+Public Health, preterm birth was conﬁrmed for 21 out of 23 (91%),
+and spontaneous preterm birth was conﬁrmed for 11 of 12
+
+2124
+
+G.S. Phillips et al. / Social Science & Medicine 68 (2009) 2122–2128
+
+participants (92%). The proportion of preterm birth in the present
+analysis, 15.0%, is similar to the proportion among Black women in
+national data (based on the <37 weeks gestation deﬁnition) in
+2001, 15.6% (Vahratian, Buekens, & Alexander, 2006).
+
+Additional covariates
+
+Maternal age at pregnancy was categorized into ﬁne age groups
+(<30, 30–34, 35–39, and (cid:3)40) to minimize residual confounding
+from age. Because the minimum age at baseline was 21 and few
+women were less than age 25 years at the index birth, we did not
+divide the <30 category further. We also considered the following
+variables for inclusion in statistical models: years of education
+((cid:2)12, 13–15, 16, (cid:3)17), marital status during pregnancy (married or
+living as married, divorced/separated/widowed, single), prepreg-
+nancy body mass index (BMI) (kg/m2) (<20, 20–24, 25–29, (cid:3)30)
+(WHO Expert Committee, 1995), smoked cigarettes during preg-
+nancy (no, yes), parity status (nulliparous, parous), participant born
+preterm (no, yes, unsure), had a previous preterm birth (no, yes),
+annual household income in U.S. dollars ((cid:2)35,000, 35,001–50,000,
+50,001–100,000, >100,000), and number of people supported by
+the household income (1, 2, 3, 4, (cid:3)5). The last two factors listed
+were assessed on the 2003 questionnaire. The area-level household
+income variable was not adjusted for number of people in the
+household and, for consistency, we decided against adjusting for
+number of people in the household for the individual-level
+household income variable in our main analysis. The census vari-
+able, percent of Black residents, was divided into three categories:
+low, medium, and high, using cut points based on the 25th and 75th
+percentiles in our sample: <14.4%, 14.4–82.7%, and >82.7% Black
+residents.
+
+Exclusion criteria
+
+From 1997 to 2003, the period during which information on
+preterm birth status was collected, 8697 singleton births were
+reported by women less than 45 years of age. We restricted our
+sample to 7026 ﬁrst reported pregnancies to prevent correlations
+arising from two or more births contributed by the same mother. Of
+these, 567 were excluded because the mothers had invalid addresses
+for geocoding (e.g. business addresses or post ofﬁce boxes). We also
+excluded 49 preterm births that could not be classiﬁed as either
+spontaneous or medically indicated, leaving 6410 births.
+
+For the income incongruity analyses, we excluded 153 births
+because data on the mother’s marital status and education were
+missing, leaving data on 6257 births (5312 term births, 499 spon-
+taneous preterm births, and 446 medically indicated preterm births).
+For the relative household income analysis, we did not exclude
+mothers with missing data on maternal education and marital
+status because these variables were not used to create the relative
+household income variable. Instead, we excluded 1228 mothers
+with missing data on family household income from the sample of
+6410 participants. This left 5182 births (4408 term births, 402
+spontaneous preterm births, and 372 medically indicated preterm
+births). The proportion of participants in this sample with (cid:3)16
+years of education was 57.3%, compared with 55.2% in the full
+sample. Other characteristics such as median maternal age (32 vs.
+32 years), median BMI (25.8 vs. 25.9 kg/m2), and proportion of
+personal household income > $50,000 (67.9 vs. 68.7%) were also
+similar in the two samples.
+
+Statistical analyses
+
+Odds ratios and 95% conﬁdence intervals for income incongruity
+and relative household income in relation to preterm birth were
+
+estimated using generalized estimating equation (GEE) models.
+GEE models were employed using PROC GENMOD in SAS version
+9.1 (SAS Institute Inc., 2003) with an empirical variance estimator,
+exchangeable working correlation structure, and the ‘‘logit link’’
+function. GEE models accounted for the correlation created by two
+or more women living in the same block group (Horton & Lipsitz,
+1999). In our study, the median number of women per block group
+was one (range: 1–12) and the average number of women per block
+group was 1.19.
+
+All multivariable models included maternal age, years of
+education, marital status, prepregnancy BMI, and smoking during
+pregnancy. Indicator terms were added to models for observations
+with missing data. Further adjustment for parity, participant born
+preterm, previous preterm birth, annual household income, and
+number of people supported by the household income yielded little
+change in the effect estimates and were not included in ﬁnal
+models.
+
+To investigate potential effect modiﬁcation, cross-product terms
+between indicator variables of the exposure and the ordinal
+percent Black variable were added to statistical models. Wald tests
+were used to determine statistical signiﬁcance. Because the BWHS
+population is mobile (Russell, Palmer, Adams-Campbell, & Rosen-
+berg, 2001), we conducted sensitivity analyses to examine associ-
+ations among women who had not moved or who had moved but
+had lived during the entire study period in neighborhoods that had
+the same category of median household income.
+
+Results
+
+The percentages of mothers with positive and negative income
+incongruity were 13.6% and 13.9%, respectively, and the percent-
+ages with higher and lower relative household income were 63.0%
+and 14.5%. As shown in Table 1, across levels of income incongruity
+going from positive to negative, maternal household income and
+level of education decreased while body mass index, cigarette
+smoking, percent of participants born preterm, having had
+a previous preterm birth, and parity increased. For census block
+group characteristics across these levels of income incongruity, the
+percent of Black residents increased and median household income
+decreased. Similar trends in individual-level characteristics were
+present across levels of relative household income, going from
+higher to lower.
+
+As shown in Table 2, as the percent of Black residents in census
+block groups increased, there were decreases in the percent of
+married participants, educational level, and household income. The
+median household income of block groups decreased as the cate-
+gory of percent Black residents increased.
+
+There were no signiﬁcant associations between neighborhood
+racial composition,
+income incongruity, or relative household
+income with preterm birth overall or by preterm birth subtype
+(Table 3). There were also no signiﬁcant associations in sensitivity
+analyses conﬁned to women whose neighborhood socioeconomic
+status had not changed. For the income incongruity sensitivity
+analysis (n ¼ 4945 births), the odds ratio was 0.93 (95% CI: 0.73,
+1.18) for the association between positive income incongruity and
+preterm birth, and 0.99 (95% CI: 0.76, 1.29) for the association
+between negative income incongruity and preterm birth (data not
+shown). For the relative household income sensitivity analysis
+(n ¼ 4231 births), the odds ratio was 1.02 (95% CI: 0.82, 1.27) for the
+association between higher relative household income and preterm
+birth, and 1.18 (95% CI: 0.88, 1.57) for the association between lower
+relative household income and preterm birth (data not shown).
+
+After stratifying by neighborhood racial composition (otherwise
+referred to as % Black residents in census block groups) (Table 4),
+the adjusted odds ratio for positive income incongruity and
+
+G.S. Phillips et al. / Social Science & Medicine 68 (2009) 2122–2128
+
+2125
+
+Table 1
+Distribution of maternal and block group characteristics according to levels of income incongruity and relative household income, Black Women’s Health Study, 1995–2003.
+
+Maternal and block group characteristics
+
+Income incongruity (n ¼ 6257)
+
+Relative household income (n ¼ 5182)
+
+Positive (n ¼ 850)
+
+No (n ¼ 4537)
+
+Negative (n ¼ 870)
+
+Higher (n ¼ 3263)
+
+Similar (n ¼ 1167)
+
+Lower (n ¼ 752)
+
+Maternal characteristics
+Age, years, mean (SD)
+Married or living as married, %
+Education (cid:3) 16 years, %
+Household income > $50,000, %
+No. people supported by income, mean (SD)
+Body mass index, kg/m2, mean (SD)
+Parous, %
+Smoked during pregnancy, %
+Participant born preterm, %
+History of preterm birth, %
+
+32.7 (4.5)
+70.0
+59.7
+80.6
+3.7 (1.1)
+26.2 (5.6)
+42.5
+5.8
+9.0
+6.0
+
+Block group characteristics
+
+31.6 (4.5)
+67.5
+55.0
+68.2
+3.6 (1.3)
+27.3 (6.2)
+41.7
+7.6
+10.4
+6.9
+
+31.1 (4.6)
+66.3
+50.0
+54.5
+3.7 (1.3)
+28.1 (7.0)
+51.8
+11.4
+11.8
+9.0
+
+32.1 (4.3)
+75.0
+64.4
+85.0
+3.7 (1.2)
+27.1 (6.1)
+39.5
+5.7
+9.8
+6.5
+
+32.1 (4.6)
+66.3
+53.5
+61.6
+3.6 (1.3)
+27.3 (6.3)
+43.8
+7.7
+10.3
+5.5
+
+31.0 (4.8)
+42.5
+32.6
+3.1
+3.3 (1.4)
+28.0 (7.1)
+48.7
+14.7
+12.6
+9.2
+
+% Black residents, mean (SD)
+Median household income, $, mean (SD)
+
+30 (33)
+80,609 (17,461)
+
+48 (33)
+42,392 (11,349)
+
+65 (30)
+18,961 (5514)
+
+50 (34)
+39,856 (17,484)
+
+43 (35)
+55,338 (22,227)
+
+47 (35)
+50,106 (22,188)
+
+preterm birth overall was 1.23 (95% CI: 0.74, 2.05) among women
+who lived in block groups with a high percentage of Black residents.
+There was a stronger association of positive income incongruity
+with spontaneous preterm birth: OR ¼ 1.68, 95% CI: 0.93, 3.06. In
+the sensitivity analysis conﬁned to women whose neighborhood
+socioeconomic status had not changed, we observed similar results
+as those from the full analytic population for census block groups
+with a low or medium percentage of Black residents. However, for
+those living in block groups with a high percentage of Black resi-
+dents we found a stronger association between positive income
+incongruity and spontaneous preterm birth (OR ¼ 2.26, 95% CI: 1.17,
+4.37) (data not shown). As in the full sample, there was no relation
+between negative income incongruity and spontaneous preterm
+birth among women who lived in block groups with a high
+percentage of Black residents (OR ¼ 1.06, 95% CI: 0.58, 1.92).
+
+For the relative household income analyses stratiﬁed by
+neighborhood racial composition (% Black residents) (Table 5),
+among participants who resided in block groups with a low
+percentage of Black residents, we observed a reduced odds ratio for
+preterm birth overall for women with higher relative income
+(OR ¼ 0.71, 95% CI: 0.50, 1.00) compared with women who were in
+the same household income category as those of their block groups.
+There were no associations in the stratum of medium percentage of
+
+Table 2
+Distribution of maternal and block group characteristics by block group % of Black
+residents among 6410 participants, Black Women’s Health Study, 1995–2003.
+
+Characteristics
+
+<14.4% Black
+(n ¼ 1602)
+
+14.4–82.7% Black
+(n ¼ 3206)
+
+>82.7% Black
+(n ¼ 1602)
+
+32.2 (4.4)
+77.8
+
+3.7 (1.2)
+
+26.4 (5.7)
+
+64.9
+77.4
+
+Maternal characteristics
+Age, years, mean (SD)
+Married or living
+as married, %
+Education (cid:3) 16 years, %
+Household
+income > $50,000, %
+No. people supported by
+income, mean (SD)
+Body mass index, kg/m2,
+mean (SD)
+Parous, %
+Smoked during pregnancy, % 7.2
+Participant born preterm, % 10.4
+History of preterm birth, % 5.6
+
+39.5
+
+31.6 (4.4)
+67.1
+
+31.5 (4.6)
+58.4
+
+53.4
+67.0
+
+46.8
+60.0
+
+3.6 (1.3)
+
+3.5 (1.3)
+
+27.3 (6.3)
+
+27.8 (6.6)
+
+44.6
+7.7
+9.5
+7.2
+
+44.9
+9.5
+12.4
+7.8
+
+Block group characteristics
+
+Median household income,
+$, mean (SD)
+
+56,307 (23,062) 41,533 (17,690)
+
+37,629 (16,588)
+
+Black residents. Among women who lived in block groups with
+a high percentage of Black residents, higher relative household
+income was associated with an increased odds ratio for preterm
+birth overall (OR ¼ 1.80, 95% CI: 1.14, 2.82) and spontaneous
+preterm birth (OR ¼ 1.96, 95% CI: 1.07, 3.59). In a sensitivity analysis
+conducted among women whose neighborhood socioeconomic
+status had not changed, the adjusted odds ratio for the association
+between higher relative household income and preterm birth
+overall among women who lived in block groups with a high
+percentage of Black residents was 2.72 (95% CI: 1.48, 4.98), and the
+odds ratio for the association between higher relative income and
+preterm birth overall among women living in neighborhoods with
+a low percentage of Black residents was 0.66 (95% CI: 0.45, 0.96),
+relative to women with similar household income (data not
+shown).
+
+Discussion
+
+In the present study, we examined two different measures of
+relative income in relation to preterm birth: one was a comparison
+between block groups (i.e. mother’s block group income compared
+with the average block group income for women with similar
+marital status and education, otherwise called income incongruity)
+and the other was a comparison between mother’s household
+income and the median income of households in her block group
+(i.e. relative household income). Income incongruity depends on
+the distribution of the entire study population rather than the
+internal characteristics of an area in which the participant lives.
+Relative household income directly compares a woman’s income to
+that of the households in the areas in which she resides. Studying
+relative household income could improve our understanding of
+how socioeconomic inequalities within residential communities
+may affect health.
+
+Our results suggest that income incongruity is not associated
+with preterm birth and that neighborhood racial composition
+(percent of Black residents) does not modify the relation between
+income incongruity and preterm birth. While we also found no
+overall association of relative household income with preterm
+birth, there was some evidence of a positive association between
+relative household income and spontaneous preterm birth in
+analyses stratiﬁed by neighborhood racial composition, although
+neighborhood composition itself was not associated with preterm
+birth. Odds ratios for both higher and lower relative household
+incomes in relation to preterm birth were below one in areas with
+low percentages of Black residents and above one in areas with
+high percentages of Black residents. The different associations in
+
+2126
+
+G.S. Phillips et al. / Social Science & Medicine 68 (2009) 2122–2128
+
+Table 3
+Adjusteda odds ratios and 95% conﬁdence intervals of the associations of neighborhood racial composition (% Black residents), income incongruity, and relative household
+income with preterm birth, Black Women’s Health Study, 1995–2003.
+
+Neighborhood racial composition
+
+<14.4% Black residents
+14.4–82.7% Black residents
+>82.7% Black residents
+
+Income incongruity
+
+Positive incongruity
+No incongruity
+Negative incongruity
+
+Relative household income
+
+Higher income
+Similar income
+Lower income
+
+No.
+term
+
+1359
+2734
+1357
+
+728
+3839
+745
+
+2786
+994
+628
+
+All preterm birth
+
+Spontaneous preterm birth
+
+Medically indicated preterm birth
+
+No.
+preterm
+
+OR
+
+95% CI
+
+No.
+preterm
+
+OR
+
+95% CI
+
+No.
+preterm
+
+OR
+
+95% CI
+
+243
+472
+245
+
+122
+698
+125
+
+477
+173
+124
+
+1.08
+1.00
+1.03
+
+0.92
+1.00
+0.92
+
+1.01
+1.00
+1.09
+
+0.91, 1.28
+Referent
+0.87, 1.22
+
+0.75, 1.14
+Referent
+0.75, 1.12
+
+0.84, 1.22
+Referent
+0.84, 1.41
+
+128
+245
+134
+
+73
+357
+69
+
+251
+90
+61
+
+1.08
+1.00
+1.10
+
+1.07
+1.00
+0.99
+
+1.01
+1.00
+1.02
+
+0.86, 1.35
+Referent
+0.88, 1.37
+
+0.81, 1.40
+Referent
+0.76, 1.30
+
+0.79, 1.30
+Referent
+0.72, 1.45
+
+115
+227
+111
+
+49
+341
+56
+
+226
+83
+63
+
+1.08
+1.00
+0.97
+
+0.78
+1.00
+0.84
+
+1.00
+1.00
+1.17
+
+0.85, 1.37
+Referent
+0.76, 1.24
+
+0.57, 1.06
+Referent
+0.63, 1.13
+
+0.77, 1.31
+Referent
+0.82, 1.66
+
+a Adjusted for age, education, marital status, body mass index, and smoked cigarettes during pregnancy.
+
+areas with high and low proportions of Black residents, if real, may
+be explained by different pathways. One might speculate that in
+predominantly Black areas, mothers with lower household incomes
+may have had less ﬁnancial ability to use available resources
+important for good health (Massey et al., 1987). The positive asso-
+ciation seen among mothers with higher household incomes who
+lived in predominantly Black areas could be related to the stresses
+associated with living in economically disadvantaged areas (Mor-
+land, Wing, Diez Roux, & Poole, 2002), coupled with feelings of
+isolation or lack of social support that women with household
+incomes similar to the median household income in their block
+groups may not experience. Acute and chronic stress have been
+associated with an increased risk of spontaneous preterm birth
+(Committee on Understanding Premature Birth and Assuring
+Healthy Outcomes & Board on Health Sciences Policy, 2007; Holz-
+man, Jetton, Siler-Khodr, Fisher, & Rip, 2001; McLean & Smith,
+2001; Moawad et al., 2002). This could explain why the estimated
+effect of relative household income among those who resided in
+predominantly Black block groups was stronger for spontaneous
+preterm birth than for medically indicated preterm birth. Among
+
+participants who lived in block groups with a low proportion of
+Black residents, mothers with higher relative household income
+had a reduced risk of preterm birth overall. If real, an explanation
+might be that women with higher household incomes had better
+ﬁnancial means to afford good health promoting amenities and
+services available within these communities. To our knowledge
+there have been no other studies of relative income in relation to
+preterm birth.
+
+Our income incongruity results do not conﬁrm previously
+reported protective effects of positive incongruity in relation to
+adverse pregnancy outcomes (Collins et al., 1997; Pickett et al.,
+2005; Vinikoor et al., 2008). Collins et al. (1997) found an inverse
+association between positive income incongruity and very low
+birth weight among Blacks (OR ¼ 0.7, 95% CI: 0.5, 0.9) and Whites
+(OR ¼ 0.6, 95% CI: 0.5, 0.9). They found no association with negative
+income incongruity and did not stratify by racial composition.
+Pickett et al. (2005) and Vinikoor et al. (2008) examined positive
+income incongruity and stratiﬁed by two levels of racial density. No
+association was observed among women who resided in racially
+mixed census tracts in either study. The odds ratio among women
+
+Table 4
+Adjusteda odds ratios and 95% conﬁdence intervals of the association of income incongruity with preterm birth, stratiﬁed by % of Black residents in census block groups, among
+6257 participants, Black Women’s Health Study, 1995–2003.
+
+Income
+incongruity
+
+<14.4% Black residents (n ¼ 1567)
+
+14.4–82.7% Black residents (n ¼ 3130)
+
+>82.7% Black residents (n ¼ 1560)
+
+p Valueb
+
+No.
+term
+
+No.
+preterm
+
+Odds
+ratio
+
+95% Conﬁdence
+interval
+
+No.
+term
+
+No.
+preterm
+
+Odds
+ratio
+
+95% Conﬁdence
+interval
+
+No.
+term
+
+No.
+preterm
+
+Odds
+ratio
+
+95% Conﬁdence
+interval
+
+All preterm birth
+
+382
+
+Positive
+incongruity
+No incongruity 886
+60
+Negative
+incongruity
+
+59
+
+171
+9
+
+Spontaneous preterm birth
+
+382
+
+Positive
+incongruity
+No incongruity 886
+60
+Negative
+incongruity
+
+34
+
+90
+3
+
+Medically indicated preterm birth
+
+382
+
+Positive
+incongruity
+No incongruity 886
+60
+Negative
+incongruity
+
+25
+
+81
+6
+
+0.80
+
+0.58, 1.11
+
+256
+
+42
+
+0.93
+
+0.66, 1.32
+
+90
+
+21
+
+1.23
+
+0.74, 2.05
+
+0.19
+
+1.00
+0.81
+
+Referent
+0.39, 1.67
+
+2011
+400
+
+354
+67
+
+1.00
+0.92
+
+Referent
+0.69, 1.23
+
+942
+285
+
+173
+49
+
+1.00
+1.00
+
+Referent
+0.71, 1.42
+
+0.62
+
+0.88
+
+0.58, 1.34
+
+256
+
+24
+
+1.05
+
+0.67, 1.64
+
+1.00
+0.50
+
+Referent
+0.15, 1.63
+
+2011
+400
+
+178
+38
+
+1.00
+1.06
+
+Referent
+0.73, 1.54
+
+0.72
+
+0.45, 1.16
+
+256
+
+18
+
+0.81
+
+0.49, 1.35
+
+1.00
+1.14
+
+Referent
+0.47, 2.77
+
+2011
+400
+
+176
+29
+
+1.00
+0.79
+
+Referent
+0.52, 1.20
+
+90
+
+942
+285
+
+90
+
+942
+285
+
+15
+
+89
+28
+
+6
+
+84
+21
+
+1.68
+
+0.93, 3.06
+
+0.10
+
+1.00
+1.11
+
+Referent
+0.71, 1.75
+
+0.37
+
+0.74
+
+0.31, 1.76
+
+0.92
+
+1.00
+0.90
+
+Referent
+0.54, 1.49
+
+0.83
+
+a Adjusted for age, education, marital status, prepregnancy body mass index, and smoked cigarettes during pregnancy.
+b p Value for interaction term between positive or negative income incongruity and % Black residents (ordinal).
+
+G.S. Phillips et al. / Social Science & Medicine 68 (2009) 2122–2128
+
+2127
+
+Table 5
+Adjusteda odds ratios and 95% conﬁdence intervals of the association of relative household income with preterm birth, stratiﬁed by % of Black residents in census block groups,
+among 5182 participants, Black Women’s Health Study, 1995–2003.
+
+Relative household
+income
+
+<14.4% Black residents (n ¼ 1299)
+
+14.4–82.7% Black residents (n ¼ 2592)
+
+>82.7% Black residents (n ¼ 1291)
+
+p Valueb
+
+No. term No.
+
+preterm
+
+Odds
+ratio
+
+95% Conﬁdence
+interval
+
+No.
+term
+
+No.
+preterm
+
+Odds
+ratio
+
+95% Conﬁdence
+interval
+
+No.
+term
+
+No.
+preterm
+
+Odds
+ratio
+
+95% conﬁdence
+interval
+
+All preterm birth
+Higher income
+Similar incomec
+Lower income
+
+634
+292
+171
+
+Spontaneous preterm birth
+
+Higher income
+Similar income
+Lower income
+
+634
+292
+171
+
+Medically indicated preterm birth
+
+Higher income
+Similar income
+Lower income
+
+634
+292
+171
+
+104
+68
+30
+
+53
+35
+14
+
+51
+33
+16
+
+0.71
+1.00
+0.80
+
+0.69
+1.00
+0.67
+
+0.74
+1.00
+0.98
+
+0.50, 1.00
+Referent
+0.48, 1.32
+
+0.43, 1.09
+Referent
+0.34, 1.34
+
+0.46, 1.18
+Referent
+0.50, 1.93
+
+1446
+474
+295
+
+1446
+474
+295
+
+1446
+474
+295
+
+237
+78
+62
+
+124
+41
+28
+
+113
+37
+34
+
+1.04
+1.00
+1.21
+
+1.02
+1.00
+1.09
+
+1.05
+1.00
+1.32
+
+0.78, 1.37
+Referent
+0.83, 1.76
+
+0.70, 1.48
+Referent
+0.65, 1.82
+
+0.71, 1.55
+Referent
+0.80, 2.19
+
+706
+228
+162
+
+706
+228
+162
+
+706
+228
+162
+
+136
+27
+32
+
+74
+14
+19
+
+62
+13
+13
+
+1.80
+1.00
+1.61
+
+1.96
+1.00
+1.87
+
+1.62
+1.00
+1.35
+
+1.14, 2.82
+Referent
+0.92, 2.82
+
+1.07, 3.59
+Referent
+0.90, 3.89
+
+0.86, 3.05
+Referent
+0.60, 3.04
+
+0.002
+
+0.03
+
+0.01
+
+0.03
+
+0.04
+
+0.24
+
+a Adjusted for age, education, marital status, body mass index, and smoked cigarettes during pregnancy.
+b p Value for interaction term between higher or lower relative household income and % Black residents (ordinal).
+c Similar income is deﬁned as no difference in category of household income for the participant with that of her block group.
+
+who lived in ‘‘predominantly Black’’ census tracts in the Pickett
+study was 0.83 (95% CI: 0.75, 0.92), and the odds ratio in the Vin-
+ikoor study was 0.83 (95% CI: 0.74, 0.92) among mothers who lived
+in census tracts with ‘‘high relative density’’ of African Americans.
+Our study has a number of strengths. We assessed spontaneous
+preterm birth and medically indicated preterm birth separately as
+well as combined. Our income incongruity variable, which is based
+on three categories of education in contrast to the two levels used
+in previous studies, allowed for a more detailed assessment of
+income incongruity. We assessed a new measure of relative income,
+relative household income. Effect estimates were examined not
+only among women who resided in predominantly Black areas but
+also among women who lived in areas with a low proportion of
+Black residents. We adjusted for multiple confounders including
+some not controlled in previous studies, such as prepregnancy body
+mass index and cigarette smoking.
+
+Our study has several
+
+limitations. Preterm birth was self-
+reported and not based on clinical assessment. However, validation
+studies showed an acceptable level of accuracy in reporting, and the
+prevalence of preterm birth was comparable to the prevalence
+based on national data (Vahratian et al., 2006). Maternal household
+income was assessed on the 2003 questionnaire only and was used
+as an estimate of maternal household income around the time of
+pregnancy, which could have been up to 6 years earlier. In addition,
+19% of the mothers had missing information on household income
+and could not be included in the relative household income anal-
+yses. However, maternal characteristics for participants in this
+analytic sample were similar to those in the full sample of partic-
+ipants with data on household income. Since the BWHS is a mobile
+population and census data were linked to 1995 residential
+addresses, there would have been misclassiﬁcation in the measures
+of neighborhood income if a mother lived in a census block group in
+1995 that was economically different from that at the time of her
+pregnancy. However, associations from sensitivity analyses carried
+out among women whose neighborhood socioeconomic status had
+not changed during the study period were similar or stronger than
+those in the overall analysis, suggesting that such misclassiﬁcation
+is not an explanation for our ﬁndings.
+
+The BWHS is a convenience sample of U.S. Black women and
+participants in the BWHS may have differed in some respects from
+other Black women who did not participate. Almost all BWHS
+participants (97%) have obtained at least a high school degree and
+83% of U.S. Black women nationally of similar ages have acquired
+
+the same level of education (US Bureau of the Census, August 1996).
+Therefore, assuming internal validity, the results on the effects of
+relative income may be applicable to many Black women nation-
+ally, except for perhaps the 17% who have not completed high
+school.
+
+inverse associations of
+
+In conclusion, while absolute income is signiﬁcantly associ-
+ated with risk of preterm birth in the United States, particularly
+at the area-level (Ahern et al., 2003; Farley et al., 2006; Kaufman
+et al., 2003; Pickett et al., 2002), it is unclear whether relative
+income is also a strong determinant. The evidence from studies
+to date is mixed and conclusions about an effect of relative
+income would be premature. We did not conﬁrm previous
+ﬁndings of
+income incongruity with
+preterm birth among Black women overall (Collins et al., 1997)
+or among Black women who lived in neighborhoods with a high
+percentage of Black residents (Pickett et al., 2005; Vinikoor et al.,
+2008). However, we did ﬁnd associations between relative
+household income and preterm birth within levels of neigh-
+borhood racial composition. These ﬁndings suggest that context
+may be an important determinant of whether relative income
+inﬂuences risk of preterm birth. Further studies might consider
+focusing on potential modiﬁers, such as neighborhood racial
+composition, of an association between relative income and
+birth outcomes.
+
+References
+
+Ahern, J., Pickett, K. E., Selvin, S., & Abrams, B. (2003). Preterm birth among African
+American and white women: a multilevel analysis of socioeconomic charac-
+teristics and cigarette smoking. Journal of Epidemiology & Community Health,
+57(8), 606–611.
+
+Ananth, C. V., Misra, D. P., Demissie, K., & Smulian, J. C. (2001). Rates of preterm
+delivery among Black women and White women in the United States over two
+decades: an age-period-cohort analysis. American Journal of Epidemiology,
+154(7), 657–665.
+
+Berkowitz, G. S., Blackmore-Prince, C., Lapinski, R. H., & Savitz, D. A. (1998). Risk
+
+factors for preterm birth subtypes. Epidemiology, 9(3), 279–285.
+
+Collins, J. W., Jr., Herman, A. A., & David, R. J. (1997). Very-low-birthweight infants
+and income incongruity among African American and white parents in Chicago.
+American Journal of Public Health, 87(3), 414–417.
+
+Committee on Understanding Premature Birth and Assuring Healthy Outcomes, &
+Board on Health Sciences Policy. (2007). Preterm birth: Causes, consequences,
+and prevention. Washington, DC: The National Academie Press.
+
+Culhane, J. F., & Elo, I. T. (2005). Neighborhood context and reproductive health.
+
+American Journal of Obstetrics and Gynecology, 192(5 Suppl.), S22–29.
+
+Fang, J., Madhavan, S., Bosworth, W., & Alderman, M. H. (1998). Residential segrega-
+
+tion and mortality in New York City. Social Science & Medicine, 47(4), 469–476.
+
+2128
+
+G.S. Phillips et al. / Social Science & Medicine 68 (2009) 2122–2128
+
+Farley, T. A., Mason, K., Rice, J., Habel, J. D., Scribner, R., & Cohen, D. A. (2006). The
+relationship between the neighbourhood environment and adverse birth
+outcomes. Paediatric and Perinatal Epidemiology, 20(3), 188–200.
+
+Green, N. S., Damus, K., Simpson, J. L., Iams, J., Reece, E. A., Hobel, C. J., et al.
+(2005). Research agenda for preterm birth: recommendations from the
+March of Dimes. American Journal of Obstetrics and Gynecology, 193(3 Pt 1),
+626–635.
+
+Halpern, D. (1993). Minorities and mental health. Social Science & Medicine, 36(5),
+
+597–607.
+
+Holzman, C., Jetton, J., Siler-Khodr, T., Fisher, R., & Rip, T. (2001). Second trimester
+corticotropin-releasing hormone levels in relation to preterm delivery and
+ethnicity. Obstetrics & Gynecology, 97(5 Pt 1), 657–663.
+
+Horton, N. J., & Lipsitz, S. R. (1999). Review of software to ﬁt generalized estimating
+equation (GEE) regression models. The American Statistician, 53, 160–169.
+Kaufman, J. S., Dole, N., Savitz, D. A., & Herring, A. H. (2003). Modeling community-
+
+level effects on preterm birth. Annals of Epidemiology, 13(5), 377–384.
+
+Kawachi, I., & Kennedy, B. P. (1997). Health and social cohesion: why care about
+
+income inequality? BMJ, 314(7086), 1037–1040.
+
+Krieger, N., Waterman, P., Lemieux, K., Zierler, S., & Hogan, J. W. (2001). On the
+wrong side of the tracts? Evaluating the accuracy of geocoding in public health
+research. American Journal of Public Health, 91(7), 1114–1116.
+
+Krieger, N., Williams, D. R., & Moss, N. E. (1997). Measuring social class in US public
+health research: concepts, methodologies, and guidelines. Annual Review of
+Public Health, 18, 341–378.
+
+Luo, Z. C., Wilkins, R., & Kramer, M. S. (2006). Effect of neighbourhood income and
+maternal education on birth outcomes: a population-based study. CMAJ,
+174(10), 1415–1420.
+
+Lynch, J. W., Smith, G. D., Kaplan, G. A., & House, J. S. (2000). Income inequality and
+mortality: importance to health of individual income, psychosocial environ-
+ment, or material conditions. BMJ, 320(7243), 1200–1204.
+
+Osypuk, T. L., & Acevedo-Garcia, D. (2008). Are racial disparities in preterm birth
+larger in hypersegregated areas? American Journal of Epidemiology, 167(11),
+1295–1304.
+
+Pickett, K. E., Abrams, B., & Selvin, S. (2000). Deﬁning preterm delivery – the
+epidemiology of clinical presentation. Paediatric and Perinatal Epidemiology,
+14(4), 305–308.
+
+Pickett, K. E., Ahern, J. E., Selvin, S., & Abrams, B. (2002). Neighborhood socioeco-
+nomic status, maternal race and preterm delivery: a case–control study. Annals
+of Epidemiology, 12(6), 410–418.
+
+Pickett, K. E., Collins, J. W., Jr., Masi, C. M., & Wilkinson, R. G. (2005). The effects of
+racial density and income incongruity on pregnancy outcomes. Social Science &
+Medicine, 60(10), 2229–2238.
+
+Pickett, K. E., & Pearl, M. (2001). Multilevel analyses of neighbourhood socioeco-
+nomic context and health outcomes: a critical review. Journal of Epidemiology &
+Community Health, 55(2), 111–122.
+
+Rosenberg, L., Adams-Campbell, L., & Palmer, J. R. (1995). The Black Women’s Health
+Study: a follow-up study for causes and preventions of illness. Journal of the
+American Medical Women’s Association, 50(2), 56–58.
+
+Rosenberg, L., Palmer, J. R., Wise, L. A., Horton, N. J., & Corwin, M. J. (2002).
+Perceptions of racial discrimination and the risk of preterm birth. Epidemiology,
+13(6), 646–652.
+
+Rosenberg, L., Wise, L. A., & Palmer, J. R. (2005). Hair-relaxer use and risk of preterm
+birth among African-American women. Ethnicity & Disease, 15(4), 768–772.
+Russell, C., Palmer, J. R., Adams-Campbell, L. L., & Rosenberg, L. (2001). Follow-up of
+a large cohort of Black women. American Journal of Epidemiology, 154(9), 845–
+853.
+
+SAS Institute Inc.. (2003). SAS/STAT User’s Guide. Cary, NC: SAS Institute Inc.
+Singh-Manoux, A., Adler, N. E., & Marmot, M. G. (2003). Subjective social status: its
+determinants and its association with measures of ill-health in the Whitehall II
+study. Social Science & Medicine, 56(6), 1321–1333.
+
+McLean, M., & Smith, R. (2001). Corticotrophin-releasing hormone and human
+
+Subramanian, S. V., & Kawachi, I. (2004). Income inequality and health: what have
+
+parturition. Reproduction, 121(4), 493–501.
+
+we learned so far? Epidemiologic Review, 26, 78–91.
+
+Marmot, M. (2002). The inﬂuence of income on health: views of an epidemiologist.
+
+US Bureau of the Census. (August 1996). Educational attainment in the United States:
+
+Health Affairs (Project Hope), 21(2), 31–46.
+
+Marmot, M., Smith, G. D., Stansfeld, S., Patel, C., North, F., Head, J., et al. (1991).
+Health inequalities among British civil servants: the Whitehall II study. Lancet,
+337(8754), 1387–1393.
+
+Martin,
+
+J. A., Hamilton, B. E., Sutton, P. D., Ventura, S.
+
+J., Menacker, F., &
+Munson, M. L. (2005). Births: ﬁnal data for 2003. National Vital Statistics Reports,
+54(2), 1–116.
+
+Massey, D. S., Condran, G. A., & Denton, N. A. (1987). The effect of residential segre-
+gation on black social and economic well-being. Social Forces, 66(1), 29–56.
+Moawad, A. H., Goldenberg, R. L., Mercer, B., Meis, P. J., Iams, J. D., Das, A., et al.
+(2002). The Preterm Prediction Study: the value of serum alkaline phosphatase,
+alpha-fetoprotein, plasma corticotropin-releasing hormone, and other serum
+markers for the prediction of spontaneous preterm birth. American Journal of
+Obstetrics and Gynecology, 186(5), 990–996.
+
+Morland, K., Wing, S., Diez Roux, A., & Poole, C. (2002). Neighborhood character-
+istics associated with the location of food stores and food service places.
+American Journal of Preventive Medicine, 22(1), 23–29.
+
+March 1995. Washington, DC: US Dept of Commerce. pp. 1–97.
+
+US Census Bureau. (2002). Census 2000 basics. Washington, DC: US Census Bureau.
+Vahratian, A., Buekens, P., & Alexander, G. R. (2006). State-speciﬁc trends in preterm
+delivery: are rates really declining among non-Hispanic African Americans
+across the United States? Maternal and Child Health Journal, 10(1), 27–32.
+Vinikoor, L. C., Kaufman, J. S., Maclehose, R. F., & Laraia, B. A. (2008). Effects of racial
+density and income incongruity on pregnancy outcomes in less segregated
+communities. Social Science & Medicine, 66(2), 255–259.
+
+WHO Expert Committee. (1995). Physical status: the use and interpretation of
+anthropometry. Report of a WHO Expert Committee. World Health Organization
+Technical Report Series, 854, 1–452.
+
+Wilkinson, R. G. (1997a). Comment: income,
+
+inequality, and social cohesion.
+
+American Journal of Public Health, 87(9), 1504–1506.
+
+Wilkinson, R. G. (1997b). Socioeconomic determinants of health. Health inequal-
+
+ities: relative or absolute material standards? BMJ, 314(7080), 591–595.
+
+Williams, D. R., & Collins, C. (2001). Racial residential segregation: a fundamental
+cause of racial disparities in health. Public Health Reports, 116(5), 404–416.
+
+

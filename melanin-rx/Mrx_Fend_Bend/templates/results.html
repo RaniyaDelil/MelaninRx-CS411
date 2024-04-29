@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results</title>
+</head>
+<body>
+    <h1>Top Matches Based on Your Input</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Race</th>
+                <th>BMI Category</th>
+                <th>Smoking</th>
+                <th>Prenatal Visits</th>
+                <th>Similarity Score</th>
+                <th>NICU Admission</th> 
+            </tr>
+        </thead>
+        <tbody>
+            {% for case in cases %}
+            <tr>
+                <td>{{ case["Mother's Single/Multi Race 31"] }}</td>
+                <td>{{ case["Mother's Pre-pregnancy BMI"] }}</td>
+                <td>{{ case["Number of Cigarettes Before Pregnancy"] }}</td>
+                <td>{{ case["Number of Prenatal Visits"] }}</td>
+                <td>{{ case['total_score'] }}</td>
+                <td>{{ case['NICU Admission'] }}</td> 
+            </tr>
+            {% endfor %}
+        </tbody>
+        
+    </table>
+</body>
+</html>
+
+
+
+
+
+
+
+

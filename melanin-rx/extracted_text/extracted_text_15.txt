@@ -1,0 +1,1550 @@
+Prepregnancy Body Size, Gestational Weight Gain, and Risk of Preterm Birth in 
+African-American Women
+
+Author(s): Lauren A. Wise, Julie R. Palmer, Linda J. Heffner and Lynn Rosenberg 
+
+Source: Epidemiology, March 2010, Vol. 21, No. 2 (March 2010), pp. 243-252 
+
+Published by: Lippincott Williams & Wilkins 
+
+Stable URL: https://www.jstor.org/stable/25662844
+
+REFERENCES 
+Linked references are available on JSTOR for this article: 
+https://www.jstor.org/stable/25662844?seq=1&cid=pdf-
+reference#references_tab_contents 
+You may need to log in to JSTOR to access the linked references.
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide 
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and 
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org. 
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at 
+https://about.jstor.org/terms
+
+Lippincott Williams & Wilkins is collaborating with JSTOR to digitize, preserve and extend 
+access to Epidemiology
+
+This content downloaded from 
+
+(cid:0)138.238.254.100 on Sat, 30 Mar 2024 17:39:32 +00:00(cid:0)
+
+(cid:0) 
+All use subject to https://about.jstor.org/terms
+
+ 
+ 
+ 
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ _Original Article_
+
+ Prepregnancy Body Size, Gestational Weight Gain, and Risk
+ of Preterm Birth in African-American Women
+
+ Lauren A. Wise* Julie R. Palmer* Linda J. Heffner^ and Lynn Rosenberg*
+
+ Background: Studies of the association of prepregnancy body mass
+ index (BMI) and preterm birth have been inconclusive, and no
+ studies have examined the effect of central adiposity on risk. There
+ is also uncertainty about optimal gestational weight gain among
+ Black women.
+
+ Methods: Using self-reported prospective data from the Black
+ Women's Health Study, we investigated the relation of preterm birth
+
+ to prepregnancy BMI (kg/m2), waist circumference, and gestational
+ weight gain among 7840 singletons born to black women, ages
+ 21-44, during 1995-2003. We compared mothers of 1114 infants
+ born 3 or more weeks early (597 spontaneous preterm births and 517
+ medically-indicated preterm births) with mothers of 6726 term
+ infants. We used generalized estimating equation models to derive
+
+ multivariable odds ratios (ORs) and 95% confidence intervals (CIs).
+ Results: Relative to normal weight women (BMI: 18.5-24.9), un
+ derweight women (BMI: <C 18.5) were at increased risk of both
+ preterm birth subtypes; obese women (BMI >30.0) were at in
+ creased risk of medically-indicated preterm birth and very early
+ spontaneous preterm birth (<32 weeks' gestation). Waist circum
+ ference, a measure of central adiposity, was positively associated
+ with medically-indicated preterm birth. Among obese women, av
+ erage gestational weight gain in the second and third trimesters of
+ <0.4 or >0.6 lbs/wk was associated with an increased risk of both
+
+ preterm birth subtypes.
+ Conclusions: Our data suggest that underweight increases risk of
+ both preterm birth subtypes, while obesity increases risk of medi
+ cally-indicated preterm birth and only a subgroup of spontaneous
+ preterm births (<32 weeks' gestation). Central adiposity was an
+ independent risk factor for medically-indicated preterm birth only.
+ Among obese women, gestational weight gain within the range
+ recommended by the 2009 Institute of Medicine report (0.4-0.6
+ lbs/week in the second and third trimesters) was associated with the
+
+ lowest risk of preterm birth.
+
+ (Epidemiology 2010;21: 243-252)
+
+ black women as white women1"3 and is a leading cause of
+
+ Preterm birth in the U.S. is nearly twice as common among
+ infant morbidity and mortality.1,4'5 In 2006, preterm birth
+ accounted for 12.8% of all births, and its prevalence has been
+
+ on the rise among single and multiple gestations.1 Although
+ rates for spontaneous preterm birth have declined slightly for
+ black women during 1989-2000, rates for medically-indi
+ cated preterm birth have increased.6 The ethnic disparity in
+
+ preterm birth is not fully explained by established risk factors
+
+ such as personal history of preterm birth, intrauterine infec
+ tions, and low socioeconomic status.7
+
+ The prevalence of obesity has increased in the U.S.,
+
+ especially among black women of childbearing age.8'9 High
+ body mass index (BMI, kg/m2), a measure of absolute body
+ fat,10 is positively associated with intrauterine infections,11
+
+ systemic inflammation,12"14 dyslipidemia,12'15 and hyperin
+ sulinemia,16 all of which may increase risk of preterm
+ birth.11-14 Conversely, obesity is correlated with longer cer
+
+ vical length,17'18 which would protect against preterm birth.
+ Central adiposity, excess body fat in the upper trunk region,
+ has also been increasing in the U.S.19 and is associated with
+ several hormonal and metabolic changes in reproductive
+ aged women, independent of BMI.20"22
+
+ The obesity epidemic in recent decades has paralleled
+
+ the increase in preterm birth rates, particularly medically
+ indicated preterm birth. An unanswered question is whether
+ obesity is associated with preterm birth. The literature on
+ obesity and risk of preterm birth is inconclusive,23 and there
+
+ are no studies of central adiposity in relation to preterm birth.
+ Using data from the Black Women's Health Study, we
+ assessed the relation of prepregnancy BMI, waist circumfer
+
+ ence, and gestational weight gain to risk of preterm birth.
+
+ METHODS
+
+ Submitted 30 April 2009; accepted: 7 September 2009; posted 1 February 2010.
+ From the aSlone Epidemiology Center, Boston University, Boston, MA; and
+ department of Obstetrics and Gynecology, Boston University School of
+ Medicine, Boston, MA.
+
+ Supported by National Cancer Institute grant CA58420 and the Hood
+
+ Foundation.
+
+ Correspondence: Lauren A. Wise, Slone Epidemiology Center, Boston
+ University, 1010 Commonwealth Avenue, Boston, MA, 02215. E-mail:
+ lwise@bu.edu.
+
+ Copyright ? 2010 by Lippincott Williams & Wilkins
+ ISSN: 1044-3983/10/2102-0243
+ DOI: 10.1097/EDE.ObO 13e3181 cb61 a9
+
+ Study Population
+
+ The Black Women's Health Study is a prospective
+
+ cohort study of 59,000 African-American women aged 21 to
+ 69 at baseline (1995) 24 Women were enrolled through ques
+ tionnaires mailed primarily to subscribers of Essence maga
+ zine. The baseline questionnaire elicited detailed data on
+ demographic, lifestyle, reproductive, and medical history
+ variables. Health information is updated biennially through
+ mailed questionnaires; follow-up through 2003 (the period of
+
+ Epidemiology Volume 21, Number 2, March 2010 vvvvw.epidem.com | 243
+
+This content downloaded from 
+
+(cid:0)138.238.254.100 on Sat, 30 Mar 2024 17:39:32 +00:00(cid:0)
+
+(cid:0) 
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Wise et al_Epidemiology Volume 21, Number 2, March 2010
+
+ data collection on births) exceeded 80%. The Institutional
+ Review Board at Boston Medical Center approved the study.
+
+ Assessment of Pregnancy Outcomes
+
+ On the 1997, 1999, 2001, and 2003 questionnaires,
+ women reported whether they had given birth to a liveborn or
+ stillborn child in the previous 2 years. For singleton births,
+ women were asked "did the doctor say this child was born at
+
+ least 3 weeks early?" and, if yes, how early (3, 4, 5, 6, 7, 8,
+ 9, or >10 weeks), and whether the birth was early due to
+ preterm labor for no known reason or early rupture of
+ membranes (spontaneous preterm birth), or medically-indi
+ cated labor or cesarean section (medically-indicated preterm
+ birth). Due dates and birth dates were also elicited for a more
+ precise estimate of gestational age.
+
+ Validation of Pregnancy Outcomes
+
+ Clinically, preterm birth is defined as a birth occurring
+
+ <37 weeks of gestation from the date of the last menstrual
+ period.25 In the Black Women's Health Study, we defined
+ preterm birth as a birth occurring "3 or more weeks early."
+ The prevalence of preterm birth in our sample (15.2%) is
+ similar to that based on national data for black babies born
+
+ <37 weeks (15.6%).25 We obtained birth registry data from
+ the Massachusetts Department of Public Health to validate
+ self-reported gestational age and infant birth weight among
+ singletons born to Black Women's Health Study participants
+ who lived in Massachusetts at some point during 1995-2003.
+ These women were similar to the larger birth cohort in
+ baseline characteristics (mean BMI, 25.6 vs. 25.9; mean age,
+ 28.6 vs. 28.4 years; mean education, 15.2 vs. 15.1 years;
+ parous, 52.0%) vs. 54.0%; spontaneous preterm birth, 8.2%)
+ vs. 8.2%; medically-indicated preterm birth, 7.5% vs. 7.1%).
+ Birth records were successfully matched for 76% of single
+ tons (167/232). Of the 23 participants who reported a preterm
+ delivery, 21 (91%) had gestations <37 weeks documented by
+ the registry (11/12 spontaneous preterm births and 10/11
+ medically-indicated preterm births); we prioritized the last
+ menstrual-period (LMP) estimate of gestational age, unless
+ the clinical estimate indicated a shorter gestation.
+
+ Assessment of Maternal Anthropometric
+ Factors
+
+ In 1995, women reported their height (feet and inches),
+
+ current weight (pounds), weight at age 18 (pounds), current
+ waist circumference (inches) at level of umbilicus, and hip
+ circumference (inches) at widest location. Weight was up
+ dated on all follow-up questionnaires. We used BMI to
+ measure overall obesity, and waist circumference to estimate
+ total abdominal fat.26 Waist circumference is correlated with
+
+ metabolic abnormalities such as hyperinsulinemia, hyperten
+ sion, and high triglyceride levels.26 Weight and BMI data
+ were derived from the questionnaire preceding the question
+ naire on which a woman reported the birth. For women
+ currently pregnant, data were taken from an earlier question
+
+ naire. Women reported their pregnancy weight gain using the
+ following categories: <10, 10-14, 15-19, 20-24, 25-29,
+ 30-34, 35-39, >39 pounds.
+
+ We used a gestational-weight-gain formula developed
+ by Dietz et al27 that accounts for expected weight gain per
+ trimester and gestational age. The rate of weight gain is
+ typically low in the first trimester, and higher and linear in the
+
+ second and third trimesters.28'29 Assuming a constant rate of
+ weight gain across trimesters will create an upward bias
+ because women with shorter gestation are misclassified as
+ having lower weight gain. Therefore, we estimated weight
+ gain during the second and third trimesters by subtracting an
+ expected average weight gain during the first trimester from
+
+ total gestational weight gain and then dividing by gestational
+ weeks minus 14 weeks.27 First-trimester weight gain was
+ based on Institute of Medicine data,27'28 which estimates an
+ average gain of 5 lbs for underweight women, 3.5 lbs for
+ normal-weight women, and 2 lbs for overweight and obese
+ women.
+
+ Validation of Anthropometric Measures
+
+ In a validation study of physical activity and anthro
+ pometry among Black Women's Health Study participants
+ from the Washington D.C. area (2001),30 we enrolled the first
+ 115 women who responded to a mailed invitation (n = 900).
+ Pearson correlation coefficients between self-reported and
+ technician-measured weight, height, BMI, and waist circum
+ ference were 0.97, 0.92, 0.96, and 0.72, respectively. These
+ correlations were not materially different among parous
+ women with (n = 10) and without (n = 61) a history of
+ preterm birth (BMI: 0.98 vs. 0.97; waist circumference: 0.68
+ vs. 0.81). Validation study participants were similar to those
+ in the birth cohort with respect to education (15.1 years for
+
+ both) and history of preterm birth (14% vs. 19%).
+
+ Based on gestational weight gain assessed in catego
+ ries, the weighted kappa statistic was 0.55 for self-reported
+ versus registry-supplied data from the Massachusetts Depart
+ ment of Public Health (n = 159 with complete data on both
+ measures). Two-thirds of women (107/159) reported their
+ weight gain within 1 category of the registry-supplied data.
+ Among women who misreported their weight gain by more
+ than 1 category, 45% underreported their gain (60% of cases
+ and 41% of controls, P = 0.31). Inaccurate reporters were
+ more likely than accurate reporters to be parous (61% vs.
+ 45%, P = 0.05) and have had a preterm birth (18% vs. 6%,
+ P = 0.05), but there was little difference with respect to mean
+ BMI (27.3 vs. 26.6 kg/m2, P = 0.54), waist circumference
+ (31.5 vs. 31.1 inches, P = 0.81), or education (15.1 vs. 15.3,
+ P = 0.40).
+
+ Assessment of Covariates
+
+ Data on participant's age at delivery, state of residence,
+ gravidity, parity, marital status, smoking before and during
+ pregnancy, previous preterm birth, participant bom preterm,
+
+ 244 | vwvw.epidem.com ? 2010 Lippincott Williams & Wilkins
+
+This content downloaded from 
+
+(cid:0)138.238.254.100 on Sat, 30 Mar 2024 17:39:32 +00:00(cid:0)
+
+(cid:0) 
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Epidemiology Volume 21, Number 2, March 2010_Body Size and Risk of Preterm Birth in Black Women
+
+ and maternal medical conditions (progestational or gesta
+ tional diabetes; pregestational or gestational hypertension; or
+ thyroid conditions) were obtained on the baseline and fol
+ low-up questionnaires. Information on education was col
+ lected in 1995.
+
+ Exclusions
+
+ Analyses were restricted to women under the age of 45
+ years who reported singleton births during 1995-2003 (n =
+ 8718). We applied an upper age limit of 44 because risk
+ factors for preterm birth may differ by age (only 15 births
+ were contributed by women age 45 or older). We excluded
+ women with missing prepregnancy BMI data (n = 96). We
+ also excluded births in 1995-1997 to women who were
+
+ currently pregnant at baseline (n = 685) because their body
+ measurements could have been distorted. These women were
+
+ permitted to contribute births (n = 190) in subsequent ques
+ tionnaire cycles, but their waist and hip circumferences (mea
+ sured only in 1995) were set to missing. Women reporting
+ preterm births without sufficient data to be classified with
+ respect to preterm birth subtype were excluded (n = 97),
+ leaving 7840 births for the main analysis (6726 term, 597
+ spontaneous preterm births, and 517 medically-indicated pre
+ term births). For the waist circumference analysis, based on
+ the single measurement from 1995, we further excluded 4181
+ births from mothers whose prepregnancy BMI changed (gain
+ or loss) by more than one unit since 1995, and 554 births
+ from mothers with missing data on waist circumference. This
+ left 3105 births for analysis (2638 term, 270 spontaneous
+ preterm births, and 197 medically-indicated preterm births).
+ Women aged <45 years who were lost to follow-up
+
+ before 2003 (12%) were similar to active participants with
+ respect to mean age (30.5 vs. 30.1 years), education (14.8 vs.
+
+ 14.4 years), BMI (27.1 vs. 27.3 kg/m2), waist circumference
+ (31.4 vs. 31.5 inches), and parity (0.9 vs. 1.0 births).
+
+ equivalent to total weight gain of 11-20 lbs) for obese women
+ (BMI >30.0 kg/m2).32
+
+ Generalized estimating equation models33 were used to
+ estimate odds ratios (ORs) and 95% confidence intervals
+ (CIs) for the association between each anthropometric factor
+ (BMI, waist circumference, and gestational weight gain) and
+ preterm birth. These models account for any correlation
+ resulting from the contribution of more than one birth per
+ women (1452 women contributed more than one birth to the
+ analysis). Multivariable models were adjusted for question
+ naire cycle and predictors of preterm birth identified in the
+
+ literature, including maternal age at delivery, parity, years of
+ education, marital status, smoking during pregnancy, previ
+ ous preterm birth, and participant bom preterm. Because BMI
+ and waist circumference were positively correlated (r =
+ 0.70), we also conducted models that simultaneously con
+ trolled for BMI and waist circumference to assess their
+
+ independent effects. We adjusted for both BMI and waist
+ circumference in analyses of gestational weight gain. Missing
+ values for covariates were modeled using indicator variables.
+ Spearman correlation coefficients for gestational weight gain
+ versus BMI was -0.18, and for gestational weight gain
+ versus waist circumference, -0.17.
+
+ The effect of obesity on pregnancy outcomes may operate
+ through progestational diabetes and hypertension, which have
+ independent effects on pregnancy outcomes 34,35 We therefore
+
+ performed secondary analyses in which we controlled for ma
+ ternal medical conditions. We examined effect modification
+
+ (statistical interaction) between prepregnancy BMI and gesta
+
+ tional weight gain27,36-38 as well as parity,39-41 because previ
+ ous studies have shown evidence of interaction between these
+
+ factors. Tests for interaction were conducted using the likelihood
+
+ ratio test comparing models with and without cross-product
+ terms between BMI and each covariate, all coded as polytomous
+ categorical variables. Analyses were conducted using SAS ver
+ sion 9.1 (SAS Institute, Cary, NC)42
+
+ Data Analysis
+
+ BMI categories were based on World Health Organi
+ zation (WHO) standards.31 We categorized waist circumfer
+ ence into quintiles and gestational weight gain in the second
+ and third trimesters as "below recommended" (<0.8 lbs/
+ week), "within recommended" (0.8-1.0 lbs/week), and
+ "above recommended" (>1.0 lbs/week), based on the Insti
+ tute of Medicine's32 2009 guidelines that women of normal
+ prepregnancy BMI (18.5-24.9 kg/m2) gain an average of 1
+ lb/wk (range: 0.8-1.0 lbs/week) during the second and third
+
+ trimesters. This range corresponds to a total weight gain of
+ 25-35 lbs if the pregnancy is carried to term.32 In stratified
+
+ analyses, we used cut points for average weight gain based on
+ prepregnancy BMI, as recommended by the Institute of
+ Medicine: 0.6 lbs/wk (range: 0.5-0.7 lbs/week, equivalent to
+ total weight gain of 15-25 lbs) for overweight women (BMI =
+ 25.0-29.9 kg/m2) and 0.5 lbs/wk (range: 0.4-0.6 lbs/week,
+
+ ? 2010 Lippincott Williams & Wilkins VvYvvv.epidem.com | 245
+
+ RESULTS
+ Prepregnancy BMI was positively associated with waist
+ circumference, smoking during pregnancy, parity, previous
+ preterm birth, and maternal medical conditions, and inversely
+ associated with gestational weight gain and education (Table
+ 1). In addition to being associated with BMI, waist circum
+ ference was positively associated with smoking during preg
+ nancy, parity, being married or partnered, previous preterm
+
+ birth, and maternal medical conditions, and inversely associ
+ ated with education and gestational weight gain.
+
+ Risk factors for preterm birth in our cohort included
+
+ increased age, nulliparity, having been bom preterm, previ
+ ous preterm birth, low educational attainment, not being
+ married, and maternal medical conditions (data not shown).
+ Of these factors, nulliparity, having been bom preterm, and
+ previous preterm birth were associated with spontaneous
+
+This content downloaded from 
+
+(cid:0)138.238.254.100 on Sat, 30 Mar 2024 17:39:32 +00:00(cid:0)
+
+(cid:0) 
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Wise et al_Epidemiology Volume 21, Number 2, March 2010
+
+ TABLE 1. Age-adjusted Maternal Characteristics According to Prepregnancy BMI and Waist Circumference. The Black
+ Women's Health Study, 1995-2003*
+
+ Characteristics (n = 131) (n = 3542) (n = 2274) (n = 1094) (n = 799) (n = 1385) (n = 1330) (n = 1506) (n = 1144) (n = 1186)
+
+ <18.5 18.5-24.9 25.0-29.9 30.0-34.9 S>35.0 <27.0 27.0-28.9 29.0-31.9 32.0-34.9 ^35.0
+
+ Prepregnancy BMI 17.8 22.3 27.2 32.1 40.5 22.3 23.7 25.7 28.6 34.5
+
+ (kg/m2); mean
+
+ Prepregnancy waist 25.0 27.7 31.0 34.1 37.9 24.8 27.6 29.8 32.9 38.6
+
+ BMI (kg/m2) Waist Circumference (in); Quartilesb
+
+ circumference (in); mean
+
+ Age at delivery (years); mean 29.4 30.8 31.3 31.3 31.1 30.9 31.1 31.3 31.1 31.2
+ Marital status; %
+
+ Married/living as married 37 47 48 47 42 39 45 47 49 49
+ Divorced/separated/widowed 10 7 8 8 8 9 7 7 7 9
+ Single 51 45 43 44 49 50 48 45 43 40
+ Education (years); mean 15.0 15.4 15.1 14.9 14.7 15.3 15.3 15.3 15.0 14.7
+ Smoked during pregnancy; % 4346623465
+ Parous; % 51 50 58 59 58 46 47 52 59 58
+ Participant born preterm; %
+
+ No 54 59 58 57 61 60 59 59 61 57
+ Yes 10 7 7 6 7 8 7 7 6 7
+ Unsure 36 34 35 37 32 32 34 34 34 36
+ Previous preterm birth; % 11 8 10 11 14 7 9 10 10 12
+ Gestational weight gain in second and 1.07 1.09 1.09 0.91 0.77 1.10 1.10 1.08 0.96 0.88
+
+ third trimesters (lbs/week); mean
+
+ Maternal medical condition0; % 10.8 16.2 24.6 34.0 47.2 14.6 17.3 20.3 28.9 40.0
+
+ aAll characteristics (other than age) are adjusted for age at delivery. Percents may not sum to 100% due to missing data.
+ bExcludes 1289 women with missing data on waist circumference in 1995.
+ cDefined as pre-gestational or gestational diabetes, hypertension, or thyroid conditions.
+
+ in these effect estimates. To reduce misclassification due to
+
+ preterm birth. Smoking during pregnancy was positively
+ associated with risk of spontaneous but not medically-indi
+ cated preterm birth.
+
+ As shown in Table 2, women with BMI <18.5 kg/m2
+ had an increased risk of both preterm birth subtypes relative
+ to women with BMI 18.5-24.9 kg/m2 after adjustment for all
+ risk factors including waist circumference. There was little
+ evidence of an association between high BMI and spontane
+ ous preterm birth after adjustment for waist circumference. In
+ contrast, all BMI categories >30.0 kg/m2 were associated
+ with an increased risk of medically-indicated preterm birth
+ both before and after adjustment for waist circumference. In
+ secondary analyses, adjustment for maternal medical condi
+ tions strengthened the association between low BMI and
+ medically-indicated preterm birth (BMI <18.5 vs. 18.5-24.9
+ kg/m2, OR = 2.0 [95% CI = 1.0-4.0]) and weakened the
+ association between high BMI and medically-indicated pre
+ term birth (BMI >40 vs. 18.5-24.9, 1.1 [0.70-1.8]).
+
+ We observed a positive association between waist cir
+ cumference and preterm birth, which was largely accounted
+
+ for by medically-indicated preterm birth: ORs for this sub
+ type increased monotonically with increasing waist circum
+ ference (Table 2). Associations with spontaneous preterm
+ birth were much weaker and did not demonstrate a dose
+
+ response relation. Adjustment for BMI made little difference
+
+ parity-related changes in waist circumference,43 we excluded
+ 246 births from mothers who contributed more than one birth
+
+ during 1995-2003; results were similar to the main analyses
+ (data not shown). Control for maternal medical conditions (a
+
+ potential causal intermediate) weakened but did not eliminate
+ the association between waist circumference and medically
+ indicated preterm birth: the multivariable ORs comparing
+ waist circumference 27.0-28.9, 29.0-31.9, 32.0-34.9, and
+ >35.0 with <27.0 inches, were: 2.0 (1.1-3.4), 1.9 (1.1-3.3),
+ 2.0 (1.1-3.7), and 2.1 (1.1-4.3), respectively.
+
+ Low and high gestational weight gain were associated
+ with an increased risk of both preterm birth subtypes (Table
+
+ 2). After further adjustment for BMI and waist circumfer
+ ence, the association between low gestational weight gain and
+
+ medically-indicated preterm birth weakened, while the asso
+
+ ciations between high gestational weight gain and both pre
+
+ term birth subtypes strengthened. Results were similar after
+
+ adjustment for maternal medical conditions (data not shown).
+ Table 3 presents data on anthropometric factors and
+ risk of preterm birth overall, as well as spontaneous preterm
+
+ birth according to gestational age at the infant's birth. Asso
+
+ ciations of low prepregnancy BMI, high waist circumference,
+ and low and high gestational weight gain with risk of this
+
+ 246 | Vvww.epidem.com ? 2010 Lippincott Williams & Wilkins
+
+This content downloaded from 
+
+(cid:0)138.238.254.100 on Sat, 30 Mar 2024 17:39:32 +00:00(cid:0)
+
+(cid:0) 
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ ? -6? 2 ^>
+
+ ^ o;
+
+ ? DO
+
+ f 3
+
+ _____ n
+
+ -??.?,???- ~_
+
+ S All Preterm Births (n = 1114) Spontaneous Preterm Births (n = 597) Medically Indicated Preterm Births (n = 517) rt>
+
+ Unadjusted Multivariable Mu Invariable No. Unadjusted Multivariable Multivariable No. Unadjusted Multivariate Multivariate >N
+
+ <18.5 104 27 1.84(1.20-2.81) 1.64(1.07-2.53) 1.75 (1.13-2.71) 16 1.82 (1.08-3.09) 1.69(0.99-2.87) 1.80(1.05-3.09) 11 1.85 (0.99-3.47) 1.70(0.90-3.21) 1.80(0.94-3.41) O
+
+ >40.0 291 68 1.56(1.18-2.08) 1.49(1.13-1.98) 1.35 (0.98-1.86) 36 1.39 (0.95-2.02) 1.39(0.95-2.01) 1.12 (0.73-1.72) 32 1.83 (1.23-2.71) 1.72 (1.16-2.53) 1.74(1.12-2.71)
+
+ <0.8 1840 340 1.72(1.42-2.09) 1.77(1.44-2.15) 1.74(1.42-2.12) 179 1.61 (1.24-2.08) 1.67(1.28-2.17) 1.64(1.26-2.13) 161 1.87(1.43-2.46) 1.90(1.44-2.52) 1.87(1.41-2.49) Q?
+
+ >35.0 418 105 1.87 (1.35-2.57) 1.74(1.25-2.43) 1.68 (1.06-2.65) 55 1.43 (0.96-2.12) 1.26(0.83-1.89) 1.32 (0.73-2.36) 50 2.83 (1.72-4.66) 2.83 (1.68-4.77) 2.44(1.23-4.81)
+
+ >1.0 3248 601 1.73 (1.45-2.07) 1.78 (1.48-2.13) 1.85 (1.54-2.23) 321 1.67 (1.32-2.11) 1.69 (1.33-2.15) 1.75 (1.37-2.23) 280 1.83 (1.42-2.36) 1.87(1.43-2.43) 1.98 (1.52-2.59) Fg'
+
+ 30.0-34.9 892 202 1.55 (1.29-1.86) 1.58(1.31-1.91) 1.46(1.17-1.81) 88 1.12 (0.87-1.44) 1.14(0.88-1.47) 0.98 (0.73-1.31) 114 2.16 (1.69-2.77) 2.21 (1.71-2.85) 2.20(1.65-2.94)
+
+ 35.0-39.9 361 79 1.47(1.12-1.92) 1.44(1.09-1.90) 1.31 (0.97-1.78) 37 1.16(0.80-1.67) 1.13 (0.78-1.64) 0.94 (0.62-1.42) 42 1.96(1.37-2.79) 1.95 (1.35-2.80) 1.96(1.31-2.93)
+
+ 27.0-28.9 535 97 1.36(0.98-1.87) 1.37 (0.99-1.89) 1.50(1.08-2.09) 59 1.21 (0.82-1.78) 1.18 (0.79-1.75) 1.30(0.87-1.94) 38 1.68 (1.00-2.82) 1.76 (1.03-2.99) 1.95 (1.13-3.35)
+
+ 32.0-34.9 469 84 1.34(0.96-1.87) 1.35(0.96-1.90) 1.61 (1.09-2.38) 46 1.07(0.70-1.61) 1.03 (0.67-1.57) 1.32(0.81-2.17) 38 1.93 (1.15-3.25) 2.08 (1.21-3.59) 2.28(1.26-4.12)
+
+ 25.0-29.9 1986 288 0.97(0.83-1.14) 0.99(0.84-1.16) 0.94(0.79-1.12) 152 0.85 (0.69-1.05) 0.87(0.70-1.08) 0.81 (0.64-1.02) 136 1.15 (0.91-1.44) 1.15 (0.91-1.45) 1.14(0.89-1.45)
+
+ 29.0-31.9 615 101 1.22 (0.89-1.68) 1.22(0.89-1.68) 1.42(1.01-1.98) 55 0.97(0.65-1.44) 0.95 (0.64-1.40) 1.14(0.75-1.72) 46 1.77(1.07-2.93) 1.85 (1.11-3.09) 2.07(1.21-3.56)
+
+ <27.0C 601 80 1.00 1.00 1.00 55 1.00 1.00 1.00 25 1.00 1.00 1.00
+
+ No. Term No. OR OR OR Preterm OR OR OR Preterm OR OR OR
+
+ bBMI analyses additionally adjusted for waist circumference; waist circumference analyses additionally adjusted for BMI; gestational weight gain analyses additionally adjusted for BMI and waist circumference. Q
+
+ 0.8-1.0c 1614 167 1.00 1.00 1.00 92 1.00 1.00 1.00 75 1.00 1.00 1.00 ^
+
+ Characteristic (n = 6726) Preterm (95% CI) (95% CI)a (95% CI)b (n = 597) (95% CI) (95% CI)* (95% CI)b (n = 517) (95% CI) (95% CI)a (95% CI)b 9>
+
+ 18.5-24.9C 3092 450 1.00 1.00 1.00 268 1.00 1.00 1.00 182 1.00 1.00 1.00 O
+
+ < : ^
+
+ S TABLE 2. Prepregnancy Body Mass Index, Waist Circumference, and Gestational Weight Gain in Relation to Risk of Preterm Birth |
+
+ aAdjusted for age, questionnaire cycle, marital status, education, smoking during pregnancy, parity, participant born preterm, and previous preterm birth. ?
+
+ Restricted to women who did not gain or lose more than 1 unit of BMI between 1995 and their index pregnancy (n = 3105). pt
+
+ Restricted to women with complete data on gestational weight gain (n = 7808). O
+
+ cReference category. 5!
+
+ Gestational weight gain in second and third trimesters (lbs/week)e Co
+
+ BMI (kg/m2) ^
+
+ Waist (in)d
+
+This content downloaded from 
+
+(cid:0)138.238.254.100 on Sat, 30 Mar 2024 17:39:32 +00:00(cid:0)
+
+(cid:0) 
+All use subject to https://about.jstor.org/terms
+
+ I I
+
+ "2. i
+ Cl ^
+
+ i 5
+
+ S 3
+
+ - z
+
+ c i
+
+ f | S' s 1 ? Br 3
+
+ ? S
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ ? Si
+
+ All Preterm Births Spontaneous Preterm Births
+
+ <18.5 21 1.98 (1.22-3.20) 6 1.33 (0.57-3.09) 2 1.25 (0.31^.99) 11 1.72 (0.91-3.26) 5 1.97(0.79-4.95) 2 1.78 (0.44-7.11)
+
+ >1.0 390 1.69(1.36-2.11) 211 2.21 (1.62-3.03) 84 2.04(1.27-3.28) 208 1.71 (1.27-2.31) 113 1.79(1.20-2.67) 57 1.80(1.03-3.15) *
+
+ Multivariable Multivariable Multivariate Multivariate Multivariate Multivariate
+
+ (3-5 Weeks Early) (2=6 Weeks Early) (2=9 Weeks Early) (3-5 Weeks Early) (2=6 Weeks Early) (2=9 Weeks Early)
+
+ OR OR OR OR OR OR
+
+ 35.0-39.9 49 1.34(0.92-1.96) 30 1.28(0.81-2.02) 19 2.12 (1.13-4.01) 23 0.88 (0.52-1.48) 14 1.08 (0.56-2.10) 11 2.08 (0.91^1.78)
+
+ 25.0-29.9 180 0.88(0.72-1.09) 108 1.06(0.80-1.40) 43 1.01 (0.67-1.53) 87 0.67 (0.50-0.90) 65 1.11 (0.76-1.60) 29 1.03 (0.61-1.73)
+
+ 30.0-34.9 122 1.37(1.05-1.78) 80 1.59(1.14-2.22) 32 1.64(1.00-2.67) 46 0.76(0.52-1.11) 42 1.46(0.94-2.25) 24 1.99(1.14-3.48)
+
+ 35-37 Weeks' Gestation <35 Weeks' Gestation <32 Weeks' Gestation 35-37 Weeks' Gestation <35 Weeks' Gestation <32 Weeks' Gestation
+
+ >40.0 47 1.57(1.08-2.28) 21 1.08(0.63-1.86) 12 1.70(0.78-3.74) 22 1.05 (0.62-1.78) 14 1.32(0.67-2.60) 10 2.50(1.02-6.13)
+
+ >35.0 124 1.04(0.72-1.49) 95 1.96(1.22-3.13) 45 2.17 (1.02-4.59) 61 1.19(0.72-1.97) 50 1.62(0.86-3.04) 29 1.61 (0.64-4.02) ?
+
+ <0.8 217 1.60(1.26-2.03) 128 2.06(1.47-2.88) 58 2.24(1.37-3.67) 104 1.47 (1.06-2.03) 75 1.96(1.28-2.99) 42 2.23 (1.25-3.95) <?"
+
+ 32.0-34.9 122 1.30(0.96-1.77) 60 1.50(0.97-2.33) 29 2.14(1.10-4.16) 64 1.45 (0.95-2.19) 32 1.29(0.72-2.30) 17 1.58 (0.69-3.62) 5;
+
+ 27.0-28.9 130 1.20(0.92-1.57) 66 1.63 (1.09-2.43) 27 2.04(1.07-3.89) 68 1.14(0.80-1.63) 36 1.50(0.90-2.50) 19 2.10(0.99^.42)
+
+ 29.0-31.9 122 0.98 (0.74-1.29) 69 1.40(0.92-2.11) 34 2.07 (1.09-3.93) 58 0.89(0.61-1.31) 40 1.33 (0.78-2.28) 28 2.28 (1.07-4.84)
+
+ ? aAdjusted for age, questionnaire cycle, marital status, education, smoked during pregnancy, parity, participant born preterm, and previous preterm birth. BMI analyses additionally adjusted for waist circumference; waist 2
+
+ TABLE 3. Prepregnancy Body Mass Index, Waist Circumference, and Gestational Weight Gain in Relation to Risk of Preterm Birth, by Gestational Age
+
+ 18.5-24.9b 308 1.00 142 1.00 57 1.00 186 1.00 82 1.00 40 1.00
+
+ 0.8-1.0b 117 1.00 50 1.00 22 1.00 61 1.00 31 1.00 16 1.00 ^
+
+ Characteristic No. (95% CI)a No. (95% CI)* No. (95% CI)a No. (95% CI)* No. (95% CI)* No. (95% CI)*
+
+ <27.0b 122 1.00 44 1.00 15 1.00 69 1.00 27 1.00 12 1.00
+
+ ^ circumference analyses additionally adjusted for BMI; gestational weight gain analyses additionally adjusted for BMI and waist circumference. ?jj
+
+ Gestational weight gain in second and third trimesters (lbs/week)
+
+ t> - ??- ho
+
+ ^ bReference category. n>
+
+ Waist circumference (in)
+
+ BMI (kg/m2)
+
+ l -g fD 3 h o 3
+
+ Ci C I 3 3 - la3 ho
+
+ &> n  8: 2
+
+ 8 o
+
+This content downloaded from 
+
+(cid:0)138.238.254.100 on Sat, 30 Mar 2024 17:39:32 +00:00(cid:0)
+
+(cid:0) 
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Epidemiology Volume 21, Number 2, March 2010_Body Size and Risk of Preterm Birth in Black Women
+
+ TABLE 4. Gestational Weight Gain in Relation to Risk of Preterm Birth, by Prepregnancy BMI
+
+ Gestational Weight Gain in Second and Third Trimestersb
+
+ Within
+ Below Recommendation Recommendation0 Above Recommendation
+
+ Prepregnancy BMI (kg/m2)a No. Multivariable OR (95% CI)d No. Multivariable OR No. Multivariable OR (95% CI)d
+
+ All preterm births
+
+ Spontaneous preterm births
+
+ 18.5-24.9 113 1.05 (0.76-1.44) 74 1.00 261 1.02 (0.77-1.35)
+ 25.0-29.9 36 1.28 (0.74-2.20) 29 1.00 223 1.08(0.71-1.64)
+ =>30.0 58 2.60 (1.67-4.05) 39 1.00 248 2.25 (1.57-3.23)
+
+ 18.5-24.9 66 0.96(0.65-1.43) 46 1.00 154 0.95 (0.68-1.34)
+ 25.0-29.9 18 1.02 (0.49-2.10) 17 1.00 117 0.94(0.54-1.62)
+ >30.0 37 4.90 (2.59-9.26) 13 1.00 108 2.79 (1.59-4.88)
+
+ Medically-indicated preterm births
+
+ 18.5-24.9 47 1.19 (0.73-1.94) 28 1.00 107 1.12 (0.73-1.72)
+ 25.0-29.9 18 1.61 (0.74-3.47) 12 1.00 106 1.25 (0.67-2.32)
+ >30.0 21 1.45 (0.81-2.61) 26 1.00 140 1.91 (1.24-2.97)
+
+ aBMI <18.5 category excluded from table due to small numbers.
+ bDefined according to 2009 Institute of Medicine guidelines: women with prepregnancy BMI 18.5-24.9 (below, <0.8; within, 0.8-1.0; above, >1.0 lbs/week), BMI 25.0-29.9
+
+ (below, <0.5; within, 0.5-0.7; above, >0.7 lbs/week), BMI >30.0 (below, <0.4; within, 0.4-0.6; above, >0.6 lbs/week).
+
+ cReference category.
+ dAdjusted for age, questionnaire cycle, marital status, education, smoked during pregnancy, parous, participant born preterm, previous preterm birth, and waist circumference.
+
+ subtype were generally stronger in the <32-week gestation
+ category. In addition, obesity was associated with an in
+ creased risk at <32 weeks' gestation, and this association
+ strengthened with further control for maternal medical con
+
+ ditions. Relative to BMI 18.5-24.9 kg/m2, multivariable ORs
+ for BMI 25.0-29.9, 30.0-34.9, 35.0-39.9, and >40.0 kg/m2
+ were: 1.1 (0.6-1.8), 2.2 (1.2-3.8), 2.5 (1.1-5.7), and 3.2
+ (1.3-7.9), respectively. Results for medically-indicated pre
+ term birth are not presented because only 49 of these births
+ occurred before 32 weeks.
+
+ Associations between average gestational weight gain
+ in the second and third trimesters and preterm birth, within
+ levels of prepregnancy BMI, are shown in Table 4. Among
+ obese women only, average gestational weight gain below or
+ above the range recommended by the Institute of Medicine32
+ was associated with an increased risk of overall preterm birth
+ and of spontaneous preterm birth. Results were generally
+ similar for medically-indicated preterm birth, although
+ among obese women, only "above recommended" gestational
+ weight gain was associated with increased risk. Interactions
+ between BMI and gestational weight gain were statistically
+ significant overall and within each subtype of preterm birth
+ (test for interaction P < 0.001). Results using more extreme
+ cutpoints for gestational weight gain (<0.5 and >1.5 lbs/
+ week)27 were consistent with those in Table 4, with the
+ exception of low gestational weight gain among normal
+ weight women: ORs comparing <0.5 versus 0.5-1.4 lbs/
+ week were elevated for all preterm births (2.4 [1.7-3.4]),
+ spontaneous preterm births (2.2 [1.5-3.4]), and medically
+ indicated preterm births (2.6 [1.6-4.4]).
+
+ No appreciable differences in association were found
+ by parity status for any of the anthropometric variables in
+ relation to either preterm birth subtype (data not shown). The
+ mean difference in elapsed time between the completion of
+ the questionnaire on which anthropometric variables were
+ reported and the date of conception (defined as infant's due
+ date minus 40 weeks' gestation) was 24.6 weeks for term
+ births and 30.1 weeks for preterm births. However, further
+ control for this variable did not alter the results (data not
+ shown). To minimize the influence of incomplete weight loss
+ from a previous pregnancy, we restricted our sample to
+ women who had not had a birth within the previous 2 years
+ (n = 5338 births; 4560 term, 410 spontaneous, and 368
+ medically-indicated preterm births). The overall ORs for
+ preterm birth in association with underweight, waist circum
+ ference, and gestational weight gain were similar to the
+ original ORs (data not shown), but were weaker for the BMI
+ >40.0 category (1.1 [0.74-1.7]). Finally, because control for
+ previous preterm birth or parity might have resulted in over
+
+ adjustment for factors that affected the pregnancy under study
+
+ and also the previous pregnancies,44 we repeated our analyses
+ without adjustment for these variables. As expected, the ORs
+ slightly increased but were not materially different from the
+ main results (data not shown).
+
+ In this prospective study of African-American women,
+ we found a positive association between prepregnancy un
+ derweight (BMI <18.5 kg/m2) and preterm birth, despite the
+ small number of women in this low BMI category. We also
+
+ DISCUSSION
+
+ ? 2010 Lippincott Williams & Wilkins vwvw.epidem.com | 249
+
+This content downloaded from 
+
+(cid:0)138.238.254.100 on Sat, 30 Mar 2024 17:39:32 +00:00(cid:0)
+
+(cid:0) 
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Wise et al_Epidemiology Volume 21, Number 2, March 2010
+
+ observed a positive association of prepregnancy obesity (BMI
+ ^30.0 kg/m2) with medically-indicated but not spontaneous
+ preterm birth overall. However, very early spontaneous pre
+ term birth (<32 weeks) was positively associated with
+ prepregnancy obesity. Results did not differ materially by
+ parity status. The positive association between prepregnancy
+ BMI and medically-indicated preterm birth weakened appre
+
+ ciably after adjustment for maternal medical conditions, sug
+ gesting the association might be explained in part by condi
+
+ tions such as gestational diabetes or hypertension. In contrast,
+ the results for very early spontaneous preterm birth (<32
+
+ weeks) did not change with adjustment for maternal medical
+
+ conditions, indicating a different mechanism for an effect.
+
+ While some studies have reported positive associations
+ between maternal overweight or obesity and preterm birth (all
+
+ subtypes combined),39'40,45"47 others found no association37,48"54
+ or inverse associations41,55"57 Most,27,36,39,40'45,46 but not all55
+ studies, have shown positive associations between maternal
+
+ obesity and very early preterm birth (all subtypes combined); 2
+
+ of these studies found a positive association among nulliparous
+
+ women only.39,40 In the studies that examined preterm birth
+
+ subtypes separately,17,38'41'47,58 obesity was consistently associ
+ ated with an increased risk of medically-indicated preterm
+ birth17'38'41'47'58 but its relation to spontaneous preterm
+ birth was unclear. Studies of the relation between obesity
+ and spontaneous preterm birth have reported null,38'58
+ inverse17'41 and positive associations for preterm prema
+ ture rupture of membranes only.47
+
+ Our data show a positive monotonic association be
+ tween waist circumference and medically-indicated preterm
+ birth, but little evidence for an association with spontaneous
+
+ preterm birth. There are no previous studies on this topic with
+ which to compare our results. If the mechanism operates
+ through insulin resistance and hyperinsulinemia, then our
+ findings are supported by a study of pregnant women in
+ which insulin levels were higher in women with upper-body
+ obesity than in women with lower-body obesity or lean
+ women, following an oral glucose tolerance test.59 Golden
+ berg and Culhane60 suggest that preterm birth is mediated by
+ increased systemic inflammation, which may be influenced
+
+ by conditions such as gestational diabetes, preeclampsia, and
+
+ hypertension. Given that central adiposity is strongly related
+ to insulin resistance, systemic inflammation is a possible
+ mechanism by which waist circumference increases risk of
+ preterm birth. Recent studies linking preterm birth to C-re
+
+ active protein (a marker of systemic inflammation) support
+
+ this hypothesis.12-14
+
+ In 2009, the Institute of Medicine published revised
+ guidelines for gestational weight gain based on a woman's
+ prepregnancy BMI, defined according to WHO stan
+ dards.32 The main change was for obese women: whereas
+ at least 15 lbs had been recommended in 1990, the revised
+
+ guidelines recommend a "narrow and specific" range of
+
+ 11-20 lbs.32 Women with prepregnancy BMI <18.5 kg/m2
+ are advised to gain 28-40 lbs, those with BMI 18.5-24.9
+ kg/m2 are advised to gain 25-35 lbs, and those with BMI
+ 25.0-29.9 kg/m2 are advised to gain 15-25 lbs.32
+
+ There is conflicting evidence about the joint association
+
+ of gestational weight gain and maternal obesity with preterm
+ birth: studies have reported both decreased27,36'38 and in
+ creased37 risks of preterm birth associated with low gesta
+
+ tional weight gain among obese women.23 Some researchers
+ argue that black women should strive for weight gain toward
+ the upper end of the recommended ranges based on prepreg
+
+ nancy BMI to reduce risk of low birthweight, which is
+ correlated with low gestational weight gain.28 While smaller
+ studies of prepregnancy body weight and adverse pregnancy
+ outcomes have included black women,27,51 only one stratified
+
+ by race/ethnicity.51 In the present study, gestational weight
+ gains below and above those recommended by the 2009
+ Institute of Medicine report were associated with increased
+ risks of both spontaneous and medically-indicated preterm
+ birth among obese women only. Among normal weight women,
+ only very low gestational weight gain (<0.5 lbs/week in the
+ second and third trimesters) was associated with increased
+ risks of both preterm birth subtypes, in agreement with the
+ literature.23,39
+
+ A limitation of our study is that anthropometric and
+
+ preterm birth data were self-reported. Although there was
+ excellent agreement between self-reported and technician
+ measured height and weight in our validation study,61 agree
+ ment between self-reported and technician-measured waist
+ circumference (measured in 1995 only) and gestational
+ weight gain (reported after the index pregnancy) was not as
+
+ high. Due to the prospective reporting of variables other than
+
+ gestational weight gain, error would likely be nondifferential
+ and would generally bias the effect estimates towards the
+ null.62 Another limitation is the time variability between the
+ anthropometric measurements and the date of conception,
+ although secondary analyses suggested minimal influence of
+ this variation on our results.
+
+ Our validation study indicated high accuracy of self
+
+ reported preterm birth relative to registry data, and the overall
+
+ prevalence of preterm birth was comparable to that based on
+ national data.25 We analyzed preterm birth subtypes sepa
+
+ rately in an attempt to clarify the etiologic role of the factors
+ under study. The proportion of women classified as having
+ had a spontaneous or medically-indicated preterm birth was
+ consistent with national data from 1989-2000 on preterm
+
+ birth subtypes among black women.6 Nonetheless, because
+ preterm birth was self-reported and not based on clinical
+ assessment, it is unclear whether self-reported gestational age
+ was based on ultrasound or LMP methods. Furthermore, the
+
+ degree to which self-reported data can distinguish between
+ preterm birth subtypes is questionable and caution should be
+ used when interpreting subtype-specific results. Most anthro
+
+ 250 | \AMA/v.epidem.com ? 2010 Lippincott Williams & Wilkins
+
+This content downloaded from 
+
+(cid:0)138.238.254.100 on Sat, 30 Mar 2024 17:39:32 +00:00(cid:0)
+
+(cid:0) 
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Epidemiology Volume 21, Number 2, March 2010_Body Size and Risk of Preterm Birth in Black Women
+
+ pometric and covariate data were reported before the index
+ pregnancy. Because true prepregnancy BMI is seldom available
+
+ in registries or hospital databases (which represent the largest
+
+ sources of data from studies to date36'39,46'55) researchers often
+ use BMI in early pregnancy. However, by the time a woman is
+
+ seen for her first prenatal visit, she may have gained (or lost)
+
+ several pounds compared with her true prepregnancy weight40
+ This may explain the lower agreement between self-reported
+
+ and registry-supplied gestational weight gain data in our study.
+ We controlled for several potential confounders not
+ routinely available in large registries, including education,
+ smoking history, maternal health conditions, and whether the
+
+ participant was born preterm. The large sample size permitted
+ an informative assessment of risk factors in the overall
+
+ dataset, but there were small numbers in some stratified
+
+ analyses, and the examination of numerous anthropometric
+ variables and subtypes of preterm birth may have increased
+ the potential for false positives. Cohort retention was satis
+ factorily high, enough to reduce the influence of selection
+ bias. In addition, respondents and nonrespondents were sim
+ ilar with respect to factors such as BMI, waist circumference,
+ and parity.
+
+ Because women must be literate to participate in a
+ study that collects data by mailed questionnaires, most Black
+ Women's Health Study participants have completed high
+ school.24 About 85% of black women of the same ages
+ nationally have graduated high school,63 so our results should
+
+ apply to a large segment of the U.S. black population.
+
+ The relation of obesity to preterm birth is relevant to
+ African-American women because they are disproportion
+ ately affected by both conditions. Our data suggest that
+ obesity increases risk of medically-indicated preterm birth
+ (all gestations) and very early spontaneous preterm birth, and
+ that underweight increases risk of both preterm birth sub
+
+ types. Among obese women, gestational weight gain within
+ the range recommended by the 2009 Institute of Medicine32
+
+ report was optimal in reducing risk of preterm birth.
+
+ ACKNOWLEDGMENTS
+
+ We acknowledge the technical assistance of Kevin
+
+ Foster from the Massachusetts Department of Public Health
+ and Ghasi S. Phillips, as well as the ongoing contributions of
+ Black Women's Health Study participants and staff
+
+ REFERENCES
+
+ 1. Martin JA, Hamilton BE, Sutton PD, et al. Births: Final Data for 2005.
+ National Vital Statistics Reports. Hyattsville, MD: National Center for
+ Health Statistics; 2007. Vol. 56, No. 6.
+
+ 2. Ananth CV, Misra DP, Demissie K, Smulian JC. Rates of preterm
+ delivery among Black women and White women in the United States
+ over two decades: an age-period-cohort analysis. Am J Epidemiol.
+ 2001;154:657-665.
+
+ 3. Blackmore CA, Savitz DA, Edwards LJ, Harlow SD, Bowes WA Jr.
+
+ Racial differences in the patterns of preterm delivery in central North
+ Carolina, USA. Paediatr Perinat Epidemiol. 1995;9:281-295.
+
+ 4. Goldenberg RL. The management of preterm labor. Obstet Gynecol.
+
+ 2002;100:1020-1037.
+
+ ? 2010 Lippincott Williams & Wilkins vvvvw.epidem.com | 251
+
+ 5. Green NS, Damus K, Simpson JL, et al. Research agenda for preterm
+ birth: recommendations from the March of Dimes. Am J Obstet Gynecol.
+ 2005;193:626-635.
+
+ 6. Ananth CV, Joseph KS, Oyelese Y, Demissie K, Vintzileos AM. Trends
+ in preterm birth and perinatal mortality among singletons: United States,
+ 1989 through 2000. Obstet Gynecol. 2005;105:1084-1091.
+
+ 7. Berkowitz GS, Blackmore-Prince C, Lapinski RH, Savitz DA. Risk
+ factors for preterm birth subtypes. Epidemiology. 1998;9:279-285.
+ 8. Ogden CL, Carroll MD, Curtin LR, McDowell MA, Tabak CJ, Flegal
+ KM. Prevalence of overweight and obesity in the United States, 1999?
+ 2004. JAMA. 2006;295:1549-1555.
+
+ 9. Kim SY, Dietz PM, England L, Morrow B, Callaghan WM. Trends in
+ Pre-pregnancy obesity in nine states, 1993-2003. Obesity. 2007; 15:
+ 986-993.
+
+ 10. Willett W. Nutritional Epidemiology. 2nd ed. New York: Oxford Uni
+
+ versity Press; 1998.
+
+ 11. Goldenberg RL, Hauth JC, Andrews WW. Intrauterine infection and
+
+ preterm delivery. N Engl J Med. 2000;342:1500-1507.
+
+ 12. Catov JM, Bodnar LM, Ness RB, Barron SJ, Roberts JM. Inflammation
+ and dyslipidemia related to risk of spontaneous preterm birth. Am J
+ Epidemiol. 2007;166:1312-1319.
+
+ 13. Lohsoonthorn V, Qiu C, Williams MA. Maternal serum C-reactive
+
+ protein concentrations in early pregnancy and subsequent risk of preterm
+ delivery. Clin Biochem. 2007;40:330-335.
+
+ 14. Pitiphat W, Gillman MW, Joshipura KJ, Williams PL, Douglass CW,
+
+ Rich-Edwards JW. Plasma C-reactive protein in early pregnancy and
+ preterm delivery. Am J Epidemiol. 2005;162:1108-1113.
+
+ 15. Catov JM, Bodnar LM, Kip KE, et al. Early pregnancy lipid concentra
+ tions and spontaneous preterm birth. Am J Obstet Gynecol. 2007; 197:
+ 610.el-e7.
+
+ 16. Jensen DM, Korsholm L, Ovesen P, Beck-Nielsen H, Molsted-Pedersen
+ L, Damm P. Adverse pregnancy outcome in women with mild glucose
+ intolerance: is there a clinically meaningful threshold value for glucose?
+ Acta Obstet Gynecol Scand. 2008;87:59-62.
+
+ 17. Hendler I, Goldenberg RL, Mercer BM, et al. The preterm prediction
+ study: association between maternal body mass index and spontaneous
+ and indicated preterm birth. Am J Obstet Gynecol. 2005;192:882-886.
+ 18. Liabsuetrakul T, Suntharasaj T, Suwanrath C, Leetanaporn R,
+ Rattanaprueksachart R, Tuntiseranee P. Serial translabial sonographic
+ measurement of cervical dimensions between 24 and 34 weeks' gesta
+ tion in pregnant Thai women. Ultrasound Obstet Gynecol. 2002;20:
+ 168-173.
+
+ 19. Okosun IS, Chandra KM, Boev A, et al. Abdominal adiposity in U.S.
+
+ adults: prevalence and trends, 1960-2000. Prev Med. 2004;39:197-206.
+
+ 20. Huang Z, Willett WC, Colditz GA, et al. Waist circumference, waist: hip
+ ratio, and risk of breast cancer in the nurses' health study. Am J
+ Epidemiol. 1999;150:1316-1324.
+
+ 21. Kirschner MA, Samojlik E, Drejka M, Szmal E, Schneider G, Ertel N.
+
+ Androgen-estrogen metabolism in women with upper body versus lower
+ body obesity. J Clin Endocrinol Metab. 1990;70:473.
+
+ 22. Evans DJ, Hoffmann RG, Kalkhoff RK, Kissebah AH. Relationship of
+
+ body fat topology to insulin sensitivity and metabolic profiles in pre
+ menopausal women. Metabolism. 1984;33:68-75.
+
+ 23. Viswanathan M, Siega-Riz AM, Moos M-K, et al. Outcomes of Mater
+ nal Weight Gain, Evidence Report/Technology Assessment No. 168.
+ (Prepared by RTI International-University of North Carolina Evidence
+ based Practice Center under Contract No. 290-02-0016). Rockville,
+ MD: Agency for Healthcare Research and Quality; 2008. AHRQ Pub
+
+ lication No. 08-E009.
+
+ 24. Rosenberg L, Adams-Campbell LL, Palmer JR. The Black Women's
+ Health Study: a follow-up study for causes and preventions of illness.
+ J Am Med Womens Assoc. 1995;50:56-58.
+
+ 25. Vahratian A, Buekens P, Alexander GR. State-specific trends in
+ preterm delivery: are rates really declining among non-Hispanic
+ African Americans across the United States? Matern Child Health J.
+ 2006;10:27-32.
+
+ 26. Giovannucci E, Ascherio A, Rimm EB, Colditz GA, Stampfer MJ,
+
+ Willett WC. Physical activity, obesity, and risk for colon cancer and
+ adenoma in men. Ann Intern Med. 1995;122:327-334.
+
+ 27. Dietz PM, Callaghan WM, Cogswell ME, Morrow B, Ferre C, Schieve
+
+This content downloaded from 
+
+(cid:0)138.238.254.100 on Sat, 30 Mar 2024 17:39:32 +00:00(cid:0)
+
+(cid:0) 
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Wise et al_Epidemiology Volume 21, Number 2, March 2010
+
+ LA. Combined effects of prepregnancy body mass index and weight gain
+ during pregnancy on the risk of preterm delivery. Epidemiology. 2006;
+ 17:170-177.
+
+ impact of overweight and obesity in an Australian obstetric population.
+
+ Med J Aust. 2006;184:56-59.
+
+ 46. Cedergren ML Maternal morbid obesity and the risk of adverse preg
+
+ 28. Institute of Medicine. Nutrition During Pregnancy. Parti. Weight Gain.
+
+ nancy outcome. Obstet Gynecol. 2004;103:219-224.
+
+ Washington, DC: National Academy Press; 1990.
+
+ 29. Carmichael S, Abrams B, Selvin S. The pattern of maternal weight gain
+ in women with good pregnancy outcomes. Am J Public Health. 1997;
+ 87:1984-1988.
+
+ 30. Carter-Nolan PL, Adams-Campbell LL, Makambi K, Lewis S, Palmer
+ JR, Rosenberg L. Validation of physical activity instruments: Black
+ Women's Health Study. Ethn Dis. 2006;16:943-947.
+
+ 31. World Health Organisation. Physical Status: The Use and Interpretation
+
+ of Anthropometry. Geneva: World Health Organisation; 1995.
+
+ 32. Institute of Medicine (IOM). Weight Gain During Pregnancy: Reexam
+ ining the Guidelines. Washington, DC: The National Academies Press;
+ 2009.
+
+ 33. Liang KY, Zeger SL. Regression analysis for correlated data. Annu Rev
+
+ Public Health. 1993;14:43-68.
+
+ 34. Sibai BM, Caritis S, Hauth J, et al. Risks of preeclampsia and adverse
+
+ neonatal outcomes among women with pregestational diabetes mel
+ litus. National Institute of Child Health and Human Development
+ Network of Maternal-Fetal Medicine Units. Am J Obstet Gynecol.
+ 2000;182:364-369.
+
+ 35. Rosenberg TJ, Garbers S, Chavkin W, Chiasson MA. Prepregnancy
+ weight and adverse perinatal outcomes in an ethnically diverse popula
+ tion. Obstet Gynecol. 2003;102:1022-1027.
+
+ 36. Cedergren M. Effects of gestational weight gain and body mass index on
+
+ obstetric outcome in Sweden. Int J Gynecol Obstet. 2006;93:269-274.
+
+ 37. Schieve LA, Cogswell ME, Scanlon KS, et al. Prepregnancy body mass
+ index and pregnancy weight gain: associations with preterm delivery.
+ Obstet Gynecol. 2000;96:194-200.
+
+ 38. Salihu HM, Lynch ON, Alio AP, Liu J. Obesity subtypes and risk of
+ spontaneous versus medically indicated preterm births in singletons and
+ twins. Am J Epidemiol. 2008;168:13-20.
+
+ 39. Cnattingius S, Bergstrom R, Lipworth L, Kramer MS. Prepregnancy
+ weight and the risk of adverse pregnancy outcomes. N Engl J Med.
+ 1998;338:147-152.
+
+ 40. Bhattacharya S, Campbell D, Liston W, Bhattacharya S. Effect of body
+ mass index on pregnancy outcomes in nulliparous women delivering
+ singleton babies. BMC Public Health. 2007;7:168.
+
+ 41. Smith GCS, Shah I, Pell JP, Crossley JA, Dobbie R. Maternal obesity in
+ early pregnancy and risk of spontaneous and elective preterm deliveries:
+ a retrospective cohort study. Am J Public Health. 2007;97:157-162.
+
+ 42. SAS Institute Inc. SAS/STAT User's Guide, Version 8.02. Cary, NC:
+
+ SAS Institute; 2002.
+
+ 43. Lassek WD, Gaulin SJ. Changes in body fat distribution in relation to
+
+ parity in American women: a covert form of maternal depletion. Am J
+ Phys Anthropol. 2006;131:295-302.
+
+ 44. Weinberg CR. Toward a clearer definition of confounding. Am J Epi
+
+ demiol. 1993;137:1-8.
+
+ 45. Callaway LK, Prins JB, Chang AM, Mclntyre HD. The prevalence and
+
+ 47. Nohr EA, Bech BH, Vaeth M, Rasmussen KM, Henriksen TB, Olsen J.
+
+ Obesity, gestational weight gain and preterm birth: a study within the
+ Danish national birth cohort. Paediatr Perinat Epidemiol. 2007;21:5-14.
+ 48. Jensen DM, Damm P, Sorensen B, et al. Pregnancy outcome and
+ prepregnancy body mass index in 2459 glucose-tolerant Danish women.
+ Am J Obstet Gynecol. 2003;189:239-244.
+
+ 49. Raatikainen K, Heiskanen N, Heinonen S. Transition from over
+ weight to obesity worsens pregnancy outcome in a BMI-dependent
+ manner. Obesity. 2006;14:165-171.
+
+ 50. Robinson HE, O'Connell CM, Joseph KS, McLeod NL. Maternal
+ outcomes in pregnancies complicated by obesity. Obstet Gynecol. 2005;
+ 106:1357-1364.
+
+ 51. Rosenberg TJ, Garbers S, Lipkind H, Chiasson MA. Maternal obesity
+ and diabetes as risk factors for adverse pregnancy outcomes: differences
+ among 4 racial/ethnic groups. Am J Public Health. 2005;95:1545-1551.
+ 52. Perlow JH, Morgan MA, Montgomery D, Towers CV, Porto M.
+
+ Perinatal outcome in pregnancy complicated by massive obesity. Am J
+ Obstet Gynecol. 1992;167:958-962.
+
+ 53. Garbaciak JA Jr, Richter M, Miller S, Barton JJ. Maternal weight and
+ pregnancy complications. Am J Obstet Gynecol. 1985;152:238-245.
+ 54. Gilboa SM, Correa A, Alverson CJ. Use of spline regression in an
+ analysis of maternal prepregnancy body mass index and adverse birth
+ outcomes: does it tell us more than we already know? Ann Epidemiol.
+ 2008;18:196-205.
+
+ 55. Sebire NJ, Jolly M, Harris JP, et al. Maternal obesity and pregnancy
+ outcome: a study of 287,213 pregnancies in London. Int J Obes Relat
+ Metab Disord. 2001;25:1175-1182.
+
+ 56. Gross T, Sokol RJ, King KC. Obesity in pregnancy: risks and outcome.
+
+ Obstet Gynecol. 1980;56:446-450.
+
+ 57. Kumari AS. Pregnancy outcome in women with morbid obesity. Int J
+
+ Gynaecol Obstet. 2001;73:101-107.
+
+ 58. Rudra CB, Frederick IO, Williams MA. Pre-pregnancy body mass index
+ and weight gain during pregnancy in relation to preterm delivery
+ subtypes. Acta Obstet Gynecol Scand. 2008;87:510-517.
+
+ 59. Landon MB, Osei K, Piatt M, O'Dorisio T, Samuels P, Gabbe SG.
+ The differential effects of body fat distribution on insulin and glucose
+ metabolism during pregnancy. Am J Obstet Gynecol. 1994; 171:875
+ 884.
+
+ 60. Goldenberg RL, Culhane JF. Prepregnancy health status and the risk of
+
+ preterm delivery. Arch Pediatr Adolesc Med. 2005;159:89-90.
+
+ 61. Wise LA, Palmer JR, Spiegelman D, et al. Influence of body size and
+ body fat distribution on risk of uterine leiomyomata in U.S. black
+ women. Epidemiology. 2005;16:346-354.
+
+ 62. Greenland S. Analysis of polytomous exposures and outcomes. In:
+
+ Rothman K, Greenland S, Lash TL, eds. Modern Epidemiology. 3rd ed.
+ Philadelphia: Lippincott Raven; 2008:303-327.
+
+ 63. Educational Attainment in the United States. Current Population Re
+ ports P20-543 (Update). Washington, DC: U.S. Department of Com
+ merce; 1998.
+
+ 252 | vvww.epidem.com ? 2010 Lippincott Williams & Wilkins
+
+This content downloaded from 
+
+(cid:0)138.238.254.100 on Sat, 30 Mar 2024 17:39:32 +00:00(cid:0)
+
+(cid:0) 
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+

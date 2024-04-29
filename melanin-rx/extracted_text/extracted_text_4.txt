@@ -1,0 +1,2579 @@
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+HHS Public Access
+Author manuscript
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+Published in final edited form as:
+
+Womens Health Issues. 2020 ; 30(6): 484–492. doi:10.1016/j.whi.2020.08.001.
+
+Black Pregnant Women “Get the Most Judgment”: A Qualitative 
+Study of the Experiences of Black Women at the Intersection of 
+Race, Gender, and Pregnancy
+
+Renee Mehra, PhDa, Lisa M. Boyd, PhDb, Urania Magriples, MDc, Trace S. Kershaw, PhDd, 
+Jeannette R. Ickovics, PhDd,e, Danya E. Keene, PhDd
+aDepartment of Chronic Disease Epidemiology, Yale School of Public Health, 60 College St, New 
+Haven, CT 06520-8034, USA
+
+bDepartment of Urology, Yale School of Medicine, PO Box 208058, New Haven, CT 06520-8058, 
+USA
+
+cObstetrics, Gynecology & Reproductive Sciences, Yale School of Medicine, PO Box 208063, 
+New Haven, CT, 06520-8063, USA
+
+dDepartment of Social and Behavioral Sciences, Yale School of Public Health, 60 College St, New 
+Haven, CT 06520-8034, USA
+
+eYale-NUS College, 20 College Avenue West #03-401, 138529, Singapore.
+
+Abstract
+
+Background: Pronounced racial disparities in maternal and infant health outcomes persist in the 
+United States. Using an ecosocial and intersectionality framework and biopsychosocial model of 
+health, we aimed to understand Black pregnant women’s experiences of gendered racism during 
+pregnancy.
+
+Methods: We conducted semi-structured interviews with 24 Black pregnant women in New 
+Haven, Connecticut. We asked women about their experience of being pregnant, experiences of 
+gendered racism, and concerns related to pregnancy and parenting Black children. Transcripts 
+were coded by three trained analysts using grounded theory techniques.
+
+Results: Women experienced gendered racism during pregnancy—racialized pregnancy stigma
+—in the form of stereotypes stigmatizing Black motherhood that devalued Black pregnancies. 
+Women reported encountering assumptions that they had low incomes, were single, and had 
+multiple children, regardless of socioeconomic status, marital status, or parity. Women 
+encountered racialized pregnancy stigma in everyday, healthcare, social services, and housing-
+
+CORRESPONDING AUTHOR Renee Mehra, Yale School of Public Health, 60 College St, New Haven, CT 06520-8034 USA, 
+renee.mehra@aya.yale.edu, Phone: +1 203-737-6393, Fax: +1 203-737-5239. 
+CONFLICT OF INTEREST STATEMENT
+The authors declare that they have no conflict of interest.
+
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our 
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of 
+the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered 
+which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 2
+
+related contexts, making it difficult to complete tasks without scrutiny. For many, racialized 
+pregnancy stigma was a source of stress. To counteract these stereotypes, women used a variety of 
+coping responses, including positive self-definition.
+
+Discussion: Racialized pregnancy stigma may contribute to poorer maternal and infant 
+outcomes by way of reduced access to quality healthcare; impediments to services, resources, and 
+social support; and poorer psychological health. Interventions to address racialized pregnancy 
+stigma and its adverse consequences include anti-bias training for healthcare and social service 
+providers; screening for racialized pregnancy stigma and providing evidence-based coping 
+strategies; creating pregnancy support groups; and developing a broader societal discourse that 
+values Black women and their pregnancies.
+
+INTRODUCTION
+
+Contrary to global trends, rates of poor maternal and infant outcomes have increased in the 
+US. Between 1990 and 2015, the maternal mortality ratio (maternal deaths/100,000 live 
+births) increased from 16.9 to 26.4 (GBD 2015 Maternal Mortality Collaborators, 2016). In 
+recent years, rates of preterm birth (<37 completed weeks of gestation) and low birth weight 
+(<2,500 grams) have also increased (Martin, Hamilton, Osterman, Driscoll, & Drake, 
+2018b). Of particular concern, racial disparities in poor birth outcomes have recently 
+widened (Martin, Hamilton, Osterman, Driscoll, & Mathews, 2017; Martin, Hamilton, 
+Osterman, Driscoll, & Drake, 2018a; Martin et al., 2018b; Xu, Murphy, Kochanek, Bastian, 
+& Arias, 2018). Black women account for more than one-third of pregnancy-related deaths 
+and have 3.2 times the risk of dying from pregnancy complications of White women 
+(Creanga et al., 2015). Black infants have 2.5 times the infant mortality rate (deaths in the 
+first year of life/1,000 live births) (Xu et al., 2018), 1.5 times the preterm birth rate, and two 
+times the low birth weight rate of White infants (Martin et al., 2018b). Neither maternal 
+factors such as socioeconomic status (SES), health behaviors, and prenatal care (Braveman 
+et al., 2015; Goldenberg et al., 1996; Mohlman & Levy, 2016) nor macrosocial determinants 
+of health disproportionately affecting marginalized populations, such as neighborhood 
+poverty and unemployment (Morenoff, 2003; O'Campo, Xue, Wang, & Caughy, 1997; Pearl, 
+Braveman, & Abrams, 2001), completely explain these disparities.
+
+Research suggests the lived experiences of Black women in the US, in particular racism 
+(Dominguez, 2011; Dominguez, Dunkel-Schetter, Glynn, Hobel, & Sandman, 2008) and 
+cumulative stress from racism over the life course (Lu & Halfon, 2003), are determinants of 
+racial disparities in adverse birth outcomes. For example, risk of poorer birth outcomes is 
+higher among US-born Black women than foreign-born Black women (Cabral, Fried, 
+Levenson, Amaro, & Zuckerman, 1990; J. W. Collins, Jr., Soskolne, Rankin, & Bennett, 
+2013; David & Collins, 1997; Howard, Marshall, Kaufman, & Savitz, 2006; Oliver et al., 
+2018), and infant birth weight of descendants of foreign-born Black women approaches that 
+of US-born Black women (J. W. Collins, Jr., Wu, & David, 2002).
+
+Rosenthal and Lobel contend that Black women are subject to a uniquely stressful 
+experience in the US due to intersecting stigmatized and marginalized identities—woman 
+and Black—and that stigmatization and marginalization of these identities increase Black 
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 3
+
+women’s risk of poor birth outcomes (Rosenthal & Lobel, 2011). The combination of 
+sexism and racism is referred to as “gendered racism” (Essed, 1991), and theoretical 
+frameworks of intersectionality describe how this intersectional experience of both forms of 
+oppression is greater than their sum (Crenshaw, 1989). Intersectionality is a core tenet of the 
+reproductive justice movement (Sister Song, n.d.), a framework developed by women of 
+color that combines reproductive rights and social justice issues (e.g., economic injustice, 
+welfare reform, housing, and environmental justice) to address intersecting oppressions 
+(Price, 2010; Ross & Solinger, 2017). The framework focuses on the “lived, embodied 
+reproductive and whole-life experiences within their communities of people who can 
+become pregnant and give birth” (Ross & Solinger, 2017, page 12). We draw on the 
+reproductive justice framework to situate women’s experiences within a larger context that 
+acknowledges how oppressive systems deny personhood to women based on their 
+intersecting identities.
+
+In the literature, gendered racism is operationalized as gendered racial microaggressions 
+(Lewis, Williams, Peppers, & Gadson, 2017), events (Thomas, Witherspoon, & Speight, 
+2008), or stereotypes (P. H. Collins, 2000; Jerald, Cole, Ward, & Avery, 2017; Rosenthal & 
+Lobel, 2018). Stereotypic perceptions of Black women combining sexist, racist, and classist 
+images such as mammies (faithful, domestically servile), matriarchs (aggressive, 
+unfeminine), welfare mothers (low-income, unwed), and Jezebels (sexually aggressive) (P. 
+H. Collins, 2000) to stigmatize Black motherhood in particular, casting in a negative light 
+not only gender and racial identity but also sexual identity. Negative stereotypic images of 
+Black women in the US extend throughout history to justify economic exploitation and 
+control of Black women’s sexuality and fertility (P. H. Collins, 2000). Moreover, these 
+stereotypes reflect and reinforce the concept of stratified reproduction, whereby 
+reproduction is differentially experienced and valued across social hierarchies (Colen, 1995).
+
+Theoretical pathways between gendered racism and poor birth outcomes are built upon 
+Clark et al.’s biopsychosocial model of racism (Clark, Anderson, Clark, & Williams, 1999) 
+and Lazarus and Folkman’s stress and coping framework (Lazarus & Folkman, 1984). 
+Racism is a perceived stressor that, depending on coping responses, results in negative 
+psychological and physiological stress responses, and subsequently poor health outcomes 
+(Clark et al., 1999). Sociodemographic, psychological, and behavioral factors moderate this 
+pathway (Clark et al., 1999).
+
+Empirical research on coping among Black women indicates that racism-specific coping 
+responses include active and passive emotional and behavioral responses (McNeilly et al., 
+1996; Vines et al., 2001). Active responses include feeling angry, anxious, and sad 
+(emotional) and working harder to prove others wrong and praying (behavioral). Passive 
+responses include feeling powerless and hopeless (emotional) and ignoring, accepting, and 
+not speaking up (behavioral) (Vines et al., 2001). In general, active coping responses may be 
+more effective than passive or emotion-focused coping responses for decreasing the 
+association between racism and health (Pascoe & Smart Richman, 2009). Among Black 
+women, education but not income is associated with higher perceived racism, although there 
+are few differences in coping responses by SES (Vines et al., 2006). Generally, 
+psychological factors such as racial identity centrality may either buffer or exacerbate the 
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 4
+
+racism-mental health association, whereas social support is more likely to buffer this 
+association (Pascoe & Smart Richman, 2009).
+
+The same mediators and moderators of the biopsychosocial model of racism may apply to a 
+model of gendered racism. Africentric (Greer, 2007) and africultural (Utsey, Adams, & 
+Bolden, 2000) frameworks of coping responses have been used to explore whether coping 
+mediates the association between gendered racism and physical and mental health (Lewis et 
+al., 2017; Thomas et al., 2008). In particular, the Africentric framework of coping responses 
+includes four types of responses: interconnectedness, spirituality, problem-oriented coping, 
+and disengagement (Greer, 2007). Recent empirical studies show gendered racism is directly 
+associated with psychological distress (Lewis & Neville, 2015; Lewis et al., 2017; Thomas 
+et al., 2008). This association is mediated by passive behavioral coping responses such as 
+disengagement (Lewis et al., 2017) and avoidance (Lewis et al., 2017; Thomas et al., 2008), 
+and moderated by lower levels of gendered racial identity centrality (Lewis et al., 2017).
+
+Given large and widening racial disparities in maternal and infant outcomes—not fully 
+accounted for by risk factors identified in existing research—we sought to examine the ways 
+gendered racism manifests in the everyday experiences of pregnant Black women and may 
+contribute to poorer maternal and infant outcomes. While racism contributes to the 
+deterioration of the health of Black women across the life course to affect pregnancy 
+outcomes (Geronimus, 1992), distinct forms of gendered racism may also manifest during 
+pregnancy, potentially having a larger impact on pregnancy outcomes. Using an ecosocial 
+framing of discrimination as an oppressive phenomenon operating at multiple levels across 
+the life course (Krieger, 2012), an intersectionality framework, and a biopsychosocial model 
+of gendered racism and health, this paper examines the gendered pregnancy racism that 
+women experience and the implications of these experiences for maternal and infant health.
+
+MATERIALS AND METHODS
+
+Study site and sample
+
+Our study was conducted in New Haven, Connecticut. New Haven is the second largest city 
+in the state, with a population of 130,884 (United States Census Bureau, 2017). The city has 
+a racially and ethnically diverse population of which 31.5% is Black non-Hispanic, 30.4% is 
+Hispanic, and 30.3% is White non-Hispanic (United States Census Bureau, 2017). Overall 
+levels of unemployment (10.4% compared to 6.6% nationally) and poverty (25.6% 
+compared to 14.6% nationally) are high (United States Census Bureau, 2017).
+
+Pregnant women who were at least 18 years of age and self-identified as African American 
+or Black (herein collectively referred to as Black) were eligible to participate. Within this 
+eligibility, we diversified our sample to include both women whose primary source of 
+financial support was public assistance benefits and those supported by employment (i.e., the 
+participant, their partner, or a family member was employed). Because experiences of racism 
+may vary across socioeconomic groups (Ertel et al., 2012; Paradies, 2006), this allowed us to 
+examine the intersection of race, gender, and SES. Women were recruited via flyers in 
+healthcare settings; public (i.e., libraries, churches) and private (i.e., grocery stores, 
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 5
+
+Analysis
+
+laundromats) spaces; email distribution lists; and women’s and African-American affinity 
+groups (January 2017 to August 2018).
+
+We provided participants with information on risks and benefits of the study and obtained 
+verbal consent. We conducted individual, in-person, semi-structured interviews using an 
+interview guide developed by the authors. We iteratively developed interview questions 
+guided by ecosocial and intersectionality frameworks (see Table 1). Questions explored 
+women’s perceptions of things that either helped or hindered their ability to have a healthy 
+pregnancy; experiences of interpersonal and structural racism; experiences of living in their 
+neighborhood; neighborhood attributes that helped them to have a healthy pregnancy or 
+make healthy decisions about their pregnancy; and concerns related to pregnancy and 
+parenting Black children. A trained interviewer (RM) conducted the interviews, which were 
+approximately 45-60 minutes in length. Interviews were recorded and transcribed verbatim. 
+Ethical approval was received from the Yale University Institutional Review Boards (Human 
+Subjects Committee).
+
+Three authors (RM, LB, and DK) trained and experienced in qualitative research methods 
+followed an iterative and inductive coding approach adapted from grounded theory (Corbin 
+& Strauss, 1998). We established coding reliability by iteratively selecting small samples of 
+interviews to open code and double code to create and revise our code book. Coders met 
+throughout the coding process and coding issues were resolved through consensus, assuring 
+agreement on themes derived from the data and interview guide. The first author applied the 
+final codebook to all transcripts using ATLAS.ti software (Version 8, Scientific Software 
+Development GmhH, Germany, 2018). The authors used an abductive approach—a recursive 
+and iterative process of fitting data and theories (Timmermans & Tavory, 2012)—to interpret 
+data through the lens of intersectionality and the biopsychosocial model of gendered racism. 
+To monitor biases, as backgrounds of the authors were different to those of Black pregnant 
+women, we used field notes during data collection and memoing during data analysis. 
+Additionally, we discussed our biases and various perspectives, and how to be sensitive and 
+fair during author meetings. In completing the analysis presented here, the first author 
+reviewed excerpts linked to relevant codes and read full transcripts to contextualize excerpts 
+within participants’ broader narratives.
+
+Description of researchers’ backgrounds
+
+RM, a White and Asian female doctoral candidate, conducted the interviews. Three female 
+authors (RM, LB, and DK) coded the data. LB is a White research scientist and DK is a 
+White faculty member. Other members of the research team are White and included two 
+faculty members (one female and one male) in the social and behavioral sciences department 
+of a public health school, and one female maternal-fetal medicine specialist.
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+RESULTS
+
+Study sample
+
+Page 6
+
+Findings
+
+Twenty-four women ranging in age from 21 to 45 years (median 32 years) participated in the 
+study (Table 2). Ten women (42%) received public assistance benefits as their primary 
+source of financial support and 14 women (58%) were pregnant for the first time.
+
+Participants in the study experienced gendered racism during pregnancy—a distinct form of 
+intersectional stigma with potentially significant implications for women and their infants, 
+that we hereafter refer to as racialized pregnancy stigma—in the form of stereotypes that 
+stigmatized Black motherhood. Participants reported encountering judgments and negative 
+assumptions in a multitude of contexts, including in their day-to-day lives, as well as in 
+healthcare, social services, and housing-related contexts. Such racialized pregnancy stigma 
+influenced their access to and quality of services and contributed to stress. Conversely, 
+participants described individual coping responses and familial and community attributes 
+that countered racialized pregnancy stigma.
+
+Overall, an overarching sentiment Black pregnant women expressed was that they and their 
+pregnancies were devalued by society. Participants felt judged based on negative 
+assumptions about Black pregnant women, and for some, this judgment was a significant 
+source of stress. Participant 11 succinctly captured this lived reality, “I do think pregnancy is 
+harder for Black, African-American women, I really do. We get the most judgment… I 
+notice that there be a lot more Black women stressed during their pregnancy, that I have 
+witnessed.”
+
+Racialized pregnancy stigma in everyday contexts
+
+Participants experienced harmful assumptions about Black pregnant women in multiple 
+everyday contexts, which made it difficult to complete routine tasks without scrutiny. 
+Regardless of SES, participants encountered the assumption that Black pregnant women had 
+low incomes and the attendant implication that they were dependent on government 
+resources. Participant 11, whose husband was employed, described an intrusive encounter in 
+a grocery store, where, despite her economic means, she was assumed to have a low income 
+and be in receipt of public assistance benefits. In response, she felt compelled to dispel these 
+assumptions and defend the public assistance deservingness of Black women:
+
+[A Black woman] was like, “It’s a shame that they can just have kids and, oh, live 
+free.” I turned around and was like, “Is there somethin’ you want to say to me?” 
+“No, I’m just, all these young Black girls have all these kids and get everything 
+free.” I said, “What do we get free?” I said, “Some people might get free medical, 
+but there’s a lot of Caucasians and White people on the state.” I said, “If that’s what 
+you’re talking about, and I’m not even paying with my groceries with food stamps. 
+I’m with cash.” And she was like, “Oh, I apologize. It’s just, you know, some 
+girls.”
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 7
+
+Participants also encountered the assumption that Black pregnant women were single 
+mothers, in conjunction with the assumption that this parenting structure was not conducive 
+to providing a good home. For Participant 18, a single mother-to-be, encountering this 
+assumption not only caused distress, but also hindered her enjoyment of her pregnancy: “I 
+feel like it’s not fun … I could have the best life at home, and I could just be walking down 
+the street pregnant and somebody will think that I'm alone and I don't have anybody because 
+of what they know about African-American women. I don't like that at all. That’s just 
+horrible. People can't think positive about you because what they already go off of.” Not 
+only was this participant not seen for who she was, but these assumptions prevented her 
+from being respected and celebrated as an expectant mother.
+
+Participants also encountered the assumption that Black pregnant women have multiple 
+children and perceived that large Black families were judged more harshly than large non-
+Black families. As Participant 11 recounted, “I witnessed it a lot of times at the doctor’s 
+office, at WIC, downtown, anywhere, in the restaurant, grocery store. I’m like, soon as a 
+Black girl come in pregnant, even if she got one kid, the looks you get, the mumbling under 
+your breath. It’s just, I honestly don’t think it’s right. People are too judgmental.”
+
+Some women who did not fit the assumption of hyperfertility—that is, older, childless Black 
+women—encountered assumptions that they were lying or hiding children from others. As 
+Participant 20, who was childless at the age of 34, articulated, “I have been questioned as to, 
+you know, why would I hide how many kids I have. Like, I'm not, I don't have any, like that 
+isn’t actually a fact. I would tell you had I birthed someone and at this point I have not.” 
+This assumption seeks to invalidate women’s lives and experiences and imposes judgement 
+on women's characters whether or not they have children. Moreover, racist assumptions 
+about reproduction may have potentially significant implications for Black women’s well-
+being and pregnancy outcomes, even for women who do not fit the assumptions.
+
+Racialized pregnancy stigma and obtaining healthcare
+
+Participants described how negative assumptions about Black pregnant women influenced 
+access to and quality of healthcare and shaped their relationships with healthcare providers. 
+Participant 22, who worked in the healthcare field, described the distress of being ignored at 
+a pediatric clinic when she sought a pediatrician for her baby-to-be and storming out of the 
+clinic after not getting the care she sought:
+
+I went to look for a doctor for a baby, for a pediatrician, and so I go in the office … 
+I see that their backs are turned, okay, fine, whatever. I don’t know if I’m supposed 
+to say hello, whatever. But this one lady, and she was White, she looked at me and 
+then just walked away … I sat there for 10 minutes and no one acknowledged me. 
+But when this other two [White] people come in and in the corner window the lady 
+turn around and spoke to them. I’ve been sitting here for 10 minutes and you people 
+didn’t say anything to me. And I, I just got up and stormed out. I said, “You know 
+what? My baby won’t come here.”
+
+Participant 11 conveyed how she felt judged when her healthcare provider recommended 
+that she undergo a tubal ligation: “One of the midwives, it was basically they try to talk you 
+into getting your tubes tied. ‘Oh, this is your third child’. That’s got nothin’ to do with it.” 
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 8
+
+The midwife’s implication that three children were enough and that the participant should 
+use a permanent form of contraception to control her fertility devalues Black pregnancies 
+and Black infants and denies Black women reproductive autonomy. Furthermore, the 
+participant remarked that encountering such judgments made it difficult for her to have a 
+healthy pregnancy.
+
+Conversely, some participants reported building supportive relationships with healthcare 
+providers who were “non-judgmental”. Overall, participants reported complex medical and 
+social histories that included mental health conditions and substance use. These issues can 
+be difficult to discuss but are important for healthcare providers to be aware of, which is why 
+having supportive relationships with healthcare providers is so important. Participant 4, who 
+received public assistance benefits, expressed how having non-judgmental healthcare 
+providers made her feel more comfortable in opening up and sharing important health 
+information:
+
+My healthcare provider makes me feel comfortable. I have a male and a female. 
+They answer all questions that I have, they’re very patient with me, very 
+understanding. They’re non-judgmental and it helps me pursue a stronger 
+relationship with them … Like, the questions that they ask me that I was concerned 
+about, I was comfortable with telling the truth without feeling ashamed.
+
+Racialized pregnancy stigma and obtaining services and resources
+
+Participants described how assumptions about Black pregnant women negatively affected 
+their access to resources intended to support healthy pregnancies. Several participants 
+perceived social service providers to be judgmental and unwelcoming based on their 
+attitudes and lines of questioning. Participant 17, who was financially supported by her 
+partner but was unable to find employment while pregnant, described her interaction: “But 
+[social services staff] stereotype you too, like basically, ‘Why are you not married yet? Are 
+you still with the father? What are you gonna do with another child?’” Interactions such as 
+these made women feel as if they were required to justify their reproductive choices and 
+prove they were worthy of services they are entitled to by law. Furthermore, women were 
+burdened with refuting the assumptions they encountered in this setting and proving 
+themselves as having the credentials to be treated with respect. Participant 13 described how 
+her interaction with social services staff improved after she revealed her level of education: 
+“And when I told her I have a four-year degree, that’s when, kind of, like her body language 
+and tone changed.”
+
+Participant 17 questioned whether difficulties in finding a new apartment were related to 
+being Black and pregnant: “He told me he rented out the apartment. I’m like, how did you 
+rent it out that fast? So, I figured, I guess, I don’t know, maybe because I was pregnant or 
+both … I’m African American, I don’t know.” Difficulties finding housing for growing 
+families was reported as a stressor, particularly for women receiving public assistance 
+benefits. Moreover, we found that women receiving public assistance benefits were highly 
+residentially mobile, which may have exposed them to more experiences of housing 
+discrimination, further impacting stress and pregnancy outcomes.
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 9
+
+Participants also noted challenges in obtaining social support in their surroundings and 
+reported that a lack of this type of support was a source of psychological stress. To meet her 
+needs of talking to supportive women, Participant 11 turned to an anonymous online 
+pregnancy support group, where she was able to avoid judgmental posts:
+
+Cause like, I’m pretty sure that if one of the women, one of the Caucasian women 
+or something, knew that they were talking to a 27-year old woman with 3 kids and 
+she’s Black, they wouldn’t really give me the type of respect cause we are all 
+anonymous on that app. You can’t upload no pictures … and you’re anonymous 
+and I think that’s good cause there’s no judgments going on up there, even if the 
+stories is wild.
+
+Countering racialized pregnancy stigma
+
+Consistent with Clark et al.’s (1999) biopsychosocial model of racism, encountering 
+racialized pregnancy stigma was a source of psychological stress for many participants. And 
+as Participant 8 declared, “Stress is one of the main things you don’t need in a pregnancy.”
+
+In response to racialized pregnancy stigma, participants reported using all four types of 
+coping in the Africentric framework of coping responses: interconnectedness, spirituality, 
+problem-oriented coping, and disengagement (Greer, 2007). For example, participants 
+sought emotional support from family members, used prayer, challenged those who 
+expressed the abovementioned assumptions, or ignored the encounter.
+
+For some participants, employment helped them distance themselves from these 
+assumptions by enabling them to live in or move to neighborhoods that signaled that they 
+did not have low incomes or were not receiving public assistance benefits. For others, 
+relationship status signified that they did not fit these assumptions. Participant 13, who was 
+employed and married, confirmed that she did not fit these assumptions, stating:
+
+I don't have any insecurities when it comes to being Black and pregnant, I think 
+because I'm probably not your stereotypical Black and pregnant and single. I am 
+married, I am Black, and I am pregnant. So that probably helps me feel even more 
+secure, I don’t know it that lets people like make people look different at me. I'm 
+not sure, maybe. Me being Black and pregnant, I love it. I’m comfortable, I'm 
+secure.
+
+Women embedded in families and communities that validated their personhood and their 
+pregnancy had experiences that celebrated their motherhood and were buffered from 
+experiences of racialized pregnancy stigma. Participant 4 expressed the joy of being 
+pregnant in her supportive community: “It’s exciting because everybody’s like supportive 
+and they rub my stomach and say, ‘Hey little boy, how you doing today?’ They call me 
+mom. ‘Hey mom, how you feeling today?’ So, it’s very exciting. It’s a lot of supportive 
+people in that area.”
+
+However, ultimately participants expressed a desire to change how Black pregnant women 
+were defined in society. Participant 14 articulated, “I think that it's important they know 
+there is a lot of us out there who really just want to work and grind and do what we have to 
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 10
+
+do for our new baby.” Participants countered these assumptions by defining themselves as 
+hard working, financially independent, and good providers for their families. Furthermore, 
+participants described their aspirations for their children’s economic success, including 
+planning to send or having already sent their children to college and desiring that they obtain 
+good jobs. Some participants, particularly those receiving public assistance benefits, also 
+countered negative assumptions by defining themselves as good mothers. Participant 9 
+asserted, “I am a hardworking mother. I’m very dedicated to being a mother.”
+
+Participants described how their families helped them define themselves. Participant 14 
+explained that her upbringing helped her respond to discrimination: “I've been blessed 
+because the African Americans that I'm around, in the family that I have, we're all very 
+proud. We're proud of who we are and where we’re from.” In turn, participants described 
+how they were going to bring up their children to conquer negative assumptions. Participant 
+22 shared, “I’m gonna explain to her like, you know, there are gonna be some people who 
+might look at you a certain type of way. Don’t let it get to you. Don’t let no one talk you 
+down.” Or as Participant 13 expressed, “I would definitely tell my child to be confident, to 
+be proud; definitely those two things. Be secure with your Blackness. Cause I think that's 
+what got me through.” This highlights not only how interconnectedness works as a potential 
+coping mechanism, but also the intergenerational consequences of discrimination. This 
+underlines the importance of understanding and addressing racialized pregnancy stigma: 
+these experiences impact not only women, but also their children.
+
+DISCUSSION
+
+Experiences of racism are common among Black women (Ertel et al., 2012; Vines et al., 
+2006): as many as one-quarter of higher SES women report racist experiences in medical 
+settings (Krieger & Sidney, 1996; Peters, Benkert, Templin, & Cassidy-Bushrow, 2014; 
+Vines et al., 2006). Furthermore, experiences of racism are associated with preterm birth 
+(Bower, Geller, Perrin, & Alhusen, 2018) and may contribute to racial disparities in infant 
+outcomes. Women burdened by the consequences of gendered racism and other forms of 
+stress may be at increased risk for poor pregnancy outcomes (Jackson et al., 2001). In 
+particular, Black pregnant women report feeling judged by society because of their 
+circumstances and this judgment is a source of stress that they consider to be a risk factor for 
+preterm birth (Giurgescu et al., 2013).
+
+Our research explored the experiences of Black pregnant women that may contribute to the 
+considerable disparities in birth outcomes they confront. We found that Black pregnant 
+women encountered gendered racism specific to pregnancy—which we refer to as racialized 
+pregnancy stigma—in a multitude of contexts and that these encounters contributed to the 
+sentiment that their pregnancies were devalued in society. Racialized pregnancy stigma may 
+contribute to poorer maternal and infant outcomes through increased stress and reduced 
+access to quality healthcare, services, resources, and social support, which may in turn lead 
+to delays in health seeking behavior, financial and material hardship—inadequate food, 
+housing, and medical care (Mayer & Jencks, 1989)—and reduced stress buffering.
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 11
+
+In addition to Black women in this study reporting experiences of racism throughout their 
+life course, they reported experiencing racialized pregnancy stigma. Women described 
+encountering assumptions consistent with the stereotype of welfare mothers, or, more 
+insidiously, welfare queens. Ronald Reagan is attributed with coining the term “welfare 
+queen” (Hancock, 2004) while campaigning for president in the 1970s (Mooney, 2012). This 
+public identity has two main dimensions in the political and media discourse—laziness and 
+hyperfertility—which, as Hancock asserts, defines Black women as devalued mothers 
+(Hancock, 2004). Rather than Black women with low incomes being perceived as worthy of 
+public assistance benefits they are entitled to receive (P. H. Collins, 2000), we found that 
+many encountered assumptions that they were burdening society.
+
+Furthermore, we found that participants encountered assumptions about single parenting 
+rooted in a historical discourse that blames the disintegration of family structure for 
+perpetuating the cycle of poverty and disadvantage in Black families (United States 
+Department of Labor Office of Policy Planning and Research, 1965), rather than the 
+structural challenges that Black communities confront (i.e., unemployment, wage disparities, 
+barriers to education, residential segregation, concentrated neighborhood poverty, and 
+incarceration) (Acs et al., 2013). As this and previous qualitative studies show (Giurgescu, 
+Banks, Dancy, & Norr, 2013; Harris-Perry, 2011; Murrell, Smith, Gill, & Oxley, 1996; 
+Nuru-Jeter et al., 2009), the use of the welfare queen stereotype persists, often regardless of 
+a woman’s age, education, income, insurance coverage, marital status, or parity (number of 
+births). Thus, the discourse of devaluing Black pregnant women persists.
+
+We found that encountering racialized pregnancy stigma in healthcare settings may lead to 
+reduced access to quality healthcare and unsatisfactory healthcare interactions. Encounters 
+where healthcare providers recommend tubal ligations by default perpetuate the historical 
+control of Black women’s fertility through permanent contraceptive procedures—from the 
+negative eugenics of forced sterilization of Black women with low incomes labeled as 
+“sexually indiscriminate and as bad mothers who were constrained by biology to give birth 
+to defective children” (Washington, 2006), to the coerced sterilization of Black women 
+enrolled in Medicaid as a solution to poverty (Roberts, 1997). Research shows single Black 
+women perceive their healthcare to be poorer in quality than that of married White women 
+(McLemore et al., 2018). Medicaid-insured women perceive that judgmental attitudes and 
+stereotypes affect healthcare interactions around contraception, particularly forced 
+contraception (Roman et al., 2017). Furthermore, prejudicial experiences, including 
+gendered racial stereotypes, in the healthcare setting can overshadow good treatment 
+(Benkert & Peters, 2005).
+
+Conversely, we found that women who have non-judgmental interactions with their 
+healthcare providers may feel more comfortable sharing important health information, which 
+may include risk factors for poor maternal and infant outcomes. Moreover, positive 
+healthcare experiences are linked to long-term relationships with healthcare providers 
+(Benkert & Peters, 2005). Having continued access to supportive healthcare may improve 
+the prevention, detection, and management of complex medical and social conditions, which 
+may in turn reduce disparities in pregnancy outcomes.
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 12
+
+Encountering racialized pregnancy stigma in other contexts may reduce a woman’s ability to 
+address important social determinants of health. Women who experience judgmental social 
+service interactions may not enroll in government programs (Stuber, Meyer, & Link, 2008). 
+Women who are denied housing may experience homelessness or housing instability. 
+Women who experience racialized pregnancy stigma in one grocery store may devote 
+additional time and resources to finding a new grocery store. For women who rely on public 
+transportation, this situation may present more of a challenge in obtaining basic necessities.
+
+Consistent with previous research, we found that Black pregnant women used a variety of 
+coping responses (Benkert & Peters, 2005; Lewis, Mendenhall, Harwood, & Browne Huntt, 
+2013; Shorter-Gooden, 2004), which may be the most effective way to minimize stress 
+(Everett, Hall, & Hamilton-Mason, 2010). However, avoidant coping responses may not be 
+an effective strategy for gendered racism (Thomas et al., 2008). Valuing oneself by 
+cultivating a positive self-image and supporting personal development may be a way to resist 
+negative stereotypes (Shorter-Gooden, 2004). Black women traditionally cope with 
+oppression through family networks and Black community institutions (P. H. Collins, 2000), 
+and within the context of family and community, the conceptualization of self is found (P. H. 
+Collins, 2000). Cultivating family and community networks may help Black pregnant 
+women define themselves.
+
+An additional form of gendered racism that may negatively impact pregnancy is the 
+assumption that Black boys and men are dangerous (Jackson, Phillips, Hogue, & Curry-
+Owens, 2001). Women reported that anticipating that their sons would encounter this 
+assumption, particularly by police, was an additional source of psychological stress. The 
+burden of protecting children from gendered racism before and during pregnancy may 
+increase the risk of poor pregnancy outcomes (Jackson et al., 2001). Nuru-Jeter and 
+colleagues recommend the development of a more comprehensive racism measure that 
+assesses the anticipation of future discrimination for women and their children (Nuru-Jeter 
+et al., 2009).
+
+The strengths of this study include using purposeful sampling to gain perspectives from 
+women of different socioeconomic groups, as many studies have only included women of 
+higher SES, and enrolling numerous women to explore all relevant codes and themes. 
+However, using primary source of financial support as a measure of SES may not be as 
+comparable as other measures such as income or education. Additionally, our findings may 
+be unique to New Haven and not transferable to other settings.
+
+IMPLICATIONS FOR PRACTICE AND/OR POLICY
+
+Participants reported encountering harmful racist assumptions and discriminatory treatment 
+in both healthcare and community settings, and that supportive families and communities 
+helped buffer them from experiences of racialized pregnancy stigma. Racism is deeply 
+entrenched in virtually every aspect of society in the US. However, we may be able to reduce 
+the way racialized pregnancy stigma manifests in specific settings that are relevant to 
+pregnancy outcomes by instituting bias training for healthcare and social service providers; 
+screening for racialized pregnancy stigma in healthcare settings and providing evidence-
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 13
+
+based coping strategies; and creating pregnancy support groups in healthcare and community 
+settings. Broader interventions in the community and society include developing a discourse 
+that values Black women and their pregnancies and addressing the structural challenges that 
+Black communities confront.
+
+CONCLUSION
+
+This study contributes to a growing body of evidence for the need to achieve reproductive 
+justice to address racial inequities in health. Racialized pregnancy stigma influences Black 
+pregnant women’s access to and quality of healthcare, social services, resources, and social 
+support; contributes to stress; and may contribute to poorer maternal and infant outcomes. 
+Understanding and addressing racialized pregnancy stigma may reduce intergenerational 
+consequences of discrimination. Further research on racialized pregnancy stigma and 
+maternal and infant health is warranted.
+
+Acknowledgments
+
+FUNDING STATEMENT
+
+This work was supported by the Agency for Healthcare Research and Quality (grant number T32HS017589); 
+National Center for Advancing Translational Science, a component of the National Institutes of Health (NIH) (grant 
+number TL1TR001864); Herman Fellowship, Yale School of Public Health; and Institution for Social and Policy 
+Studies Graduate Policy Fellows Program, Yale University. Its contents are solely the responsibility of the authors 
+and do not necessarily represent the official view of NIH.
+
+AUTHOR BIOGRAPHY
+
+Renee Mehra, PhD, was a doctoral candidate, Department of Chronic Disease 
+Epidemiology, Yale School of Public Health. Her research focuses on social and 
+psychosocial factors that contribute to racial inequities in maternal and child health.
+
+Lisa M. Boyd, PhD, was an associate research scientist, Department of Urology, Yale School 
+of Medicine. Her research focuses on the consequences of family and relationship 
+experiences for the well-being of individuals.
+
+Urania Magriples, MD, is a clinician and associate professor, Department of Obstetrics, 
+Gynecology and Reproductive Sciences, Yale School of Medicine. She is a Maternal-Fetal 
+Medicine specialist interested in researching innovative models for delivery of obstetric care.
+
+Trace Kershaw, PhD, is department chair and professor, Department of Social and 
+Behavioral Sciences, Yale School of Public Health. His research focuses on the social and 
+structural determinants of health among adolescents and emerging adults.
+
+Jeannette R. Ickovics, PhD, is the Samuel and Liselotte Herman Professor, Social and 
+Behavioral Sciences, Yale School of Public Health and Dean of Faculty, Yale-NUS College. 
+She investigates the biomedical, behavioral, social, and psychological factors that influence 
+individual and community health.
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 14
+
+Danya E. Keene, PhD, is an associate professor, Department of Social and Behavioral 
+Sciences, Yale School of Public Health. Her research explores how social policies contribute 
+to health inequality, particularly issues related to housing and place.
+
+REFERENCES
+
+Acs G, Braswell K, Sorensen E, & Turner MA (2013). The Moynihan Report revisited. Washington, 
+
+DC: Urban Institute.
+
+Benkert R, & Peters RM (2005). African American women's coping with health care prejudice. West J 
+
+Nurs Res, 27(7), 863–889; discussion 890-865. doi: 10.1177/0193945905278588 [PubMed: 
+16275704] 
+
+Bower KM, Geller RJ, Perrin NA, & Alhusen J (2018). Experiences of racism and preterm birth: 
+Findings from a Pregnancy Risk Assessment Monitoring System, 2004 through 2012. Womens 
+Health Issues, 28(6), 495–501. doi: 10.1016/j.whi.2018.06.002 [PubMed: 30049447] 
+
+Braveman PA, Heck K, Egerter S, Marchi KS, Dominguez TP, Cubbin C, … Curtis M (2015). The role 
+of socioeconomic factors in black-white disparities in preterm birth. Am J Public Health, 105(4), 
+694–702. doi: 10.2105/ajph.2014.302008 [PubMed: 25211759] 
+
+Buka SL, Brennan RT, Rich-Edwards JW, Raudenbush SW, & Earls F (2003). Neighborhood support 
+
+and the birth weight of urban infants. Am J Epidemiol, 157(1), 1–8. [PubMed: 12505884] 
+
+Cabral H, Fried LE, Levenson S, Amaro H, & Zuckerman B (1990). Foreign-born and US-born black 
+women: Differences in health behaviors and birth outcomes. Am J Public Health, 80(1), 70–72. 
+[PubMed: 2293806] 
+
+Clark R, Anderson NB, Clark VR, & Williams DR (1999). Racism as a stressor for African 
+
+Americans. A biopsychosocial model. Am Psychol, 54(10), 805–816. [PubMed: 10540593] 
+
+Colen S (1995). "Like a mother to them": Stratified reproduction and West Indian childcare workers 
+and employers in New York In Ginsburg FD & Rapp R (Eds.), Conceiving The New World Order: 
+The Global Politics Of Reproduction (pp. 78–102). Berkeley, CA: University of California Press.
+Collins JW Jr., Soskolne GR, Rankin KM, & Bennett AC (2013). Differing first year mortality rates of 
+term births to white, African-American, and Mexican-American US-born and foreign-born mothers. 
+Matern Child Health J, 17(10), 1776–1783. doi: 10.1007/s10995-012-1197-2 [PubMed: 23196412] 
+
+Collins JW Jr., Wu SY, & David RJ (2002). Differing intergenerational birth weights among the 
+descendants of US-born and foreign-born whites and African Americans in Illinois. Am J 
+Epidemiol, 155(3), 210–216. [PubMed: 11821245] 
+
+Collins PH (2000). Black feminist thought: Knowledge, consciousness, and the politics of 
+
+empowerment (Second ed.). New York: Routledge.
+
+Corbin A, & Strauss J (1998). Basics of qualitative research: Techniques and procedures for 
+
+developing a grounded theory. Thousand Oaks, CA: Sage.
+
+Creanga AA, Berg CJ, Syverson C, Seed K, Bruce FC, & Callaghan WM (2015). Pregnancy-related 
+
+mortality in the United States, 2006-2010. Obstet Gynecol, 125(1), 5–12. doi: 10.1097/
+aog.0000000000000564 [PubMed: 25560097] 
+
+Crenshaw K (1989). Demarginalizing the intersection of race and sex: A black feminist critique of 
+antidiscrimination doctrine, feminist theory and antiracist politics. University of Chicago Legal 
+Forum(1), 139–167.
+
+David RJ, & Collins JW Jr. (1997). Differing birth weight among infants of U.S.-born blacks, African-
+
+born blacks, and U.S.-born whites. N Engl J Med, 337(17), 1209–1214. doi: 10.1056/
+nejm199710233371706 [PubMed: 9337381] 
+
+Dominguez TP (2011). Adverse birth outcomes in African American women: the social context of 
+
+persistent reproductive disadvantage. Soc Work Public Health, 26(1), 3–16. doi: 
+10.1080/10911350902986880 [PubMed: 21213184] 
+
+Dominguez TP, Dunkel-Schetter C, Glynn LM, Hobel C, & Sandman CA (2008). Racial differences in 
+birth outcomes: The role of general, pregnancy, and racism stress. Health Psychol, 27(2), 194–203. 
+doi: 10.1037/0278-6133.27.2.194 [PubMed: 18377138] 
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 15
+
+Ertel KA, James-Todd T, Kleinman K, Krieger N, Gillman M, Wright R, & Rich-Edwards J (2012). 
+Racial discrimination, response to unfair treatment, and depressive symptoms among pregnant 
+black and African American women in the United States. Ann Epidemiol, 22(12), 840–846. doi: 
+10.1016/j.annepidem.2012.10.001 [PubMed: 23123506] 
+
+Essed P (1991). Understanding everyday racism: An interdisciplinary theory. Thousand Oaks: Sage.
+Everett JE, Hall JC, & Hamilton-Mason J (2010). Everyday conflict and daily stressors: Coping 
+
+responses of Black women. Affilia: J Women and Soc Work, 25(1), 30–42.
+
+GBD 2015 Maternal Mortality Collaborators. (2016). Global, regional, and national levels of maternal 
+mortality, 1990-2015: A systematic analysis for the Global Burden of Disease Study 2015. Lancet, 
+388(10053), 1775–1812. doi: 10.1016/s0140-6736(16)31470-2 [PubMed: 27733286] 
+
+Geronimus AT (1992). The weathering hypothesis and the health of African-American women and 
+
+infants: Evidence and speculations. Ethn Dis, 2(3), 207–221. [PubMed: 1467758] 
+
+Giurgescu C, Banks A, Dancy BL, & Norr K (2013). African American women's views of factors 
+impacting preterm birth. MCN Am J Matern Child Nurs, 38(4), 229–234. doi: 10.1097/
+NMC.0b013e318293bbbb [PubMed: 23812061] 
+
+Goldenberg RL, Cliver SP, Mulvihill FX, Hickey CA, Hoffman HJ, Klerman LV, & Johnson MJ 
+
+(1996). Medical, psychosocial, and behavioral risk factors do not explain the increased risk for low 
+birth weight among black women. Am J Obstet Gynecol, 175(5), 1317–1324. [PubMed: 8942508] 
+Greer TM (2007). Measuring coping strategies among African Americans: An exploration of the latent 
+
+structure of the COPE inventory. J Black Psychol, 33(3), 260–277. doi: 
+10.1177/0095798407302539
+
+Hancock A (2004). Politics of disgust: The public identity of the welfare queen New York: New York 
+
+University Press.
+
+Harris-Perry MV (2011). Sister citizen: Shame, stereotypes, and black women in America. New 
+
+Haven: Yale University Press.
+
+Howard DL, Marshall SS, Kaufman JS, & Savitz DA (2006). Variations in low birth weight and 
+
+preterm delivery among blacks in relation to ancestry and nativity: New York City, 1998-2002. 
+Pediatrics, 118(5), e1399–1405. doi: 10.1542/peds.2006-0665 [PubMed: 17079541] 
+
+Jackson FM, Phillips MT, Hogue CJ, & Curry-Owens TY (2001). Examining the burdens of gendered 
+racism: Implications for pregnancy outcomes among college-educated African American women. 
+Matern Child Health J, 5(2), 95–107. [PubMed: 11573844] 
+
+Jerald MC, Cole ER, Ward L, & Avery LR (2017). Controlling images: How awareness of group 
+stereotypes affects Black women's well-being. J Couns Psychol, 64(5), 487–499. [PubMed: 
+29048195] 
+
+Krieger N (1990). Racial and gender discrimination: Risk factors for high blood pressure? Soc Sci 
+
+Med, 30(12), 1273–1281. [PubMed: 2367873] 
+
+Krieger N (2012). Methods for the scientific study of discrimination and health: An ecosocial 
+
+approach. Am J Public Health, 102(5), 936–944. doi: 10.2105/ajph.2011.300544 [PubMed: 
+22420803] 
+
+Krieger N, & Sidney S (1996). Racial discrimination and blood pressure: The CARDIA Study of 
+
+young black and white adults. Am J Public Health, 86(10), 1370–1378. doi: 10.2105/
+ajph.86.10.1370 [PubMed: 8876504] 
+
+Lazarus RS, & Folkman S (1984). Stress, appraisal, and coping. New York: Springer.
+Lewis JA, Mendenhall R, Harwood SA, & Browne Huntt M (2013). Coping with gendered racial 
+
+microaggressions among black women college students. J African American Stud, 17(1), 51–73. 
+doi: 10.1007/s12111-012-9219-0
+
+Lewis JA, & Neville HA (2015). Construction and initial validation of the Gendered Racial 
+
+Microaggressions Scale for black women. J Couns Psychol, 62(2), 289–302. doi: 10.1037/
+cou0000062 [PubMed: 25867696] 
+
+Lewis JA, Williams MG, Peppers EJ, & Gadson CA (2017). Applying intersectionality to explore the 
+relations between gendered racism and health among black women. J Couns Psychol, 64(5), 475–
+486. doi: 10.1037/cou0000231 [PubMed: 29048194] 
+
+Lu MC, & Halfon N (2003). Racial and ethnic disparities in birth outcomes: A life-course perspective. 
+
+Matern Child Health J, 7(1), 13–30. [PubMed: 12710797] 
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 16
+
+Martin JA, Hamilton BE, Osterman MJ, Driscoll AK, & Mathews TJ (2017). Births: Final data for 
+
+2015. Natl Vital Stat Rep, 66(1), 1–69.
+
+Martin JA, Hamilton BE, Osterman MJK, Driscoll AK, & Drake P (2018a). Births: Final data for 
+
+2016. Natl Vital Stat Rep, 67(1), 1–55.
+
+Martin JA, Hamilton BE, Osterman MJK, Driscoll AK, & Drake P (2018b). Births: Final data for 
+
+2017. Natl Vital Stat Rep, 67(8), 1–50.
+
+Mayer S, & Jencks C (1989). Poverty and the distribution of material hardship. J Hum Resour, 24, 88–
+
+113.
+
+McLemore MR, Altman MR, Cooper N, Williams S, Rand L, & Franck L (2018). Health care 
+
+experiences of pregnant, birthing and postnatal women of color at risk for preterm birth. Soc Sci 
+Med, 201, 127–135. doi: 10.1016/j.socscimed.2018.02.013 [PubMed: 29494846] 
+
+McNeilly MD, Anderson NB, Armstead CA, Clark R, Corbett M, Robinson EL, … Lepisto EM 
+
+(1996). The Perceived Racism Scale: A multidimensional assessment of the experience of white 
+racism among African Americans. Ethn Dis, 6, 154–166. [PubMed: 8882844] 
+
+Mohlman MK, & Levy DT (2016). Disparities in maternal child and health outcomes attributable to 
+prenatal tobacco use. Matern Child Health J, 20(3), 701–709. doi: 10.1007/s10995-015-1870-3 
+[PubMed: 26645613] 
+
+Mooney KJ (2012). Ronald Reagan’s “welfare queens” re-emerge as debate intensifies over 
+
+“dependency portal”. http://oceanstatecurrent.com/analysis/ronald-reagans-welfare-queens-re-
+emerge-as-debate-intensifies-over-dependency-portal/
+
+Morenoff JD (2003). Neighborhood mechanisms and the spatial dynamics of birth weight. AJS, 
+
+108(5), 976–1017. [PubMed: 14560732] 
+
+Murrell NL, Smith R, Gill G, & Oxley G (1996). Racism and health care access: A dialogue with 
+
+childbearing women. Health Care for Women International, 17(2), 149–159. doi: 
+10.1080/07399339609516229 [PubMed: 8852217] 
+
+Nuru-Jeter A, Dominguez TP, Hammond WP, Leu J, Skaff M, Egerter S, … Braveman P (2009). "It's 
+
+the skin you're in": African-American women talk about their experiences of racism. An 
+exploratory study to develop measures of racism for birth outcome studies. Matern Child Health J, 
+13(1), 29–39. doi: 10.1007/s10995-008-0357-x [PubMed: 18463971] 
+
+O'Campo P, Xue X, Wang MC, & Caughy M (1997). Neighborhood risk factors for low birthweight in 
+Baltimore: A multilevel analysis. Am J Public Health, 87(7), 1113–1118. [PubMed: 9240099] 
+Oliver EA, Klebanoff M, Yossef-Salameh L, Oza-Frank R, Moosavinasab S, Reagan P, … Buhimschi 
+IA (2018). Preterm birth and gestational length in four race-nativity groups, including Somali 
+Americans. Obstet Gynecol, 131(2), 281–289. doi: 10.1097/aog.0000000000002427 [PubMed: 
+29324604] 
+
+Paradies Y (2006). A systematic review of empirical research on self-reported racism and health. Int J 
+
+Epidemiol, 35(4), 888–901. doi: 10.1093/ije/dyl056 [PubMed: 16585055] 
+
+Pascoe EA, & Smart Richman L (2009). Perceived discrimination and health: A meta-analytic review. 
+
+Psychol Bull, 135(4), 531–554. [PubMed: 19586161] 
+
+Pearl M, Braveman P, & Abrams B (2001). The relationship of neighborhood socioeconomic 
+
+characteristics to birthweight among 5 ethnic groups in California. Am J Public Health, 91(11), 
+1808–1814. [PubMed: 11684609] 
+
+Peters RM, Benkert R, Templin TN, & Cassidy-Bushrow AE (2014). Measuring African American 
+women's trust in provider during pregnancy. Res Nurs Health, 37(2), 144–154. doi: 10.1002/
+nur.21581 [PubMed: 24395526] 
+
+Price KJ (2010). What is reproductive justice?: How women of color activists are redefining the pro-
+
+choice paradigm. Meridians, 10(2), 42–65. doi: 10.2979/meridians.2010.10.2.42
+
+Roberts D (1997). Killing the black body: Race, reproduction, and the meaning of liberty. New York, 
+
+NY: Pantheon Books.
+
+Roman LA, Raffo JE, Dertz K, Agee B, Evans D, Penninga K, … VanderMeulen P (2017). 
+
+Understanding perspectives of African American Medicaid-insured women on the process of 
+perinatal care: An opportunity for systems improvement. Matern Child Health J, 21(Suppl 1), 81–
+92. doi: 10.1007/s10995-017-2372-2 [PubMed: 28965183] 
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Mehra et al.
+
+Page 17
+
+Rosenthal L, & Lobel M (2011). Explaining racial disparities in adverse birth outcomes: Unique 
+sources of stress for black American women. Soc Sci Med, 72(6), 977–983. doi: 10.1016/
+j.socscimed.2011.01.013 [PubMed: 21345565] 
+
+Rosenthal L, & Lobel M (2018). Gendered racism and the sexual and reproductive health of black and 
+
+latina women. Ethn Health, 1–26. doi: 10.1080/13557858.2018.1439896
+
+Ross L, & Solinger R (2017). Reproductive justice: An introduction. Oakland, CA: University of 
+
+California Press.
+
+Shorter-Gooden K (2004). Multiple resistance strategies: How African American women cope with 
+
+racism and sexism. J Black Psychol, 30(3), 406–425.
+
+Sister Song. (n.d.). Reproductive Justice. https://www.sistersong.net/reproductive-justice
+Stuber J, Meyer I, & Link B (2008). Stigma, prejudice, discrimination and health. Soc Sci Med, 67(3), 
+
+351–357. doi: 10.1016/j.socscimed.2008.03.023 [PubMed: 18440687] 
+
+Thomas AJ, Witherspoon KM, & Speight SL (2008). Gendered racism, psychological distress, and 
+coping styles of African American women. Cultural Diversity and Ethnic Minority Psychology, 
+14(4), 307–314. [PubMed: 18954166] 
+
+Timmermans S, & Tavory I (2012). Theory construction in qualitative research: From grounded theory 
+to abductive analysis. Sociological Theory, 30(3), 167–186. doi: 10.1177/0735275112457914
+United States Census Bureau. (2017). ACS 2017 (5-year estimates). Prepared by Social Explorer. 
+
+Accessed December 2, 2019.
+
+United States Department of Labor Office of Policy Planning and Research. (1965). The negro family: 
+
+The case for national action. Washington, DC: United States Department of Labor.
+
+Utsey SO, Adams EP, & Bolden M (2000). Development and initial validation of the Africultural 
+
+Coping Systems Inventory. J Black Psychol, 26(2), 194–215.
+
+Vines AI, Baird DD, McNeilly M, Hertz-Picciotto I, Light KC, & Stevens J (2006). Social correlates 
+
+of the chronic stress of perceived racism among black women. Ethn Dis, 16(1), 101–107. 
+[PubMed: 16599356] 
+
+Vines AI, McNeilly MD, Stevens J, Hertz-Picciotto I, Baird M, & Baird DD (2001). Development and 
+
+reliability of a Telephone-Administered Perceived Racism Scale (TPRS): A tool for 
+epidemiological use. Ethn Dis, 11(2), 251–262. [PubMed: 11456000] 
+
+Washington HA (2006). Medical apartheid: The dark history of medical experimentation on black 
+
+Americans from colonial times to the present. New York: Anchor Books.
+
+Xu J, Murphy SL, Kochanek KD, Bastian B, & Arias E (2018). Deaths: Final data for 2016. Natl Vital 
+
+Stat Rep, 67(5), 1–76.
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+ 
+ 
+ 
+ 
+Mehra et al.
+
+Page 18
+
+Sample questions on semi-structured interview guide
+
+Domains
+
+Sample questions
+
+Table 1.
+
+Things that either helped or hindered their 
+ability to have a healthy pregnancy
+
+In general, what are the things that help you have a healthy pregnancy?
+In general, what are the things that make it hard to have a healthy pregnancy?
+
+Experiences of interpersonal and structural 
+racism
+
+Experiences of living in their 
+neighborhood
+
+Neighborhood attributes that helped them 
+to have a healthy pregnancy or make 
+healthy decisions about their pregnancy
+
+Concerns related to pregnancy and 
+parenting Black children
+
+What is it like to be Black and pregnant?
+Can you tell me a time when you felt discriminated against?
+Why did you choose to live in your neighborhood?
+What is it like to be pregnant in your neighborhood?
+
+Can you tell me what it’s like to live in your neighborhood?
+
+What are the healthy/unhealthy aspects of your neighborhood?
+How does your neighborhood help you have a healthy pregnancy?
+
+Are there things that are stressful (or make you worry) during your pregnancy?
+As a future parent, are there things that you are worried about for your infant?
+What are you going to tell your child about being Black/growing up Black in this neighborhood 
+(the talk)?
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+ 
+ 
+ 
+ 
+Mehra et al.
+
+Page 19
+
+Characteristics of 24 participants
+
+Characteristic
+
+Demographics
+
+  Age, median (range)
+
+  Primary source of financial support
+
+  Public assistance benefits
+
+Table 2.
+
+Descriptive summary
+
+32 (21-45)
+
+10 (42%)
+
+  Employment (participant, partner, or family member)
+
+14 (58%)
+
+  Relationship status
+
+  Married
+
+  Living with/has a partner
+
+  Single
+
+  Unknown
+
+Pregnancy and reproductive history
+
+  Gestational age in weeks, median (range)
+
+  Nulliparity (no previous births)
+
+7 (29%)
+
+6 (25%)
+
+5 (21%)
+
+6 (25%)
+
+22.5 (5-38)
+
+14 (58%)
+
+Womens Health Issues. Author manuscript; available in PMC 2021 November 01.
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

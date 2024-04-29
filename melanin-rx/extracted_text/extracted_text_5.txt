@@ -1,0 +1,2219 @@
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+HHS Public Access
+Author manuscript
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+Published in final edited form as:
+
+Womens Health Issues. 2021 ; 31(1): 75–81. doi:10.1016/j.whi.2020.09.002.
+
+Racial and ethnic disparities in severe maternal morbidity: A 
+qualitative study of women’s experiences of peripartum care
+
+Eileen Wang, BAa, Kimberly B. Glazer, PhD, MPHb, Shoshanna Sofaer, DrPH, MPHc,d, Amy 
+Balbierz, MPHb, Elizabeth A. Howell, MD, MPPe
+aDepartment of Medical Education, Icahn School of Medicine at Mount Sinai, New York, NY, USA;
+
+bBlavatnik Family Women’s Health Institute, Icahn School of Medicine at Mount Sinai, New York, 
+NY, USA; Department of Population Health Science & Policy, Icahn School of Medicine at Mount 
+Sinai, New York, NY, USA;
+
+cAmerican Institutes for Research, Washington, DC, USA;
+
+dGraduate School of Public Health and Health Policy, City University of New York, New York City, 
+NY, USA;
+
+eDepartment of Obstetrics & Gynecology, Perelman School of Medicine, University of 
+Pennsylvania.
+
+Abstract
+
+Background—Racial and ethnic disparities in rates of maternal morbidity and mortality in the 
+United States are striking and persistent. Despite evidence that variation in quality of care 
+contributes substantially to these disparities, we do not sufficiently understand how experiences of 
+perinatal care differ by race and ethnicity among women with severe maternal morbidity.
+
+Methods—We conducted focus groups with women who experienced a severe maternal 
+morbidity event in a New York City hospital during their most recent pregnancy (n=20). We 
+organized three focus groups by self-identified race/ethnicity ([1] Black, [2] Latina, and [3] White 
+or Asian) to detect any within- and between-group differences. Discussions were audiotaped and 
+transcribed. The research team coded transcripts and used content analysis to identify key themes 
+and to compare findings across racial and ethnic groups.
+
+Results—Participants reported distressing experiences and lasting emotional consequences after 
+having a severe childbirth complication. Many women appreciated the life-saving care they 
+received. However, poor continuity of care, communication gaps, and a perceived lack of 
+attentiveness to participants’ physical and emotional needs led to substantial concern and 
+disappointment in care. Black and Latina women in particular emphasized these themes.
+
+Corresponding Author: Eileen Wang, BA. Department of Medical Education, Icahn School of Medicine at Mount Sinai, One 
+Gustave L. Levy Place, NY, NY 10029, eileen.wang@icahn.mssm.edu. 
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our 
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of 
+the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered 
+which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 2
+
+Conclusion—This study highlights missed opportunities for improved clinician communication 
+and continuity of care to address emotional trauma when severe obstetric complications occur, 
+particularly for Black and Latina women. Enhancing communication to ensure that women feel 
+heard and informed throughout the birth process and addressing implicit bias, as part of the more 
+systemic issue of institutionalized racism, could both lessen disparities in obstetric care quality 
+and improve the patient experience for women of all races and ethnicities.
+
+INTRODUCTION
+
+Racial and ethnic disparities in maternal outcomes are a persistent public health issue in the 
+United States (US). Black women are twice as likely to experience severe maternal 
+morbidity (SMM) and three to four times more likely to die of pregnancy-related causes 
+compared to non-Hispanic White women; in New York City (NYC), their pregnancy-related 
+mortality risk increases to 8-fold (Boyd et al., 2020). Similarly, Latina, Asian/Pacific 
+Islander, and American Indian/Alaska Native women are 20% more likely to experience 
+SMM (Creanga et al., 2013; Creanga et al., 2017) and twice as likely to die from a 
+pregnancy-related cause in some US cities (Boyd et al., 2020). Racial disparities in this 
+country may in part be due to structural racism creating inequitable racial distribution of 
+sociodemographic and clinical risk factors such as education, insurance status, and maternal 
+co-morbidities that affect maternal outcomes (Wang et al., 2020). However, even when 
+adjusting for these factors, racial disparities remain. Though not well-studied, potential 
+underlying mechanisms for such disparities include delayed or insufficient prenatal care 
+utilization, psychosocial stressors, and interpersonal racism and discrimination (Bryant et 
+al., 2010; Gadson et al., 2017).
+
+Institutionalized racism in the health care system, defined by Jones (2000) as differential 
+access to services and goods by race, may also play an important role in racial disparities. In 
+NYC, risk-adjusted rates of SMM vary six- to seven-fold across hospitals, and Black and 
+Latina women in particular tend to deliver at higher morbidity hospitals (Howell et al., 
+2016a; Howell et al., 2017a). Studies show that Black-White and Latina-White differences 
+in delivery location may contribute as much as 48% of the racial disparity and 37% of the 
+ethnic disparity in SMM rates in NYC (Howell et al., 2016b; Howell et al., 2017a). Hospital 
+quality could be a key factor in explaining these differences. Hospitals that serve a higher 
+percentage of people of color may have structural characteristics, organizational factors, and 
+clinical processes that lead to lower quality of care than hospitals that serve a higher 
+percentage of White patients (Howell et al., 2017b). Black and Latina women may also 
+experience suboptimal care even within the same hospital, due to differential patterns of care 
+or implicit bias among providers (Howell et al., 2017b). Therefore, improving quality of care 
+is a critical lever for reducing racial and ethnic disparities in maternal outcomes.
+
+A key component to understanding how to improve health care quality is to examine 
+women’s experiences of SMM and how they might differ across races and ethnicities. 
+Previous qualitative studies in the US have examined the role of patient-provider interaction 
+during pregnancy and childbirth among women of color (Altman et al., 2019) or experiences 
+of pregnancy-related care among those at risk of preterm birth (McLemore et al., 2018). 
+However, no study in the US has yet examined the experiences of women with severe 
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 3
+
+peripartum complications, particularly through the lens of racial disparities (Furuta et al., 
+2014; Hinton et al., 2015; Norhayati et al., 2015; Silva et al., 2016). The objectives of this 
+study were to document women’s experiences of severe maternal morbidity, identify 
+perceived barriers to the receipt of high-quality obstetric care, and compare narratives across 
+race/ethnicity.
+
+MATERIALS AND METHODS
+
+This study was approved by the Icahn School of Medicine at Mount Sinai Institutional 
+Review Board. We used focus group methodology to allow study participants to freely 
+express their opinions among others with similar experiences (Morgan et al., 1993). 
+Additionally, we organized focus groups by self-identified race or ethnicity, which allowed 
+us to identify social processes and knowledge that might be shared within each racial/ethnic 
+group and to compare and contrast experiences across groups (Hughes et al., 1993).
+
+Participant Characteristics and Recruitment
+
+This study used a purposive convenience sample of women who delivered at a large 
+academic medical center in New York City. Since SMM events are quite rare (<3%), we 
+received a Health Insurance Portability and Accountability Act (HIPAA) waiver of 
+authorization to review medical charts. The research team used SMM ICD-9/10 codes 
+derived from Callaghan et al. (2008) to identify women who appeared eligible for the study. 
+We then contacted potential participants by letter and telephone to screen further for 
+eligibility. Recruitment flyers were also posted in nearby community-based organizations 
+and clinical settings that serve pregnant or postpartum women. Inclusion criteria were: (1) 
+delivery between June 1, 2016 and June 1, 2018 and (2) experience of a severe maternal 
+morbidity outcome during delivery hospitalization or postpartum leading to readmission. 
+Indicators of severe morbidity included, but were not limited to: intensive care unit 
+admission, emergency surgery (e.g. hysterectomy), blood transfusion, organ failure, blood 
+clot, seizure, stroke, eclampsia, sickle cell crisis, or hospital readmission within six weeks 
+postpartum (Callaghan et al., 2008).
+
+Data Collection
+
+We conducted three focus groups with a total of 20 participants. Each group had four to 
+eight participants. Because our research question addressed outcomes among Black and 
+Latina women, who experience the largest disparities in SMM, we stratified the groups into: 
+Black (FG1), Latina (FG2), and Other, including White and Asian (FG3), as a basis of 
+comparison to Black and Latina women. We explained the purpose of the study during 
+recruitment and obtained written informed consent at the start of focus group sessions. At 
+each group, participants completed an anonymous demographic questionnaire with 
+information on age, marital status, education, employment, income, parity, and source of 
+insurance.
+
+Five researchers comprised the study team. All five identify as women and have training in 
+public health or health services research; two are also clinicians. Two researchers 
+experienced in qualitative research methods acted as moderators, one of whom identifies as a 
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 4
+
+woman of color and led the focus groups with Black and Latina women. Focus groups lasted 
+approximately 90 minutes and were professionally tape recorded and transcribed verbatim. 
+Research team members other than the moderators observed and recorded field notes on 
+verbal expressions, body language, group dynamics, and discussion content.
+
+The moderators used a semi-structured focus group moderator guide with open-ended 
+questions (see Supplemental File 1) to elicit participants’ experiences of pregnancy and 
+childbirth, difficulties in receiving care, communication with clinicians, and experienced or 
+observed instances of perceived discrimination.
+
+Data Analysis
+
+Data were analyzed using qualitative content analysis in which the content of the focus 
+groups is interpreted through a systematic process of coding and identifying themes and 
+patterns (Hsieh et al., 2005; Mayring, 2014; Miles et al., 1994). Three team members (EW, 
+KG, SS), with training in medicine, epidemiology, and health services research, read all 
+transcripts. EW inductively generated codes from initial reading of the text, which were then 
+defined and used to develop a codebook that the research team reviewed and finalized. Two 
+researchers (EW, KG) then independently applied the codes line-by-line to the transcripts 
+using NVivo V.12 qualitative software. We did not formally test for inter-coder reliability, 
+but there were very few instances of coding differences between the two analysts; discrepant 
+cases were discussed and resolved by the coders. EW and KG then used the text applied for 
+each code to develop memos that summarized and described higher-level concepts, 
+relationships, and constructs (Birks et al., 2008). We also marked content within each code 
+by the focus group it came from, thus allowing for comparison of racial or ethnic differences 
+within codes. EW and KG then collaborated to organize these findings into resulting themes 
+and to highlight illustrative quotes.
+
+RESULTS
+
+The study population was 40% (n=8) Black, 40% (n=8) White or Asian, and 20% (n=4) 
+Latina. Three-fourths (n=9 of 12) of Black and Latina participants had Medicaid coverage, 
+while all White and Asian participants were commercially insured. Additional socio-
+demographics of the study population are presented in Table 1. While we recruited eight 
+Latina participants, only four were able to attend the focus group session due to serious 
+inclement weather.
+
+Distressing experiences of childbirth & recovery
+
+Nearly all participants reported distressing childbirth experiences related to their maternal 
+morbidity. Among some women, lingering emotional consequences and psychological 
+trauma were apparent even at the focus groups (up to two years following delivery). 
+Participants repeatedly said they did not understand what had happened to them. Many 
+women spoke with palpable anguish, and several cried recalling delivery and postpartum 
+events: “I thought I was dying. I just saw bright light, I said, okay… and [crying]… excuse 
+me” [FG2]. When asked to describe their experience in a single word, women responded: 
+“scary,” “confusing,” “lost,” “traumatized,” “alone,” “rough,” “complicated,” “stress,” and 
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 5
+
+“frustrating.” For one woman, the traumatic memories of her complicated childbirth 
+overshadowed positive experiences of new motherhood: “I think I forgot that I had a baby, it 
+was just complications” [FG3]. Several women mentioned that they were fearful of having 
+another delivery or even, as one woman said, would “never want to have another baby” 
+[FG2].
+
+Loneliness and fear during and after childbirth, for example when separated from partners 
+for extended periods, compounded the physical experience of complications. According to 
+one participant,
+
+“I went into the operating room after I delivered, because they had to remove the 
+placenta. And then afterwards I had to stay in the operating room/recovery room, 
+but forever. I felt like I was there for almost 24 hours. And that was miserable.” 
+[FG3]
+
+Participants felt that protracted separation from their infants as they recovered from severe 
+complications impeded initial bonding opportunities. Women reported struggling with 
+competing demands as patients recovering from physical and emotional trauma and new 
+mothers adjusting to their caregiving role. One woman described separation from her child 
+with vivid frustration and resentment:
+
+“I was very afraid that she wasn’t going to take [to breastfeeding] because I hadn’t 
+seen her. That’s traumatizing. At least bring her picture. I’d like to know what she 
+looks like...” [FG1]
+
+The description of childbirth as a distressing, even traumatic, event was universal across all 
+three focus groups. In the following results, we summarize elements of perinatal care 
+identified by participants that exacerbated or reduced the stress of this experience and 
+differences in experiences of care among racial and ethnic groups.
+
+Continuity of care and provider communication
+
+Women discussed issues with continuity of care and provider communication at length, both 
+during prenatal care and delivery. Lack of continuity during prenatal care was an issue 
+particularly for Black and Latina women, many of whom had rotating prenatal providers due 
+to their Medicaid insurance plan. They described extended wait times, brief clinical 
+encounters, and gaps in communication among clinicians, such as feeling that their case 
+history was not conveyed or that they received conflicting clinical opinions and health 
+information across providers. This hindered trust-building, and the lack of familiarity 
+between provider and patient, both during prenatal care and at the time of birth, was thought 
+by women to lead to poorer peripartum experiences. As one woman explained,
+
+“They really didn’t take care of me while I was delivering. At the beginning they 
+were telling me that I have a lot of amniotic fluid. At the end, when I came to the 
+hospital they were telling me that there is no fluid, so they had to induce me to 
+deliver the baby … If you have one doctor, one person following you, I think they 
+will know better and avoid those kinds of mistakes.” [FG1]
+
+“I had a different doctor that delivered my baby, not the doctor that I had been 
+seeing. That was my problem. Right after having my baby, I had complications, and 
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 6
+
+it was another doctor. I had seen too many doctors [during the birth] so that I got 
+panicky and frustrated. Once he [my OB/GYN] got in, that’s when I started 
+calming down, and that’s when everything that was happening to me started to get 
+back to normal.” [FG1]
+
+On the other hand, some women, primarily in the White and Asian focus group, described 
+how information and education from providers during prenatal care improved their 
+experience during emergency deliveries. For example, one participant had discussed the use 
+of forceps and vacuum extraction with her provider during prenatal care, which helped her to 
+feel prepared and consulted when instrumental delivery was required:
+
+“It just so happened that the vacuum conversation was [with] the doctor who ended 
+up delivering me. So I felt very fortunate.” [FG3]
+
+During the delivery hospitalization or postpartum readmission, a few women among all three 
+focus groups cited disagreements between different hospital departments and specialists 
+regarding the plan of care (e.g. when to transfer to the intensive care unit, or epidural versus 
+general anesthesia), causing them to question the quality of care received. One woman was 
+sent to the intensive care unit (ICU) after a cesarean delivery complicated by a postpartum 
+hemorrhage, without knowing why:
+
+“They sent me to ICU overnight. ICU said, ‘we don’t know why they sent you here. 
+We don’t know the pregnant body.’ Like they basically said we’re sending you 
+back. It just seemed like the two teams were talking but not talking. They didn’t 
+know what they were doing.” [FG1]
+
+Another woman with a high-risk pregnancy noted,
+
+“My problem was that I had three or four different doctors, and none of them talked 
+to each other, as far as I could tell. So they would contradict each other to me in 
+terms of when I could leave, in terms of when I’d get a particular test.” [FG3]
+
+Others felt inadequately apprised of their complications when they were identified. They 
+wanted more information than they received about the details of what was going to happen 
+to them and the necessity of these unexpected procedures. These women described a hectic, 
+rushed delivery experience and said they did not receive a clear explanation of what 
+transpired during or after birth. As one woman explained,
+
+“As of today, I don’t understand what happened. No one has a clear explanation, 
+and I feel like I’m fighting against a system trying to find out what happened.” 
+[FG2]
+
+Another added,
+
+“They just rushed me to the OR, and that was it. I was just lying there like I’m cold. 
+I’m shaking. I know I’m not feeling good, but nobody is telling me anything. 
+Nobody is telling me what’s wrong with me. Nobody is giving me medication. 
+Nobody is doing anything but putting a blanket on me.” [FG1]
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 7
+
+In a few instances, lack of communication was perceived as intentional and not just an 
+oversight. These women did not know why clinical decisions were made and felt that their 
+attempts to learn more or push back were met with resistance.
+
+“They were like ‘no you need a C-section,’ so I’m asking them, ‘why do I need a 
+C-section,’ and they’re like ‘don’t worry about it.’” [FG1]
+
+Women generally acknowledged the need for rapid treatment and expressed deference to 
+clinical expertise in emergency scenarios, one noting, “I think that the staff were working 
+within what they had and the resources they had” [FG1]. Their concerns resulted from not 
+feeling sufficiently informed, and the distressing experiences of complications, rather than a 
+desire to be involved in decision-making:
+
+“I feel like I got good care, I think I just had a bad experience. I don’t know what 
+happened to me. In terms of communication, my doctor still hasn’t told me what 
+happened. I don’t know if she doesn’t want me to know what happened.” [FG3]
+
+Regardless of the urgency of the situation, women emphasized the expectation that clinicians 
+communicate clearly during and after the encounter.
+
+Feeling heard
+
+Some women in each focus group stressed that they did not feel heard when they tried to 
+voice pain levels, physical symptoms, and treatment preferences. Not feeling listened to 
+fueled perceptions of “assembly line” care that lacked empathy and personal attention, 
+which women found particularly concerning given the severity of their complications.
+
+“My situation may not be new to [the doctors], or as traumatic for them, because 
+they’ve seen it all. But I feel like I just expected a little more attention or feeling 
+that they cared a little bit more … I was very angry about that.” [FG3]
+
+Several women felt that providers dismissed their symptoms as normal consequences of 
+childbirth. For example, one woman after giving birth said,
+
+“I was expressing how I was feeling, and the nurse ruled it off as anxiety. And then 
+I don’t even remember how many hours later, they checked my hemoglobin, my 
+hemoglobin was 5, and then all of the sudden it was like oh my god, oh my god, oh 
+my god, what’s going on?” [FG3]
+
+Some described receiving attention only after prolonged delays, repeated attempts to 
+communicate, or escalation of the severity of the situation, particularly postpartum. As one 
+woman recalled,
+
+“I remember just being written off as like, well, that’s one of the symptoms of 
+‘[condition],’ or whatever. And I just kind of let it go. It wasn’t until four and a half 
+days later when I mentioned it again. And now it was a very severe problem.” 
+[FG3]
+
+Some participants felt that they had limited access to physicians and that nurses were 
+overloaded and unable to be as responsive as possible, which intensified distress. One 
+woman described asking repeatedly for pain medication, noting,
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 8
+
+“The doctor’s nowhere to be seen … So I think that triggers a domino effect where 
+the patients feel … the loneliness, the emptiness … the moral support not being 
+there because the doctor is not around. And then the nurse feels that pressure [from 
+the patient when the doctor is not responsive] … And here you go again, here 
+you’re in pain. Frustrated. You know angry, upset.” [FG2]
+
+Women suggested that even small efforts to elicit their perspectives and answer questions 
+would go a long way in improving patient satisfaction: “For me [providers should] just take 
+the time to listen … five, ten minutes of listening is caring” [FG2]. Having a partner, family 
+member, or other support person to serve as an advocate was helpful when women had 
+limited capacity to speak for themselves during childbirth or postpartum.
+
+Appreciation for life-saving care
+
+While discussions often focused on deficiencies in care, many women also expressed 
+appreciation for the hospital staff who provided critical, life-saving treatment during their 
+obstetric emergency. For example, they said, “I felt like they saved my life. The doctors were 
+excellent. The nurses were excellent” [FG1]; “I felt like they [doctors] were very thorough” 
+[FG3]; and “Just thank you for everything you did for me because it was a big day for me … 
+I appreciate all the care they gave to me” [FG1].
+
+Women were grateful for surviving and emerging from the trauma with a healthy infant:
+
+“I can say the staff were professional. I don’t think we’d be sitting here if it weren’t 
+for them … this was my last, hopefully, pregnancy. I have three wonderful girls, 
+and I’m thankful” [FG1].
+
+Although the experience of complications was difficult and provider communication 
+sometimes lacking, many women acknowledged the care they received ultimately 
+contributed to good outcomes for both themselves and their babies.
+
+Differences among racial/ethnic groups
+
+While many of the same themes of distress, confusion, and an absence of information 
+emerged in each focus group, Black and Latina women discussed dissatisfaction with the 
+consistency, timeliness, and responsiveness of prenatal or delivery care more frequently than 
+White or Asian women. They were frustrated by delayed prenatal appointments, limited 
+facetime with clinicians, and fragmented care processes. Perhaps the most prominent 
+difference among racial/ethnic groups was the degree of choice women had in selecting 
+obstetric providers. Seventy-five percent of Black and Latina participants had Medicaid 
+insurance coverage, which limited their choice of clinicians. Some of these women were 
+cared for in a hospital ambulatory clinic, primarily by rotating residents. As one Black 
+participant stated,
+
+“The doctor in the beginning that you meet, that you got the bond with, you trusted, 
+but the seven [doctors] that come afterwards, [you didn’t trust].” [FG1]
+
+Conversely, White and Asian women, typically privately insured, described a more active 
+provider search based on desired practice and hospital criteria. They typically obtained 
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 9
+
+prenatal care from an obstetric practice with a stable group of providers that they were able 
+to meet during prenatal visits.
+
+“I thought the group was great from day one. They told me [the doctor on delivery 
+was] whoever’s on schedule … So they made sure that you see every single person. 
+Because I was high risk I went so often that I really developed a relationship with 
+all of them. I think in my case that was the best, because they all knew me, and I 
+knew all of them.” [FG3]
+
+Women were asked explicitly whether they believed that sociodemographic characteristics 
+influenced their treatment and quality of care. No one in the Black focus group stated she 
+was explicitly discriminated against because of her race. As one participant put it, “I don’t 
+think it’s [discrimination], I just think it’s the lack of communication.” [FG1] However, this 
+topic generated the most discussion in the focus group with Latina women. Several women 
+felt that public insurance coverage, and not race/ethnicity, language, or nativity, resulted in 
+poorer quality prenatal and hospital care, while one Latina participant disagreed and said she 
+received inferior care as a direct result of her ethnicity:
+
+“I think it’s because of my race. I have pretty good insurance. I definitely think that 
+my race has a lot to do with it” [FG2].
+
+Latina women also reported a lack of attentiveness from clinicians. One described feeling 
+rushed and dismissed in prenatal appointments:
+
+“I kind of felt that they [doctors and midwives] would rush away the conversation 
+and not want to talk about it … And I kind of felt that they were rushing me to just 
+get the visit over and done” [FG2].
+
+They also raised the issue in relation to the delivery hospitalization, describing how they felt 
+like “specimens,” with too many residents observing and discussing their cases and constant 
+abrupt disturbances for examination. Postpartum, they cited not receiving adequate pain 
+medication or assistance with daily functions such as getting in and out of bed and having 
+bed sheets changed.
+
+DISCUSSION
+
+Drawing directly on women’s own narratives, this study elucidated the perinatal health care 
+experiences of women from different racial and ethnic backgrounds who experienced serious 
+obstetric complications. Our sample shared a common experience of severe maternal 
+morbidity as a traumatic event with protracted emotional consequences that, for some, were 
+still apparent during the focus groups that were conducted as long as two years after 
+delivery. We identified elements of prenatal and childbirth care that served to heighten or 
+mitigate the distress associated with maternal complications and found that Black and Latina 
+women tended to report more deficits in the patient experience.
+
+Women in our focus groups reported themes consistent with available literature, including 
+pain, shock, and extended suffering following the morbidity event; frustrations with 
+communication deficiencies before, during, and after the obstetric emergency; gaps in 
+understanding or difficulty remembering details of the morbidity event; and feeling ignored, 
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 10
+
+isolated, and powerless (Furuta et al., 2014; Norhayati et al., 2015; Olde et al., 2006; Souza 
+et al., 2009). Our results demonstrate that for women coping with severe obstetric 
+complications, improved provider-patient communication is a need that is heightened, rather 
+than diminished, during emergency situations (Meaney et al., 2016). Consistent and 
+compassionate communication throughout prenatal and delivery care can prepare patient 
+expectations, improve feelings of agency, manage trauma, and potentially increase patient 
+safety (Burgener, 2017; Hinton et al., 2015).
+
+Our results also demonstrate tangible suffering from severe childbirth morbidity events, 
+consistent with previous work that suggests a profile of symptoms similar to post-traumatic 
+stress (Olde et al., 2006; Souza et al., 2009). Many women expressed an unmet need for 
+information to understand what happened to them after the fact. The postpartum period 
+offers an important but vastly underutilized opportunity to recount and clarify the childbirth 
+experience and mitigate longer-term trauma associated with an obstetric emergency. As 
+others have suggested, postpartum debriefing sessions allow maternity providers to answer 
+lingering questions, offer greater explanatory detail than possible during emergent clinical 
+encounters, and appreciate women’s perspectives on trauma in the childbirth context (Baxter 
+et al., 2014; Meaney et al., 2016). Quantitative evidence documenting the efficacy of these 
+services is limited (Baxter et al., 2014; Rose et al., 2002), and integration into US obstetric 
+care is challenging, given minimal financial coverage for and limited patient uptake of 
+postpartum visits and potential implications for malpractice risk. However, since severe 
+maternal morbidity is a relatively rare event, women with serious pregnancy and childbirth 
+complications may represent a segment of the obstetric population for which implementation 
+of postpartum debriefing services may be feasible, wanted, and useful.
+
+Our study also raises important questions of the role of race and ethnicity in the experience 
+of severe maternal morbidity. Contrary to previous literature, Black women in our study did 
+not describe explicit discrimination in care (McLemore et al., 2018; Shavers et al., 2012). 
+However, we noted that both Black and Latina women raised issues with respect and 
+responsiveness from clinical staff more frequently than did White and Asian women, 
+suggesting instances of implicit bias among clinicians. A growing body of research (Beck et 
+al., 2019; Roman et al., 2017) and media coverage (Martin et al., 2017; Villarosa, 2018) has 
+documented how clinicians’ implicit biases may result in less attentive care and missed 
+opportunities to prevent adverse health outcomes among women of color. There is evidence 
+of racial bias in pain assessment and management among Black patients (Hoffman et al., 
+2016), and that women of color are less likely to receive epidural anesthesia and pain 
+medication than White women (Lange et al., 2017; Morris et al., 2014). Moreover, our study 
+supports previous research documenting how women of color’s experiences of childbirth 
+may be influenced by how providers share or withhold information, leading to an unequal 
+power dynamic and diminished autonomy (Altman et al., 2019; McLemore et al., 2018). 
+This is even more relevant for Black and Latina pregnant women who are additionally 
+impacted by structural racism shaping their access to certain insurance plans, providers, and 
+delivery hospitals (Janevic et al., 2020). Our study suggests that further investigations into 
+these experiences are needed to better understand the effects of institutionalized racism and 
+implicit bias on disparities in maternal outcomes. Operationalizing and measuring specific 
+components of clinician-patient interaction (e.g., timing, duration, content) and 
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 11
+
+inconsistencies across health care encounters among women of color, as well assessing 
+degree of hospital choice and quality shaped by neighborhood and insurance, are priorities 
+for quantitative research on racial and ethnic disparities in perinatal care.
+
+This study is limited by reliance on narratives from a small number of patients at a single 
+institution who experienced severe complications related to childbirth and may not be 
+generalizable to other postpartum women. Still, we believe that our selection criteria specific 
+to severe morbidity provided a degree of homogeneity in the gravity of participant 
+experiences that was helpful in facilitating group cohesion and rich discussion. Moreover, 
+having delivered in the same hospital provided a basis for which clinical experiences across 
+race/ethnicity could be compared. In addition, we acknowledge that while racial/ethnic 
+differences are important, they are inevitably intertwined with socioeconomic factors. The 
+Black and Latina women in our study were disproportionately more likely to have public 
+insurance than in the White/Asian group, which in and of itself is driven by structural 
+racism. Further qualitative analyses comparing women of different races with similar 
+insurance or incomes may further help clarify differences in choice, quality and experience 
+of care. We also cannot exclude the possibility that women under-reported discrimination 
+experiences out of hesitance to disclose this information to researchers at the same 
+institution where they gave birth, though none were directly involved in their care. There 
+may also have been other biases affecting group discussions, including recall bias and 
+groupthink. Finally, the research team’s different positionalities in clinical and public health 
+backgrounds may have influenced interpretation of the results. However, we believe that this 
+diversity broadened and deepened our understanding of these women’s experiences.
+
+IMPLICATIONS FOR PRACTICE AND/OR POLICY
+
+Our study has several implications for reducing disparities in maternal outcomes and 
+improving experiences of childbirth. As mentioned previously, identifying women who 
+suffered complications of birth and offering them opportunities for postpartum debriefing or 
+counseling may be a useful way to identify and address ongoing emotional trauma. We also 
+noted deficiencies in communication among clinical teams and with the participants, 
+particularly for women of color, and further research is needed on the scope and 
+consequences of these inconsistencies by race. Health services interventions include training 
+obstetric providers (both physicians and nurses) in patient-centered care, communication 
+skills, and implicit bias, as well as providing and promoting easy-to-use private reporting 
+mechanisms for discriminatory treatment or poor quality of care. These mechanisms should 
+capture information about race/ethnicity, as well as insurance, to hold institutions and 
+policymakers accountable for health care inequities.
+
+CONCLUSIONS
+
+Severe maternal morbidity, a rare but significant traumatic event, can have long-lasting 
+clinical and emotional consequences for women. The issues identified in this study suggest 
+missed opportunities to improve patient care and experiences when severe obstetric 
+complications occur, particularly for Medicaid-insured Black and Latina women who may 
+be more likely to experience deficiencies in these aspects of care. Even small changes to 
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 12
+
+practice that make women feel heard, informed and consulted could substantially improve 
+the overall patient experience, help manage trauma, and address racial/ethnic disparities in 
+quality of maternal care.
+
+Supplementary Material
+
+Refer to Web version on PubMed Central for supplementary material.
+
+Acknowledgements:
+
+Author EW worked on this study during a summer fellowship funded by the Alpha Omega Alpha Carolyn L. 
+Kuckein Student Research Fellowship and the New York Academy of Medicine David E. Rogers Student 
+Fellowship Award.
+
+Funding: This study was supported by the National Institute on Minority Health and Health Disparities [grant 
+number R01MD007651]. The funders of this study had no role in design and conduct of the study, collection, 
+management, analysis, and interpretation of the data, preparation, review, and approval of the manuscript, or the 
+decision to submit the manuscript for publication. No competing financial interests exist.
+
+Author Biographies
+
+Eileen Wang, BA, is a fourth-year medical student at the Icahn School of Medicine at Mount 
+Sinai and aspiring obstetrician-gynecologist. Her research interests include exploring the 
+impact of social determinants on maternal-child health outcomes and understanding 
+women’s experiences of childbirth and reproduction.
+
+Kimberly Glazer, PhD, MPH is a Postdoctoral Fellow with the Department of Population 
+Health Science & Policy at the Icahn School of Medicine at Mount Sinai. She is a perinatal 
+epidemiologist with research interests in obstetric decision-making and quality of care.
+
+Shoshanna Sofaer, DrPH, MPH is Managing Researcher at the American Institutes for 
+Research and a Senior Fellow at the City University of New York School of Public Health. 
+She is an expert in qualitative research methods and the impact of organizational 
+characteristics on performance.
+
+Amy Balbierz, MPH is a Program Manager in the Department of Population Health Science 
+and Policy at the Icahn School of Medicine at Mount Sinai. Her research interests include 
+maternal child health and reducing health disparities.
+
+Elizabeth Howell, MD, MPP is the Chair of the Department of Obstetrics and Gynecology at 
+the University of Pennsylvania Perelman School of Medicine. She is an expert in racial and 
+ethnic disparities in maternal health outcomes.
+
+REFERENCES
+
+Altman MR, Oseguera T, McLemore MR, Kantrowitz-Gordon I, Franck LS, & Lyndon A (2019). 
+Information and power: Women of color’s experiences interacting with health care providers in 
+pregnancy and birth. Social Science & Medicine , 112491. doi:10.1016/j.socscimed.2019.112491 
+[PubMed: 31434029] 
+
+Baxter JD, McCourt C, & Jarrett PM (2014). What is current practice in offering debriefing services to 
+post partum women and what are the perceptions of women in accessing these services: a critical 
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 13
+
+review of the literature. Social Science & Medicine, 238 Midwifery, 30(2), 194–219. doi:10.1016/
+j.midw.2013.12.013
+
+Beck AF, Edwards EM, Horbar JD, Howell EA, McCormick MC, & Pursley DM (2019). The color of 
+health: how racism, segregation, and inequality affect the health and well-being of preterm infants 
+and their families. Pediatr Res. doi:10.1038/s41390-019-0513-6
+
+Birks M, Chapman Y, & Francis K (2008). Memoing in qualitative research:Probing data and 
+processes. Journal of Research in Nursing, 13(1), 68–75. doi:10.1177/1744987107081254
+Boyd LC, Chazotte C, Illescas A, Johansson EW, Koch A, Langston A, … Searing H (2020). 
+
+Pregnancy-Associated Mortality in New York City, 2011–2015. Long Island City, New York: New 
+York City Department of Health and Mental Hygiene.
+
+Bryant AS, Worjoloh A, Caughey AB, & Washington AE (2010). Racial/ethnic disparities in obstetric 
+outcomes and care: prevalence and determinants. American journal of obstetrics and gynecology, 
+202 (4), 335–343. [PubMed: 20060513] 
+
+Burgener AM (2017). Enhancing Communication to Improve Patient Safety and to Increase Patient 
+
+Satisfaction. Health Care Manag (Frederick), 36(3), 238–243. doi:10.1097/
+HCM.0000000000000165 [PubMed: 28657914] 
+
+Callaghan WM, MacKay AP, & Berg CJ (2008). Identification of severe maternal morbidity during 
+
+delivery hospitalizations, United States, 1991–2003. American journal of obstetrics and gynecology, 
+199(2), 133.e131–133.e138. doi:10.1016/j.ajog.2007.12.020 [PubMed: 18279820] 
+
+Creanga AA, Bateman BT, Kuklina EV, & Callaghan WM (2013). Racial and ethnic disparities in 
+severe maternal morbidity: a multistate analysis, 2008–2010. Am J Obstet Gynecol, 210(5), 435 
+e431–438. doi:10.1016/j.ajog.2013.11.039 [PubMed: 24295922] 
+
+Creanga AA, Syverson C, Seed K, & Callaghan WM (2017). Pregnancy-Related Mortality in the 
+
+United States, 2011–2013. Obstet Gynecol, 130(2), 366–373. doi:10.1097/
+AOG.0000000000002114 [PubMed: 28697109] 
+
+Furuta M, Sandall J, & Bick D (2014). Women’s perceptions and experiences of severe maternal 
+morbidity--a synthesis of qualitative studies using a meta-ethnographic approach. Midwifery, 
+30(2), 158–169. doi:10.1016/j.midw.2013.09.001 [PubMed: 24144992] 
+
+Gadson A, Akpovi E, & Mehta PK (2017). Exploring the social determinants of racial/ethnic 
+
+disparities in prenatal care utilization and maternal outcome. Paper presented at the Semin 
+Perinatol.
+
+Hinton L, Locock L, & Knight M (2015). Maternal critical care: what can we learn from patient 
+
+experience? A qualitative study. BMJ Open, 5(4), e006676. doi:10.1136/bmjopen-2014-006676
+Hoffman KM, Trawalter S, Axt JR, & Oliver MN (2016). Racial bias in pain assessment and treatment 
+
+recommendations, and false beliefs about biological differences between blacks and whites. Proc 
+Natl Acad Sci U S A, 113(16), 4296–4301. doi:10.1073/pnas.1516047113 [PubMed: 27044069] 
+Howell EA, Egorova NN, Balbierz A, Zeitlin J, & Hebert PL (2016a). Site of delivery contribution to 
+black-white severe maternal morbidity disparity. American journal of obstetrics and gynecology, 
+215(2), 143–152. [PubMed: 27179441] 
+
+Howell EA, Egorova NN, Balbierz A, Zeitlin J, & Hebert PL (2016b). Site of delivery contribution to 
+
+black-white severe maternal morbidity disparity. Am J Obstet Gynecol, 215(2), 143–152. 
+doi:10.1016/j.ajog.2016.05.007 [PubMed: 27179441] 
+
+Howell EA, Egorova NN, Janevic TM, Balbierz A, Zeitlin J, & Hebert PL (2017a). Severe maternal 
+
+morbidity among Hispanic women in New York City. Obstetrics & Gynecology, 192(2), 285–294.
+
+Howell EA, & Zeitlin J (2017b). Improving hospital quality to reduce disparities in severe maternal 
+
+morbidity and mortality. Paper presented at the Semin Perinatol.
+
+Hsieh H-F, & Shannon SE (2005). Three Approaches to Qualitative Content Analysis. Qualitative 
+Health Research, 15(9), 1277–1288. doi:10.1177/1049732305276687 [PubMed: 16204405] 
+
+Hughes D, & DuMont K (1993). Using focus groups to facilitate culturally anchored research. 
+American Journal of Community Psychology, 21(6), 775–806. doi:10.1007/bf00942247
+
+Janevic T, Zeitlin J, Egorova N, Hebert PL, Balbierz A, & Howell EA (2020). Neighborhood Racial 
+
+And Economic Polarization, Hospital Of Delivery, And Severe Maternal Morbidity. Health Affairs, 
+39(5), 768–776. 10.1377/hlthaff.2019.00735 [PubMed: 32364858] 
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Wang et al.
+
+Page 14
+
+Jones CP (2000). Levels of racism: a theoretic framework and a gardener’s tale. American Journal of 
+
+Public Health, 90(8), 1212–1215. doi:10.2105/ajph.90.8.1212 [PubMed: 10936998] 
+
+Lange EMS, Rao S, & Toledo P (2017). Racial and ethnic disparities in obstetric anesthesia. Semin 
+
+Perinatol, 41(5), 293–298. doi:10.1053/j.semperi.2017.04.006 [PubMed: 28600029] 
+Martin N, & Montagne R (2017). Nothing protects black women from dying in pregnancy and 
+
+childbirth. ProPublica.
+
+Mayring P (2014). Qualitative content analysis: theoretical foundation, basic procedures and software 
+
+solution.
+
+McLemore MR, Altman MR, Cooper N, Williams S, Rand L, & Franck L (2018). Health care 
+
+experiences of pregnant, birthing and postnatal women of color at risk for preterm birth. Social 
+Science & Medicine, 201, 127–135. doi:10.1016/j.socscimed.2018.02.013
+
+Meaney S, Lutomski JE, L OC, K OD, & Greene RA (2016). Women’s experience of maternal 
+morbidity: a qualitative analysis. BMC Pregnancy Childbirth, 16(1), 184. doi:10.1186/
+s12884-016-0974-0 [PubMed: 27457248] 
+
+Miles MB, & Huberman AM (1994). Qualitative data analysis: An expanded sourcebook, 2nd ed. 
+
+Thousand Oaks, CA, US: Sage Publications, Inc.
+
+Morgan DL, & Krueger RA (1993). Successful Focus Groups: Advancing the State of the Art. In. 
+
+Thousand Oaks, California: SAGE Publications, Inc Retrieved from https://methods.sagepub.com/
+book/successful-focus-groups. doi:10.4135/9781483349008
+
+Morris T, & Schulman M (2014). Race inequality in epidural use and regional anesthesia failure in 
+labor and birth: an examination of women’s experience. Sex Reprod Healthc, 5(4), 188–194. 
+doi:10.1016/j.srhc.2014.09.006 [PubMed: 25433830] 
+
+Norhayati MN, Surianti S, & Nik Hazlina NH (2015). Metasynthesis: Experiences of Women with 
+
+Severe Maternal Morbidity and Their Perception of the Quality of Health Care. PLoS One, 10(7), 
+e0130452. doi:10.1371/journal.pone.0130452 [PubMed: 26132107] 
+
+Olde E, van der Hart O, Kleber R, & van Son M (2006). Posttraumatic stress following childbirth: a 
+review. Clin Psychol Rev, 26(1), 1–16. doi:10.1016/j.cpr.2005.07.002 [PubMed: 16176853] 
+
+Roman LA, Raffo JE, Dertz K, Agee B, Evans D, Penninga K, VanderMeulen P (2017). Understanding 
+
+Perspectives of African American Medicaid-Insured Women on the Process of Perinatal Care: An 
+Opportunity for Systems Improvement. Matern Child Health J, 21(Suppl 1), 81–92. doi:10.1007/
+s10995-017-2372-2 [PubMed: 28965183] 
+
+Rose S, Bisson J, Churchill R, & Wessely S (2002). Psychological debriefing for preventing post 
+
+traumatic stress disorder (PTSD). The Cochrane Database of Systematic Reviews(2).
+
+Shavers VL, Fagan P, Jones D, Klein WM, Boyington J, Moten C, & Rorie E (2012). The state of 
+
+research on racial/ethnic discrimination in the receipt of health care. American Journal of Public 
+Health, 102(5), 953–966. [PubMed: 22494002] 
+
+Silva DV, Silveira Mde F, & Gomes-Sponholz FA (2016). Experiences with severe maternal morbidity: 
+
+a qualitative study on the perception of women. Rev Bras Enferm, 69(4), 662–668. 
+doi:10.1590/0034-7167.2016690407i [PubMed: 27508470] 
+
+Souza JP, Cecatti JG, Parpinelli MA, Krupa F, & Osis MJD (2009). An emerging “maternal near miss 
+syndrome”: Narratives of women who almost died during pregnancy and childbirth. Birth, 36(2), 
+149–158. [PubMed: 19489809] 
+
+Villarosa L (2018). Why America’s Black mothers and babies are in a life-or-death crisis. The New 
+
+York Times Magazine.
+
+Wang E, Glazer KB, Howell EA, & Janevic TM (2020). Social Determinants of Pregnancy-Related 
+Mortality and Morbidity in the United States: A Systematic Review. Obstetrics & Gynecology, 
+135(4), 896–915. [PubMed: 32168209] 
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+ 
+ 
+ 
+ 
+Wang et al.
+
+Page 15
+
+Sociodemographic characteristics of 20 study participants
+
+Table 1.
+
+Variable
+
+N (%)
+
+Self-reported race or ethnicity
+
+White or Asian
+
+Black
+
+Latina
+
+Age (years)
+
+<20
+
+20–29
+
+30–34
+
+35–39
+
+40–44
+
+Education level
+
+Less than high school
+
+High school graduate or GED
+
+Some college or 2-year degree
+
+8 (40)
+
+8 (40)
+
+4 (20)
+
+1 (5)
+
+5 (25)
+
+7 (35)
+
+4 (20)
+
+3 (15)
+
+2 (10)
+
+3 (15)
+
+3 (15)
+
+4-year college graduate or higher
+
+12 (60)
+
+Parity
+
+One
+
+Two
+
+Three or more
+
+Insurance Type
+
+Medicaid
+
+14 (70)
+
+3 (15)
+
+3 (15)
+
+9 (45.0)
+
+Private or Commercial Insurance
+
+11 (55.0)
+
+Marital Status
+
+Married or Living with a partner
+
+13 (65)
+
+Divorced or Separated
+
+Never married
+
+Employment Status
+
+Employed
+
+Nativity
+
+US-Born
+
+Primary Language
+
+English
+
+Annual Income (dollars)
+
+Less than 15,000
+
+15,001–30,000
+
+30,000–45,000
+
+More than 45,000
+
+2 (10)
+
+5 (25)
+
+13 (65)
+
+17 (85)
+
+17 (85)
+
+3 (15)
+
+2 (10)
+
+4 (20)
+
+9 (45)
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+ 
+ 
+ 
+ 
+Wang et al.
+
+Page 16
+
+Variable
+
+Don’t remember or don’t know
+
+Borough
+
+Brooklyn
+
+Bronx
+
+Manhattan
+
+N (%)
+
+2 (10)
+
+1 (5)
+
+6 (30)
+
+8 (40)
+
+Womens Health Issues. Author manuscript; available in PMC 2022 January 01.
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+A
+u
+t
+h
+o
+r
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+ 
+ 
+ 
+ 
+
