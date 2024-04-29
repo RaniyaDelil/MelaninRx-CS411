@@ -105,9 +105,6 @@ function Chatbot() {
                 <a href="/about" className="text-white hover:bg-gray-700 px-3 py-2 mt-3 rounded-md text-sm font-medium">
                   About the Issue
                 </a>
-                <a href="/resources" className="text-white hover:bg-gray-700 px-3 py-2 mt-3 rounded-md text-sm font-medium">
-                  Health Analyst
-                </a>
                 <a href="/sources" className="text-white hover:bg-gray-700 px-3 py-2 mt-3 rounded-md text-sm font-medium">
                       Sources
                     </a>
