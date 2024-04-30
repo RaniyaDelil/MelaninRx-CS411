@@ -2,8 +2,8 @@
 // communicates with the OpenAI API for generating responses
 
 //route to save the conversation in the MongoDB database.
-import connectDB from '../../pages/connectDB';
-import Conversation from '../../pages/Conversation';
+import connectDB from '../backend/connectDB';
+import Conversation from '../../backend/Conversation';
 
 import { OpenAI } from 'openai';
 import { config } from 'dotenv';
